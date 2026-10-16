@@ -61,6 +61,30 @@ for page in range(MAX_PAGES):
     if not cursor or not jobs:
         break
     time.sleep(0.5)
+# Supplement the recent feed with field-specific searches. This prevents niche roles,
+# such as robotics, from disappearing just because they are not among the newest 300.
+for keyword in ("robotics", "robotics engineer", "automation engineer", "mechatronics", "embedded systems", "machine learning", "healthcare", "designer", "teacher", "research", "mechanical engineer"):
+    try:
+        payload = fetch("https://himalayas.app/jobs/api/search?" + urllib.parse.urlencode({"q":keyword,"sort":"recent","page":1}))
+        matches = payload.get("jobs") or []
+        for job in matches:
+            url = job.get("applicationLink")
+            guid = str(job.get("guid") or "")
+            title = str(job.get("title") or "").strip()
+            expiry = timestamp_ms(job.get("expiryDate"))
+            if not (url and url.startswith("https://") and title and guid) or guid in seen:
+                continue
+            if expiry and expiry <= now_ms:
+                continue
+            seen.add(guid)
+            locations = job.get("locationRestrictions") or []
+            names = [x.get("name", x.get("alpha2","")) if isinstance(x,dict) else str(x) for x in locations]
+            records.append({"id":guid,"title":title,"company":job.get("companyName") or "",
+                "url":url,"description":job.get("excerpt") or "","location":names,
+                "published":timestamp_ms(job.get("pubDate")),"expires":expiry,"source":"Himalayas"})
+        time.sleep(0.5)
+    except Exception as exc:
+        print("Optional niche query failed:", keyword, str(exc))
 if not records:
     raise RuntimeError("No valid job listings: previous snapshot preserved")
 OUT.parent.mkdir(parents=True, exist_ok=True)
