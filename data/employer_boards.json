@@ -4,6 +4,16 @@
       "company": "Linear",
       "provider": "ashby",
       "slug": "linear"
+    },
+    {
+      "company": "Notion",
+      "provider": "ashby",
+      "slug": "notion"
+    },
+    {
+      "company": "Spotify",
+      "provider": "lever",
+      "slug": "spotify"
     }
   ]
 }
