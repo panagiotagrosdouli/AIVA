@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AIVA — Account & Saved Opportunities</title>
+<style>
+:root{font:16px/1.55 system-ui,sans-serif;color:#19304b;background:#f5f8fc}*{box-sizing:border-box}body{margin:0}main{width:min(920px,calc(100% - 32px));margin:40px auto}header{display:flex;justify-content:space-between;gap:16px;align-items:center}h1{font-size:clamp(30px,5vw,48px);letter-spacing:-.04em}a{color:#155cae}section{background:white;border:1px solid #d5e0ed;border-radius:18px;padding:25px;margin:20px 0}label{display:block;font-weight:650;margin:12px 0 6px}input,button{font:inherit}input{width:100%;max-width:560px;padding:12px;border:1px solid #a7bbd3;border-radius:10px}button{padding:11px 18px;background:#175ca9;color:white;border:0;border-radius:10px;cursor:pointer;margin:12px 8px 0 0}button.secondary{background:#e9f0fa;color:#164b87}button:disabled{opacity:.5;cursor:not-allowed}.muted{color:#5a6e83}.error{color:#a42132}.ok{color:#1e6b4b}li{margin:12px 0;overflow-wrap:anywhere}.hidden{display:none}input:focus-visible,button:focus-visible{outline:3px solid #5f9fff;outline-offset:2px}
+</style></head>
+<body><main><header><a href="index.html"><strong>AIVA</strong> · Think Further</a><a href="career.html">Career Passport →</a></header>
+<h1>Your AIVA account</h1>
+<p class="muted">Sign in and save opportunities across devices when a dedicated AIVA Supabase backend has been configured. This page does not upload your CV.</p>
+<p id="status" role="status" aria-live="polite"></p>
+<section id="setup"><h2>Account service not configured</h2><p>Authentication is disabled until the AIVA project URL and publishable key are supplied by the site owner. The public jobs explorer remains available.</p><a href="index.html#explore">Browse opportunities</a></section>
+<section id="auth" class="hidden"><h2>Sign in or create account</h2><form id="authForm"><label for="email">Email</label><input id="email" type="email" required autocomplete="email" maxlength="254">
+<label for="password">Password (12+ characters for new accounts)</label><input id="password" type="password" required autocomplete="current-password" minlength="1">
+<div><button type="submit" id="signIn">Sign in</button><button type="button" id="signUp" class="secondary">Create account</button></div></form><p class="muted">Email confirmation may be required. Never reuse your passwords across websites.</p></section>
+<section id="dashboard" class="hidden"><h2>My saved opportunities</h2><p>Signed in as <strong id="who"></strong></p>
+<form id="saveForm"><label for="jobId">Opportunity ID</label><input id="jobId" type="text" required placeholder="UUID of a published opportunity"><button type="submit">Save opportunity</button></form>
+<p class="muted">Only published opportunities in the AIVA database can be saved. Imported job feed entries need a backend import before they appear here.</p><ul id="savedList"></ul><button id="signOut" class="secondary" type="button">Sign out</button></section>
+</main>
+<script type="module">
+import {createClient} from "https://esm.sh/@supabase/supabase-js@2.57.0";
+const el=id=>document.getElementById(id), show=(id,yes)=>el(id).classList.toggle("hidden",!yes);
+const message=(s,bad=false)=>{el("status").textContent=s;el("status").className=bad?"error":"ok"};
+let config;
+try{const response=await fetch("./aiva-config.json",{cache:"no-store"});if(response.ok)config=await response.json()}catch{}
+const ready=config&&/^https:\/\/[a-z0-9-]+\.supabase\.co\/?$/.test(config.supabaseUrl||"")&&typeof config.supabasePublishableKey==="string"&&config.supabasePublishableKey.length>20&&!config.supabasePublishableKey.includes("REPLACE");
+if(ready){
+  const supabase=createClient(config.supabaseUrl,config.supabasePublishableKey,{auth:{persistSession:true,autoRefreshToken:true,detectSessionInUrl:true}});
+  show("setup",false);
+  const refresh=async()=>{
+    const {data:{user},error}=await supabase.auth.getUser();
+    if(error&&error.name!=="AuthSessionMissingError")message(error.message,true);
+    show("auth",!user);show("dashboard",!!user);
+    if(!user)return;
+    el("who").textContent=user.email||"user";
+    const {data,error:loadError}=await supabase.from("saved_opportunities").select("opportunity_id, saved_at, opportunities(title, original_url)").order("saved_at",{ascending:false}).limit(100);
+    if(loadError){message("Saved opportunities cannot load: "+loadError.message,true);return}
+    const list=el("savedList");list.replaceChildren();
+    for(const item of data||[]){
+      const li=document.createElement("li"),a=document.createElement("a");
+      a.href=item.opportunities?.original_url||"#";a.textContent=item.opportunities?.title||item.opportunity_id;
+      a.target="_blank";a.rel="noopener noreferrer";li.append(a);
+      const remove=document.createElement("button");remove.type="button";remove.className="secondary";remove.textContent="Remove";
+      remove.addEventListener("click",async()=>{const {error}=await supabase.from("saved_opportunities").delete().eq("opportunity_id",item.opportunity_id);if(error)message(error.message,true);else{message("Removed.");await refresh()}});
+      li.append(remove);list.append(li);
+    }
+    if(!list.children.length)list.textContent="No saved opportunities yet.";
+  };
+  el("authForm").addEventListener("submit",async e=>{
+    e.preventDefault();const {error}=await supabase.auth.signInWithPassword({email:el("email").value.trim(),password:el("password").value});
+    if(error)message(error.message,true);else{el("password").value="";message("Signed in.");await refresh()}
+  });
+  el("signUp").addEventListener("click",async()=>{
+    if(!el("email").reportValidity()||!el("password").reportValidity())return;
+    if(el("password").value.length<12){message("Choose a password with at least 12 characters.",true);return}
+    const {error}=await supabase.auth.signUp({email:el("email").value.trim(),password:el("password").value,options:{emailRedirectTo:new URL("account.html",location.href).href}});
+    if(error)message(error.message,true);else message("Account request received. Check email for confirmation if required.");
+    el("password").value="";
+  });
+  el("saveForm").addEventListener("submit",async e=>{
+    e.preventDefault();const id=el("jobId").value.trim();
+    if(!/^[a-f\d]{8}-[a-f\d]{4}-[1-8][a-f\d]{3}-[89ab][a-f\d]{3}-[a-f\d]{12}$/i.test(id)){message("Enter a valid opportunity UUID.",true);return}
+    const {data:{user}}=await supabase.auth.getUser();if(!user){message("Sign in first.",true);return}
+    const {error}=await supabase.from("saved_opportunities").insert({user_id:user.id,opportunity_id:id});
+    if(error)message(error.message,true);else{el("jobId").value="";message("Opportunity saved.");await refresh()}
+  });
+  el("signOut").addEventListener("click",async()=>{const {error}=await supabase.auth.signOut();if(error)message(error.message,true);else{message("Signed out.");await refresh()}});
+  supabase.auth.onAuthStateChange(()=>{setTimeout(refresh,0)});
+  await refresh();
+}
+</script></body></html>
