@@ -71,6 +71,7 @@ footer{color:#53677d!important}
 const $=id=>document.getElementById(id),esc=s=>String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 let jobs=[];let loaded=false;
 fetch("./data/jobs.json?v="+Date.now()).then(r=>{if(!r.ok)throw Error();return r.json()}).then(d=>{jobs=(d.jobs||[]).filter(j=>j.title&&/^https:\/\//.test(j.url)&&(!j.expires||j.expires>Date.now()));loaded=true;$("status").textContent=jobs.length+" sourced job listings · updated "+(d.updated_at||"unknown").slice(0,10)}).catch(()=>{$("status").textContent="Live job feed not available yet. Check again after the GitHub Actions sync."});
+fetch("./data/employer_jobs.json?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw Error("Not ready");return r.json()}).then(d=>{if(!d.updated_at||Date.now()-Date.parse(d.updated_at)>48*3600000)return;const actual=(d.jobs||[]).filter(j=>j.employer_verified_source&&/^https:\/\//.test(j.url)&&j.title&&j.company);jobs=[...actual,...jobs.filter(j=>!actual.some(a=>a.url===j.url))];loaded=true;$("status").textContent=jobs.length+" sourced job listings, including direct employer postings";}).catch(()=>{});
 $("cv").addEventListener("change",async()=>{
 const f=$("cv").files[0];if(!f)return;const m=$("message");m.textContent="Reading CV locally...";
 try{
