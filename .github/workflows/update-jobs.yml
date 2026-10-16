@@ -1,6 +1,12 @@
 name: Update real job listings
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/sync_employers.py'
+      - 'scripts/sync_jobs.py'
+      - 'data/employer_boards.json'
+      - '.github/workflows/update-jobs.yml'
   schedule:
     - cron: '17 */6 * * *'
 permissions:
