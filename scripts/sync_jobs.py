@@ -11,11 +11,11 @@ from datetime import datetime, timezone
 
 OUT = pathlib.Path("data/jobs.json")
 ENDPOINT = "https://himalayas.app/jobs/api"
-MAX_PAGES = 15  # max 300 recent jobs, within free public API limits
+MAX_PAGES = 4  # max 300 recent jobs, within free public API limits
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent":"AIVA-Opportunity-Discovery/1.0", "Accept":"application/json"})
-    with urllib.request.urlopen(req, timeout=35) as response:
+    with urllib.request.urlopen(req, timeout=12) as response:
         return json.load(response)
 
 def timestamp_ms(value):
@@ -60,10 +60,10 @@ for page in range(MAX_PAGES):
     cursor = payload.get("nextCursor")
     if not cursor or not jobs:
         break
-    time.sleep(0.5)
+    time.sleep(0.3)
 # Supplement the recent feed with field-specific searches. This prevents niche roles,
 # such as robotics, from disappearing just because they are not among the newest 300.
-for keyword in ("robotics", "robotics engineer", "automation engineer", "mechatronics", "embedded systems", "machine learning", "healthcare", "designer", "teacher", "research", "mechanical engineer"):
+for keyword in ("robotics", "mechatronics", "embedded systems", "healthcare", "teacher", "research"):
     try:
         payload = fetch("https://himalayas.app/jobs/api/search?" + urllib.parse.urlencode({"q":keyword,"sort":"recent","page":1}))
         matches = payload.get("jobs") or []
