@@ -1,0 +1,13 @@
+{
+  "name": "aiva-platform",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "check": "node --check api/checkout.js && node --check api/stripe-webhook.js && node --check api/employer-opportunities.js && python3 scripts/verify_site.py"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.57.0",
+    "stripe": "19.1.0"
+  }
+}
