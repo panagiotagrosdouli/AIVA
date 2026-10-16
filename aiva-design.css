@@ -1,0 +1,29 @@
+/* AIVA v5 — shared visual system across all product surfaces */
+:root{--aiva-bg:#080e1b;--aiva-panel:#111c30;--aiva-panel-2:#16233a;--aiva-stroke:#2a3a55;--aiva-ink:#f0f5ff;--aiva-muted:#a3b4d2;--aiva-accent:#8be8ce;--aiva-blue:#85a9ff;--aiva-radius:20px}
+html{scroll-behavior:smooth}body{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif!important;background:#080e1b!important;color:#f0f5ff!important;line-height:1.6!important}
+h1,h2,h3,h4{letter-spacing:-.035em;color:#f2f6ff!important}a{color:#a3e9db}a:hover{opacity:.9}p,.muted,small,footer{color:#a6b8d2}button,input,select,textarea{font:inherit}button{transition:transform .15s ease,background .15s ease}button:hover:not(:disabled){transform:translateY(-1px)}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #87e5d0!important;outline-offset:3px}
+body :is(.panel,.job,.match-item,.opportunity,.step,.plan,.cat,.filter-panel,.result,section#auth,section#dashboard,section#setup){background:#121f34!important;border:1px solid #2a3b58!important;color:#f0f5ff!important;box-shadow:none!important;border-radius:18px!important}
+body :is(.panel,.job,.result,.opportunity,.cat) p,body :is(.panel,.job,.result,.opportunity,.cat) small{color:#adbed7!important}
+body :is(.panel,.job,.result,.opportunity,.cat) h2,body :is(.panel,.job,.result,.opportunity,.cat) h3{color:#f2f6ff!important}
+body :is(input,select,textarea){background:#0b1729!important;color:#f0f5ff!important;border:1px solid #445675!important;border-radius:11px!important}body :is(input,textarea)::placeholder{color:#8599b7!important}
+body :is(button,.button,.btn){background:#8be8ce!important;border:1px solid #8be8ce!important;color:#07251f!important;font-weight:750!important;box-shadow:none!important;border-radius:12px!important}
+body :is(button.secondary,.btn.outline,.swipe-controls button.pass){background:#1b2c46!important;color:#e1edff!important;border:1px solid #425978!important}
+body :is(.badge,.pill,.eyebrow,.tag){background:#173a3c!important;color:#a5fae3!important;border:1px solid #377a71!important}
+body :is(.notice,.demo-disclaimer,.empty){background:#172a42!important;color:#cad9ec!important;border:1px solid #365473!important;border-radius:12px!important}
+body :is(.top,header){background:#0b1424!important;border-color:#273a56!important}
+body .brand,body header b{color:#f2f6ff!important}
+body .lead,body .section-lead,body .small-note{color:#b2c2db!important}
+body .foot{background:#080e1b!important;color:#a6b8d2!important}
+body .aiva-focus,body .cta{background:linear-gradient(140deg,#182d42,#132239)!important;border-color:#315267!important;color:#f4f7ff!important}
+body .aiva-focus-points div,body .aiva-trustbar span{background:#162a3e!important;color:#d3e6ef!important;border-color:#365069!important}
+body .hero{background:radial-gradient(ellipse at 80% 20%,#214b56 0%,transparent 58%),#080e1b!important}
+body .radar{background:linear-gradient(140deg,#15363d,#142038)!important;border-color:#3b756e!important}
+body .rings{border-color:#66b6a8!important}body .rings strong{color:#f0f5ff!important}
+body .navlinks a:not(.btn),body header a{color:#d8e9f8!important}
+body .field label,body label{color:#c6d7ea!important}
+body .score,body .interests{color:#8be8ce!important}
+body .swipe-card{background:linear-gradient(140deg,#173b3f,#152640)!important;border-color:#396a68!important;color:#f2f6ff!important}
+body .swipe-card h3,body .swipe-card p{color:#eaf5ff!important}
+body .navlinks{flex-wrap:wrap}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
