@@ -2,9 +2,11 @@ name: Update real job listings
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - 'scripts/sync_employers.py'
       - 'scripts/sync_jobs.py'
+      - 'scripts/sync_europe_jobs.py'
       - 'data/employer_boards.json'
       - '.github/workflows/update-jobs.yml'
   schedule:
@@ -24,11 +26,15 @@ jobs:
       - name: Fetch official employer postings
         continue-on-error: true
         run: python scripts/sync_employers.py
+      - name: Fetch European jobs (on-site, hybrid and remote)
+        continue-on-error: true
+        run: python scripts/sync_europe_jobs.py
       - name: Commit updated feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/jobs.json
+          if test -f data/europe_jobs.json; then git add data/europe_jobs.json; fi
           if test -f data/employer_jobs.json; then git add data/employer_jobs.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "Update sourced global job listings"
