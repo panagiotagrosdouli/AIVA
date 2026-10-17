@@ -2,6 +2,7 @@ name: Update real job listings
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - 'scripts/sync_employers.py'
       - 'scripts/sync_jobs.py'
