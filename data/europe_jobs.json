@@ -1,8 +1,65 @@
 {
-  "updated_at": "2026-10-17T10:13:28.325663+00:00",
+  "updated_at": "2026-10-17T10:39:46.679264+00:00",
   "source": "Arbeitnow",
   "coverage": "Mostly Europe; mixed remote, hybrid and on-site",
   "jobs": [
+    {
+      "id": "arbeitnow:software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
+      "title": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
+      "company": "Auralis Group",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
+      "description": "Wir sind ein fast zwei Jahre altes IT-Unternehmen mit aktuell 90 MA und wachsen weiter 🚀 Dafür suchen wir Verstärkung im Bereich Software Testing & Testautomatisierung, um spannende Projekte bei unseren Kunden umzusetzen.  Aufgaben  Du willst:    Deine Arbeitszeiten selbst bestimmen?    von zuhause aus arbeiten (remote)?    nicht nur testen, sondern Qualität aktiv gestalten?    Testautomatisierung auf das nächste Level bringen?    den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und Qualität strategisch aufbaut?    einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt?    Dann bist Du bei uns genau richtig.  Qualifikation  Du:    bist seit mindestens 4 Jahren im Bereich Software Testing / QA tätig?    hast fundierte Erfahrung in  Testautomatisierung  (z. B. mit Cucumber, Playwright, Selenium oder Cypress)?    kennst Dich mit  Testframeworks  und  BDD/TDD-Ansätzen  aus?    hast Erfahrung mit  API-Testing  (z. B. REST, Postman, REST Assured)?",
+      "location": [
+        "Markt Indersdorf"
+      ],
+      "remote": true,
+      "tags": [
+        "Remote",
+        "Quality Assurance",
+        "Inspection"
+      ],
+      "published": 1792231250000,
+      "expires": null,
+      "source": "Arbeitnow",
+      "source_url": "https://www.arbeitnow.com/"
+    },
+    {
+      "id": "arbeitnow:java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
+      "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+      "company": "Auralis Group",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
+      "description": "Wir sind ein fast zwei Jahre altes IT Unternehmen, aktuell 80 MA, und suchen nun weiterhin Verstärkung, um Java-Projekte bei unseren Kunden durchzuführen. \n Aufgaben \n Du willst: \n \n Deine Arbeitszeiten selbst bestimmen? \n von zuhause aus arbeiten (remote)? \n den nächsten Schritt in Deiner Karriere gehen und lernen, wie man Teams leitet und ein Unternehmen führt? \n einen Arbeitgeber, der Dich leistungs- und ergebnisorientiert bezahlt? \n \n Qualifikation \n Du: \n \n bist seit 5 Jahren in Vollzeit berufstätig im Bereich Softwareentwicklung? \n hast einen starken Fokus auf eine oder mehrere Programmiersprachen wie z.B. Java (Spring Boot), oder Kotlin und bist dort ein absoluter Experte? \n hast Erfahrung in Cloud-Infrastrukturen und Deployment-Prozessen gesammelt? \n bringst Erfahrung in einem der großen Cloud-Dienstleister (AWS, Azure, GCP) mit? \n bringst Erfahrung im Frontend (Angular, React, oder Vue) mit? \n bist nicht kontaktscheu und kommunikationsfreudig? \n bist gesegnet mit einem Growth ",
+      "location": [
+        "Berlin"
+      ],
+      "remote": true,
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "published": 1792231250000,
+      "expires": null,
+      "source": "Arbeitnow",
+      "source_url": "https://www.arbeitnow.com/"
+    },
+    {
+      "id": "arbeitnow:werkstudent-kommunale-warmeplanung-munich-224996",
+      "title": "Werkstudent kommunale Wärmeplanung (m/w/q)",
+      "company": "FREQUENTUM",
+      "url": "https://www.arbeitnow.com/jobs/companies/frequentum/werkstudent-kommunale-warmeplanung-munich-224996",
+      "description": "Werde Teil von Frequentum, einem innovativen Unternehmen, das die Energiewirtschaft und Wohnungsbranche unterstützt. Als Werkstudent in der kommunalen Wärmeplanung (m/w/q) in  München arbeitest du in einem dynamischem Team. Mit uns planst du zukunftsweisende Lösungen wie Wärmenetze und Wärmepumpe. Eingebettet in ein motiviertes Team von 22 Mitarbeitenden, hast du die Chance, wertvolle Praxiserfahrungen zu sammeln und deine Ideen wirklich einzubringen. Bei Frequentum erwartet dich ein spannendes Arbeitsumfeld in der Energie- und Immobilienbranche, in dem du nicht nur lernen, sondern auch aktiv mitgestalten kannst.    Unterstützung bei der Erstellung kommunaler Wärmeplanung in Berlin und Bayern.    Mitarbeit an der Entwicklung von Konzepten zur Integration erneuerbarer Energien in die kommunale Wärmeversorgung.    Nutzung von GIS, QGIS, ENEKA, Enerlabs, nPro, Stanet    Erstellung von Berichten und Präsentationen zur Kommunikation mit kommunalen Partnern und Stakeholdern.    Durchführung ",
+      "location": [
+        "Munich"
+      ],
+      "remote": false,
+      "tags": [
+        "Power Engineering and Environmental Engineering"
+      ],
+      "published": 1792231250000,
+      "expires": null,
+      "source": "Arbeitnow",
+      "source_url": "https://www.arbeitnow.com/"
+    },
     {
       "id": "arbeitnow:managing-director-focus-on-accounting-office-schonefeld-288577",
       "title": "Managing Director (m/f/d) - Focus on Accounting & Office",
@@ -1742,60 +1799,6 @@
         "Operations"
       ],
       "published": 1792172418000,
-      "expires": null,
-      "source": "Arbeitnow",
-      "source_url": "https://www.arbeitnow.com/"
-    },
-    {
-      "id": "arbeitnow:remote-senior-engineering-operations-manager-128137",
-      "title": "Senior Engineering Operations Manager",
-      "company": "Camunda",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-engineering-operations-manager-128137",
-      "description": "Camunda is  the enterprise platform for agentic orchestration , enabling organizations to coordinate  AI agents, people, and systems  across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale.  Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences.   Fully remote and global,  we are in the middle of something bigger:  transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team.  Named   GP Bullhound’s Top 100 Next Unicorn list,    2025 Great Place to Work certified.    Visionary     in    2025 Gartner® Magic Quadrant™      for Business Orchestration and Automation",
-      "location": [
-        "Remote"
-      ],
-      "remote": true,
-      "tags": [
-        "Products"
-      ],
-      "published": 1792172417000,
-      "expires": null,
-      "source": "Arbeitnow",
-      "source_url": "https://www.arbeitnow.com/"
-    },
-    {
-      "id": "arbeitnow:technical-program-manager-iii-automotive-mapbox-germany-52873",
-      "title": "Technical Program Manager III, Automotive",
-      "company": "Mapbox",
-      "url": "https://www.arbeitnow.com/jobs/companies/mapbox/technical-program-manager-iii-automotive-mapbox-germany-52873",
-      "description": "Mapbox is the leading real-time location platform for a new generation of location-aware businesses. Mapbox is the only platform that equips organizations with the full set of tools to power the navigation of people, packages, and vehicles everywhere. More than 4 million registered developers have chosen Mapbox because of the platform’s flexibility, security and privacy compliance. Organizations use Mapbox applications, data, SDKs and APIs to create customized and immersive experiences that delight their customers.      What We Do   At Mapbox, Technical Program Managers (TPMs) ensure successful, on-time launches for Mapbox's key customers by turning complex needs into realized value. TPMs independently develop and execute strategies to maximize customer satisfaction, while minimizing thrash in changes to priorities and roadmap. They provide high-judgement updates to Mapbox leaders–keeping them informed on progress while handling the day-to-day operations independently.      What You'll",
-      "location": [
-        "Mapbox Germany"
-      ],
-      "remote": false,
-      "tags": [
-        "Customer Engagement"
-      ],
-      "published": 1792172417000,
-      "expires": null,
-      "source": "Arbeitnow",
-      "source_url": "https://www.arbeitnow.com/"
-    },
-    {
-      "id": "arbeitnow:staff-ai-deployment-strategist-dach-munich-421204",
-      "title": "Staff AI Deployment Strategist - DACH",
-      "company": "Mistral.ai",
-      "url": "https://www.arbeitnow.com/jobs/companies/mistralai/staff-ai-deployment-strategist-dach-munich-421204",
-      "description": "About Mistral   Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms.  We are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-spirited.     The Role      As  Staff AI Deployment Strategist , you will shape how some of the most ambitious enterprises in the DACH region adopt frontier AI at scale.  This is a senior, high-impact role at the intersection of strategy, technology, and execution. You will work directly on Mistral’s most strategic opportunities a",
-      "location": [
-        "Munich"
-      ],
-      "remote": false,
-      "tags": [
-        "Solutions"
-      ],
-      "published": 1792172417000,
       "expires": null,
       "source": "Arbeitnow",
       "source_url": "https://www.arbeitnow.com/"
