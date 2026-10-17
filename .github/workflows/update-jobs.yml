@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/sync_employers.py'
+      - 'scripts/verify_curated_jobs.py'
       - 'scripts/sync_jobs.py'
       - 'scripts/sync_europe_jobs.py'
       - 'data/employer_boards.json'
@@ -29,11 +30,15 @@ jobs:
       - name: Fetch European jobs (on-site, hybrid and remote)
         continue-on-error: true
         run: python scripts/sync_europe_jobs.py
+      - name: Verify curated employer vacancies
+        continue-on-error: true
+        run: python scripts/verify_curated_jobs.py
       - name: Commit updated feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/jobs.json
+          if test -f data/curated_jobs.json; then git add data/curated_jobs.json; fi
           if test -f data/europe_jobs.json; then git add data/europe_jobs.json; fi
           if test -f data/employer_jobs.json; then git add data/employer_jobs.json; fi
           if ! git diff --cached --quiet; then
