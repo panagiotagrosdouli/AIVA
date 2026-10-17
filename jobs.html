@@ -25,12 +25,45 @@ input:focus-visible,select:focus-visible,button:focus-visible,a:focus-visible{ou
 .pager{display:flex;align-items:center;justify-content:center;gap:18px;margin:28px 0}.pager span{color:#bbcfe0;font-size:13px}
 footer{padding:26px 0;border-top:1px solid #294254;color:#9eb4c9;font-size:13px}
 @media(max-width:730px){main{padding-top:35px}.searchbar{grid-template-columns:1fr}#results{grid-template-columns:1fr}}
+
+/* AIVA Job Discovery — light, editorial redesign */
+:root{color-scheme:light;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#fff;color:#19253e}
+body{background:#fff;color:#19253e}
+header{background:#fff;border-bottom:1px solid #e8edf5;position:sticky;top:0;z-index:10}
+.wrap{max-width:1200px;padding-left:28px;padding-right:28px}
+.nav{padding:19px 0}.brand{color:#1b2d59;font-size:24px;letter-spacing:-.055em}.brand:after{content:".";color:#695cf5}
+.navlinks{gap:28px;align-items:center}.navlinks a{color:#41516d;font-weight:600}.navlinks a:hover{color:#6156de}
+main{padding-top:70px;padding-bottom:105px}
+.eyebrow{color:#6357dc;letter-spacing:.14em;font-size:12px}
+h1{font-size:clamp(43px,5.7vw,73px);letter-spacing:-.065em;color:#182950;max-width:800px;margin:17px 0 16px;font-weight:800}
+.lead{max-width:740px;font-size:17px;color:#63718b;line-height:1.7}
+.searchbar{margin-top:40px;padding:12px;background:white;border:1px solid #e1e7f1;box-shadow:0 16px 55px #20345c13;border-radius:19px;grid-template-columns:minmax(0,2fr) minmax(180px,1fr) auto;gap:10px}
+input,select{background:white;color:#273653;border:1px solid #e1e6ef;border-radius:10px;padding:16px}
+input::placeholder{color:#8290a7}input:focus-visible,select:focus-visible,button:focus-visible,a:focus-visible{outline:3px solid #b1aaff;outline-offset:2px}
+button{background:#6457eb;border:1px solid #6457eb;color:white;border-radius:10px;padding:16px 23px;font-weight:750;box-shadow:none}
+button:hover:not(:disabled){background:#5144d6}button:disabled{background:#bdc3d1;border-color:#bdc3d1;color:#3d4b64}
+.meta{margin-top:31px;margin-bottom:21px;color:#677792;font-size:14px}
+.meta select{padding:9px 11px;border-radius:8px;background:#fff}
+#results{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.job{background:#fff;border:1px solid #e3e8f0;border-radius:17px;padding:27px;min-height:265px;box-shadow:0 3px 15px #19335c08;transition:border-color .15s,transform .15s,box-shadow .15s}
+.job:hover{border-color:#b9b3ff;box-shadow:0 12px 34px #23396312;transform:translateY(-2px)}
+.job h2{color:#17274b;margin:16px 0 8px;font-size:21px}
+.company{color:#4f6080;font-weight:650;font-size:15px}
+.details{color:#6c7b94;font-size:13px}.summary{color:#687790}
+.tag{color:#5445c8;background:#f0eeff;border:1px solid #e4e1ff;font-weight:650}
+.apply{color:#5b4fe1;font-weight:750}.apply:hover{text-decoration:underline}
+.notice{background:#f6f8fc;border:1px solid #e4e9f3;color:#64728b;border-radius:14px}
+#sourceNote{margin-top:42px}
+.pager span{color:#697990}
+footer{border-top:1px solid #e7ebf2;background:#fbfcff;color:#75829a}
+footer a{color:#5f52dd}
+@media(max-width:730px){.wrap{padding-left:19px;padding-right:19px}.navlinks{gap:14px}.navlinks a{font-size:12px}main{padding-top:45px}.searchbar{grid-template-columns:1fr;padding:12px}#results{grid-template-columns:1fr}.job{min-height:auto}h1{font-size:44px}}
 </style>
 </head>
 <body><header><div class="wrap nav"><a class="brand" href="index.html">AIVA</a><nav class="navlinks" aria-label="Main navigation"><a href="index.html">Home</a><a href="career.html">Career Passport</a><a href="platform.html">Opportunities</a></nav></div></header>
 <main class="wrap">
-<div class="eyebrow">AIVA / Career discovery</div><h1>Find your next opportunity.</h1>
-<p class="lead">Explore remote roles imported from a third-party provider. Filter by keyword and listed location, then review eligibility and apply on the original website. AIVA does not accept applications or guarantee that a role remains open.</p>
+<div class="eyebrow">DISCOVER YOUR NEXT MOVE</div><h1>Find a job that fits your future.</h1>
+<p class="lead">Explore opportunities from sourced remote job listings. Search by role or company, filter locations, and apply directly through the original employer listing.</p>
 <form id="searchForm" class="searchbar" role="search">
 <label><span class="sr-only" style="position:absolute;clip:rect(0,0,0,0);height:1px;width:1px;overflow:hidden">Job title, skill or company</span><input id="query" type="search" placeholder="Job title, skill or company" autocomplete="off"></label>
 <label><span class="sr-only" style="position:absolute;clip:rect(0,0,0,0);height:1px;width:1px;overflow:hidden">Listed location</span><select id="country"><option value="">All listed locations</option></select></label>
