@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T04:46:16.669700+00:00",
+  "updated_at": "2026-10-20T11:32:19.460925+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2354,20 +2354,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:71eb64a0-ce99-4166-8462-bad3901a967c",
-      "title": "Backend Engineer - Platform Security",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/71eb64a0-ce99-4166-8462-bad3901a967c/apply",
-      "description": " \n The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. \n We are looking for a Backend Engineer II to join our Security Compliance Engineering team. You’ll help turn complex security, risk, and compliance requirements into scalable software solutions that make it easier for teams across Spotify to build and operate securely. You’ll work with engineers and partners across security to strengthen our technical Governance, Risk, and Compliance (GRC) capabilities. \n ",
-      "location": [
-        "London"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "lever:186b763a-2a61-4563-8813-ff6b40c9c8a7",
       "title": "Backend Engineer II - Data Platform",
       "company": "Spotify",
@@ -2774,6 +2760,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:03437e2a-2d5e-4593-9e97-11271014932e",
+      "title": "Product Manager - Data Platform",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e/apply",
+      "description": "Spotify’s mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators.\nData is a means to an end, and Spotify extracts value from data through application. The Data Platform Studio helps Spotify win by enabling the application of data in an intuitive and efficient way.\nData Platform is responsible for how data is collected, processed, stored, governed, and made available to the thousands of engineers, data scientists, analysts, and machine learning practitioners who build Spotify’s products. As AI agents increasingly generate code, write data pipelines, and power personalized user experiences, Data Platform sits at the center of one of the most important infrastructure domains at Spotify.\nWe're looking for a passionate Product Manager to join the team responsible for Spotify’s data catalogue, metadata, and data lineage capabilities. In this role, you'll own the strategy and roadmap for a critical part of Spotify's data ecosystem, helpin",
+      "location": [
+        "Toronto"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:0eebb462-b5a2-4e3a-b830-d8ef7505b014",
       "title": "Research Scientist - Generative Audio",
       "company": "Spotify",
@@ -3005,20 +3005,6 @@
       "description": "Senior Fullstack Engineer – Internationalisation Platform\n \nThe Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nWithin Platform, the Internationalisation team makes Spotify feel local everywhere. We build the systems, tools, and frameworks that power language support, localization workflows, cultural adaptation, and global feature rollouts across more than 180 markets. Our work ensures that when Spotify launches something new, it resonates just as well in São Paulo as it does in Stockholm.\nWe’re looking for a Senior Fullstack Engineer who cares deeply about building scalable systems and seamless user experiences — and who understands that great internationalisation is both a technical and cultural challenge.\n",
       "location": [
         "Stockholm"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "lever:2344260b-477c-4086-b5a5-842dc4c587f0",
-      "title": "Senior Fullstack Engineer - Messaging Platform",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/2344260b-477c-4086-b5a5-842dc4c587f0/apply",
-      "description": "The Subscriptions Mission builds and scales the products, platforms, and business models that convert free listeners into lifelong Premium subscribers. We focus on driving acquisition, optimizing conversion, improving retention, and delivering seamless commerce experiences that fuel Spotify’s growth and bring fans closer to the creators they love.\nSpotify's messaging platform reaches over 1.4 billion users and delivers tens of billions of messages across email, push, and in-app channels. Beacon is the team behind Quicksilver, the internal platform operators use to create, localize, target, and launch those messages. We're looking for a Senior Engineer to help us build intuitive, reliable tools that power how Spotify communicates with listeners at scale.\n",
-      "location": [
-        "New York, NY"
       ],
       "published": null,
       "expires": null,
@@ -3418,7 +3404,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 82
+      "roles": 81
     }
   ],
   "errors": []
