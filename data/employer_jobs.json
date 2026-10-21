@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:44:59.276124+00:00",
+  "updated_at": "2026-10-21T17:09:47.846220+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2592,6 +2592,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:4e4ab485-06f1-46b1-88e0-44f3fda4b62a",
+      "title": "Growth Lead - Japan",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/4e4ab485-06f1-46b1-88e0-44f3fda4b62a/apply",
+      "description": " Join Spotify's Japan Growth team and help more listeners discover the value of Spotify Premium. As part of our Markets &amp; Subscriptions organisation, you'll play a key role in growing our subscriber base in one of Spotify's most important markets. \n  Japan is Spotify's only single-country region, and we're entering an exciting new chapter focused on partnerships and sustainable growth. Working across marketing, product, data and commercial teams, you'll shape our growth strategy, turn customer insights into action and find new ways to connect Japanese listeners with Spotify Premium. You'll have the opportunity to make a meaningful impact while developing your leadership responsibilities over time. ",
+      "location": [
+        "Tokyo"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:0bbac931-32eb-4ceb-9477-41f1e8d8b01d",
       "title": "Growth Manager MENAT+",
       "company": "Spotify",
@@ -2780,7 +2794,7 @@
       "url": "https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e/apply",
       "description": "Spotify’s mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators.\nData is a means to an end, and Spotify extracts value from data through application. The Data Platform Studio helps Spotify win by enabling the application of data in an intuitive and efficient way.\nData Platform is responsible for how data is collected, processed, stored, governed, and made available to the thousands of engineers, data scientists, analysts, and machine learning practitioners who build Spotify’s products. As AI agents increasingly generate code, write data pipelines, and power personalized user experiences, Data Platform sits at the center of one of the most important infrastructure domains at Spotify.\nWe're looking for a passionate Product Manager to join the team responsible for Spotify’s data catalogue, metadata, and data lineage capabilities. In this role, you'll own the strategy and roadmap for a critical part of Spotify's data ecosystem, helpin",
       "location": [
-        "Toronto"
+        "London"
       ],
       "published": null,
       "expires": null,
@@ -3404,7 +3418,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 78
+      "roles": 79
     }
   ],
   "errors": []
