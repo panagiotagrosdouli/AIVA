@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T17:09:47.846220+00:00",
+  "updated_at": "2026-10-21T21:40:34.314905+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2298,6 +2298,34 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:11e56782-ee28-4025-ba0e-76222b0bfcea",
+      "title": "AI Product Manager, Growth Marketing",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/11e56782-ee28-4025-ba0e-76222b0bfcea/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nTruly unique opportunity to shape and scale self-optimizing paid marketing systems for Growth. This role exists to turn our performance marketing experimentation program from a protot",
+      "location": [
+        "New York, New York"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:45f60d0e-e44f-40c5-985e-4096a8966860",
+      "title": "Ecosystem Growth Engineer",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/45f60d0e-e44f-40c5-985e-4096a8966860/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nRun growth experiments for Notion’s Startups and SMB programs. You’ll turn promising ideas into measurable customer and revenue growth, moving from a signal in the data to a live expe",
+      "location": [
+        "New York, New York"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:223f9722-3579-4ff2-b123-e4cc7b0c1a64",
       "title": "Art Director - Mexico",
       "company": "Spotify",
@@ -3362,6 +3390,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:f02fb195-ba10-40bd-a926-0318a34a7fae",
+      "title": "Staff Product Designer - Platform Design",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/f02fb195-ba10-40bd-a926-0318a34a7fae/apply",
+      "description": " \n The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. \n Spotify runs on the tools we've built for ourselves. They help hundreds of teams ship every day to hundreds of millions of people around the world. Now, we're sharing them. \n Spotify Technology brings our proven tools and services together for engineering organisations everywhere, from global enterprises to individual developers. As AI reshapes how software gets made, we're building on years of experience solving complex engineering challenges at scale. \n Platform Design makes these powerful tools feel effortless. We shape the services, products and experiences used by Spotify's engineering teams and by developers around the world. We believe great design is a competitive advantage, and developer tools deserve the same care and craft as any consumer ",
+      "location": [
+        "London"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:1961fa91-bdba-450a-bfb6-fc8d8d5c9e9c",
       "title": "State and Local Government Affairs Manager",
       "company": "Spotify",
@@ -3413,12 +3455,12 @@
     {
       "company": "Notion",
       "provider": "ashby",
-      "roles": 135
+      "roles": 137
     },
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 79
+      "roles": 80
     }
   ],
   "errors": []
