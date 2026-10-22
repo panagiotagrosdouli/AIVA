@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T04:40:05.465969+00:00",
+  "updated_at": "2026-10-22T11:47:44.802613+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -3390,6 +3390,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:a343f789-bb7f-41eb-bd85-d7c6b45bda67",
+      "title": "Senior Technical Program Manager",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/a343f789-bb7f-41eb-bd85-d7c6b45bda67/apply",
+      "description": "",
+      "location": [
+        "New York, NY"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1",
       "title": "Senior Web Engineer - Subscriptions",
       "company": "Spotify",
@@ -3530,7 +3544,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 80
+      "roles": 81
     }
   ],
   "errors": []
