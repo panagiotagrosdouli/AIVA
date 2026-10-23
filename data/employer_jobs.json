@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T17:04:15.007295+00:00",
+  "updated_at": "2026-10-23T21:22:20.014143+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2428,7 +2428,7 @@
       "title": "Head of People Operations",
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/c413d063-add4-4c55-aebd-704d49fb54c1/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nWe’re looking for a Head of People Operations to lead our team and build the systems behind a great employee experience. You’ll shape the strategy across People Operations and Total R",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nWhat if the busy work just got out of the way?\n\nBehind every great employee experience is a quiet system: the onboarding that feels effortless, the leave handled with care, the payche",
       "location": [
         "San Francisco, California"
       ],
@@ -2837,6 +2837,20 @@
       "description": "Spotify's Legal team is growing. We're facing innovative challenges that mirror the groundbreaking industry and product at the heart of our company. As we've expanded into more than 180 markets and our business has grown tremendously, we find ourselves facing new and interesting legal issues every day — including an increasing volume of patent disputes alongside the copyright and content matters that have always been central to our work.\nAs Legal Counsel, Litigation, you will work on a variety of litigation, copyright, patent, and other contentious and advisory matters, and help craft the way our company thinks about and handles them. The work we face is constantly developing, and the workload is growing faster than we can, so we will look to you to think thoughtfully about processes and policies that will help meet our goals. Your experience making risk-based assessments and proactively finding solutions to complex problems will be crucial. Significant e-discovery experience and experience conducting confidential inquiries are a plus.\n",
       "location": [
         "New York, NY"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "lever:19c12e29-b6d4-4d97-9053-48238fb7c381",
+      "title": "Machine Learning Engineer - Subscriptions",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381/apply",
+      "description": " \n At Spotify, our Subscriptions Mission focuses on creating experiences that help listeners discover the value of Spotify, become subscribers, and stay with us for the long term. By combining technology, experimentation, and a deep understanding of our users, we help connect artists and fans while building a sustainable subscription business. \n Within the Subscriptions Mission, the Subs Foundational Models Product Area is part of the Subs User Understanding Studio. We build scalable machine learning solutions that personalize the subscriber journey, from conversion through to long-term retention. Working closely with teams across the mission, we develop ML solutions that improve key business metrics, including subscriber growth, monthly active users, and Premium retention. \n We're looking for a Machine Learning Engineer to join our Radius squad. You'll take ownership of impactful ML initiatives, develop and improve production models, and contribute to the foundational ML capabilities that power personalization and optimization across Subscriptions. \n Your work could include reducing",
+      "location": [
+        "London"
       ],
       "published": null,
       "expires": null,
@@ -3684,7 +3698,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 88
+      "roles": 89
     }
   ],
   "errors": []
