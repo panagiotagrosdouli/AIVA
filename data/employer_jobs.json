@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T21:22:20.014143+00:00",
+  "updated_at": "2026-10-24T04:32:46.534549+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2452,6 +2452,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:2d67c471-9015-41c0-a041-b982ec4a14fd",
+      "title": "Account Executive - Commercial, Spotify Technology",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/2d67c471-9015-41c0-a041-b982ec4a14fd/apply",
+      "description": "Spotify Technology is our business-to-business software team, helping organizations improve how they build and deliver software. Our products, including Backstage Portal, Confidence, and Xirp, support developers and AI-powered systems as they navigate increasingly complex engineering environments.\nAs an Account Executive on our Commercial team, you will drive new business for Spotify Technology. You'll focus on companies with fewer than 1,000 employees, where sales cycles typically run from weeks to a few months and success depends on a repeatable, scalable sales motion. You'll manage a high volume of opportunities, work with one or a small group of decision-makers (often a hands-on engineering leader or CTO), and move deals efficiently from the first conversation to close. You'll also help shape the playbook that enables our commercial business to grow.\nYou'll collaborate with Sales Engineering, Marketing, Product, and Customer Success to create a seamless customer experience. Your ability to quickly understand customers' technical needs and connect them to clear business value will",
+      "location": [
+        "London"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:f263a2af-0a4e-4540-a0f6-adb3655e027b",
       "title": "Account Executive - Commercial, Spotify Technology",
       "company": "Spotify",
@@ -3698,7 +3712,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 89
+      "roles": 90
     }
   ],
   "errors": []
