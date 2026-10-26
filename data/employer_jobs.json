@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T04:42:44.118110+00:00",
+  "updated_at": "2026-10-26T12:56:14.776120+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2592,11 +2592,11 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:926149ab-6999-4058-b35d-41e302b70e05",
+      "id": "lever:186b763a-2a61-4563-8813-ff6b40c9c8a7",
       "title": "Backend Engineer - Data Platform",
       "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05/apply",
-      "description": "LilEngine is leading the Lakehouse, a company-strategic effort to make Apache Iceberg a first-class citizen in Spotify's data ecosystem. We're building it in close collaboration with Google, on open standards, so that different kinds of data are queryable the same way and teams can bring the right engine, from BigQuery to Dataflow to Trino, to the job.\nThe work has two parts. Hecate enables Iceberg for the Parquet datasets that already exist across Spotify, so teams get the benefits without rewriting their data. Alongside it, we're building the foundations of a new Lakehouse architecture that lets workflows write Iceberg tables natively. We're shipping the MVP this cycle, and you'll help shape what comes next.\nWe also own BigQuery for all of Spotify. Thousands of engineers, data scientists and pipelines depend on it every day, which puts us on the critical path for storing, finding and querying data. We're judged on reliability, cost efficiency and how quickly we unblock users when something breaks. This backend role sits where open table formats, cloud data warehouses and processing",
+      "url": "https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7/apply",
+      "description": "Every dataset at Spotify, from the data behind creator royalties to the signals powering recommendations, is registered, published and traced through systems our team builds. We're the source of truth for what data exists at Spotify, where it lives, who owns it, and how it flows from one pipeline to the next.\nThese systems sit on the critical path of the platform. Data teams use them every day to publish and find data, and other platform teams build on them for access, retention, governance and incident response. That means our work is judged on correctness and reliability, because every system built on top of ours is only as good as the metadata we provide.\nThis is a backend role focused on data management, working on the problems at the core of any large data platform: running a data catalog that stays accurate at scale, capturing lineage across batch and streaming workloads, managing schemas as they evolve, and guaranteeing that consumers only read complete data. We build on open standards like OpenLineage and Apache Iceberg, and define the internal standards for naming, storage a",
       "location": [
         "Stockholm"
       ],
@@ -2606,11 +2606,11 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:186b763a-2a61-4563-8813-ff6b40c9c8a7",
-      "title": "Backend Engineer II - Data Platform",
+      "id": "lever:926149ab-6999-4058-b35d-41e302b70e05",
+      "title": "Backend Engineer - Data Platform",
       "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7/apply",
-      "description": " \n Every dataset at Spotify, from the data behind creator royalties to the signals powering recommendations, is registered, published and traced through systems our team builds. We're the source of truth for what data exists at Spotify, where it lives, who owns it, and how it flows from one pipeline to the next. \n These systems sit on the critical path of the platform. Data teams use them every day to publish and find data, and other platform teams build on them for access, retention, governance and incident response. That means our work is judged on correctness and reliability, because every system built on top of ours is only as good as the metadata we provide. \n This is a backend role focused on data management, working on the problems at the core of any large data platform: running a data catalog that stays accurate at scale, capturing lineage across batch and streaming workloads, managing schemas as they evolve, and guaranteeing that consumers only read complete data. We build on open standards like OpenLineage and Apache Iceberg, and define the internal standards for naming, st",
+      "url": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05/apply",
+      "description": "LilEngine is leading the Lakehouse, a company-strategic effort to make Apache Iceberg a first-class citizen in Spotify's data ecosystem. We're building it in close collaboration with Google, on open standards, so that different kinds of data are queryable the same way and teams can bring the right engine, from BigQuery to Dataflow to Trino, to the job.\nThe work has two parts. Hecate enables Iceberg for the Parquet datasets that already exist across Spotify, so teams get the benefits without rewriting their data. Alongside it, we're building the foundations of a new Lakehouse architecture that lets workflows write Iceberg tables natively. We're shipping the MVP this cycle, and you'll help shape what comes next.\nWe also own BigQuery for all of Spotify. Thousands of engineers, data scientists and pipelines depend on it every day, which puts us on the critical path for storing, finding and querying data. We're judged on reliability, cost efficiency and how quickly we unblock users when something breaks. This backend role sits where open table formats, cloud data warehouses and processing",
       "location": [
         "Stockholm"
       ],
@@ -3474,20 +3474,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd",
-      "title": "Senior Product Manager, Consumer - Audiobooks",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/ddc10181-6ecc-4dfc-9d02-2c5ce820cfdd/apply",
-      "description": "We're looking for a strategic, detail-oriented Senior Product Manager to join the Books Vertical and lead end-to-end book experiences on Spotify: from discovery and conversion through to listening, and from the creator pipeline through to the consumer shelf. This role is about connecting the dots across our core experiences, conversion flows, content pipeline, and creator tooling to make books work seamlessly on Spotify.\nBooks are a major focus for Spotify, and we need someone who can look holistically across the book ecosystem to identify gaps, reduce friction, and make sure our experiences are coherent end-to-end. You'll focus on making the full books journey work better for listeners, creators, and rights-holders, not just shipping new features. You'll partner closely with Personalization, Subscriptions, Experience, and creator-facing teams to strengthen and evolve book experiences across surfaces, and help shape a product strategy that directly improves how listeners discover and enjoy books.\n",
-      "location": [
-        "London"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "lever:c3f6ea23-97d0-4a9a-a9ad-04f1e745d916",
       "title": "Senior Product Quality Analyst - AI Voice",
       "company": "Spotify",
@@ -3726,7 +3712,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 90
+      "roles": 89
     }
   ],
   "errors": []
