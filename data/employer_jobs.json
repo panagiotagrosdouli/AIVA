@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T05:37:51.865617+00:00",
+  "updated_at": "2026-10-28T12:49:07.500549+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2396,6 +2396,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:beaef5b2-ad9a-4504-a4bb-93eea06c3d1a",
+      "title": "Solutions Consultant, Commercial, UKI",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/beaef5b2-ad9a-4504-a4bb-93eea06c3d1a/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges",
+      "location": [
+        "Dublin, Ireland"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:2a55d6c9-c564-443a-be3e-a3851db5a93b",
       "title": "Account Executive - Commercial, Spotify Technology",
       "company": "Spotify",
@@ -3651,7 +3665,7 @@
     {
       "company": "Notion",
       "provider": "ashby",
-      "roles": 139
+      "roles": 140
     },
     {
       "company": "Spotify",
