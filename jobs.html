@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#080e1b">
+<meta name="theme-color" content="#080d18">
 <meta name="description" content="Explore sourced remote job listings with clear country eligibility and links to the original posting.">
 <title>Find Jobs — AIVA</title>
 <style>
@@ -59,8 +59,8 @@ footer{border-top:1px solid #e7ebf2;background:#fbfcff;color:#75829a}
 footer a{color:#5f52dd}
 @media(max-width:730px){.wrap{padding-left:19px;padding-right:19px}.navlinks{gap:14px}.navlinks a{font-size:12px}main{padding-top:45px}.searchbar{grid-template-columns:1fr;padding:12px}#results{grid-template-columns:1fr}.job{min-height:auto}h1{font-size:44px}}
 </style>
-</head>
-<body><header><div class="wrap nav"><a class="brand" href="index.html">AIVA</a><nav class="navlinks" aria-label="Main navigation"><a href="index.html">Home</a><a href="career.html">Career Passport</a><a href="platform.html">Opportunities</a></nav></div></header>
+<link rel="stylesheet" href="aiva-design.css?v=6"></head>
+<body><header><div class="wrap nav"><a class="brand" href="index.html">AIVA</a><nav class="navlinks" aria-label="Main navigation"><a href="index.html">Home</a><a href="career.html">Career Passport</a><a href="platform.html">Opportunities</a><a href="account.html">Account</a></nav></div></header>
 <main class="wrap">
 <div class="eyebrow">DISCOVER YOUR NEXT MOVE</div><h1>Find a job that fits your future.</h1>
 <p class="lead">Explore opportunities from sourced remote job listings. Search by role or company, filter locations, and apply directly through the original employer listing.</p>
@@ -94,15 +94,15 @@ function draw(){
   const link=el('a','apply','View original listing / Apply ↗');link.href=job.url;link.target='_blank';link.rel='noopener noreferrer';
   card.append(tag,heading,company,details,summary,link);$('results').append(card);
  }
- $('pager').hidden=pages<=1;$('pageLabel').textContent='Page '+page+' of '+pages;$('prev').disabled=page===1;$('next').disabled=page>=pages;
+ $('pager').hidden=pages<=1;$('pageLabel').textContent='Page '+page+' of '+Math.max(pages,1);$('prev').disabled=page===1;$('next').disabled=page>=pages;
 }
 function filter(){
  const q=$('query').value.trim().toLocaleLowerCase(),country=$('country').value,sort=$('sort').value;
- filtered=jobs.filter(j=>(!q||[j.title,j.company,j.description].join(' ').toLocaleLowerCase().includes(q))&&(!country||(j.location||[]).includes(country)));
+ filtered=jobs.filter(j=>(!q||[j.title,j.company,j.description].join(' ').toLocaleLowerCase().includes(q))&&(!country||(Array.isArray(j.location)&&j.location.includes(country))));
  filtered.sort((a,b)=>sort==='title'?a.title.localeCompare(b.title):sort==='company'?(a.company||'').localeCompare(b.company||''):dateNumber(b.published)-dateNumber(a.published));
  page=1;draw();
 }
-$('searchForm').addEventListener('submit',e=>{e.preventDefault();filter()});$('country').addEventListener('change',filter);$('sort').addEventListener('change',filter);
+$('searchForm').addEventListener('submit',e=>{e.preventDefault();filter()});$('query').addEventListener('input',filter);$('country').addEventListener('change',filter);$('sort').addEventListener('change',filter);
 $('prev').addEventListener('click',()=>{if(page>1){page--;draw()}});$('next').addEventListener('click',()=>{if(page*perPage<filtered.length){page++;draw()}});
 fetch('data/jobs.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('feed unavailable');return r.json()}).then(data=>{
  const now=Date.now(),seen=new Set();
