@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T13:17:23.726485+00:00",
+  "updated_at": "2026-11-01T21:59:02.205407+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -3404,20 +3404,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:9fd98cde-6a1b-419c-a27a-daae7a7483f0",
-      "title": "Senior Growth Manager",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/9fd98cde-6a1b-419c-a27a-daae7a7483f0/apply",
-      "description": " \n You’ll join the Premium Growth India team within the Markets &amp; Subscriptions organisation, focused on making Spotify Premium an increasingly desirable music experience in India. Sitting at the intersection of marketing, product, music, and strategy, the team works closely with Music, Marketing, Partnerships, and other teams to grow Premium through cultural relevance and artist-led initiatives. \n In this role, you’ll own Premium desirability and the artist and partner Premium flywheel for India, shaping how we work with artists, cultural moments, fandom, and partnerships to drive Premium consideration and measurable conversion at scale. \n ",
-      "location": [
-        "Mumbai"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "lever:c322d068-5b59-4658-b618-bb2a032eeb9b",
       "title": "Senior Machine Learning Engineer - Messaging Platform",
       "company": "Spotify",
@@ -3768,7 +3754,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 89
+      "roles": 88
     }
   ],
   "errors": []
