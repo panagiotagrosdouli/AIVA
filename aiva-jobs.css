@@ -1,0 +1,54 @@
+/* AIVA Job Finder: purposeful controls, accessible listing rows, no fake metrics */
+.job-finder { padding:56px 0 95px; }
+.finder-eyebrow {font-size:11px;letter-spacing:.17em;color:#ab563c;text-transform:uppercase;font-weight:800}
+.finder-heading {max-width:800px;margin:15px 0 17px;font:500 clamp(44px,5vw,72px)/1.06 "Iowan Old Style",Georgia,serif;letter-spacing:-.06em}
+.finder-subtitle {max-width:750px;font-size:16px;line-height:1.8;color:var(--muted);margin:0 0 33px}
+.finder-header {display:flex;align-items:end;justify-content:space-between;gap:28px;flex-wrap:wrap}
+.finder-stat {font-size:13px;font-weight:650;color:var(--forest)}
+.finder-stat strong {font-size:23px;display:block;font-family:Georgia,serif;letter-spacing:-.035em}
+.finder-controls {border:1px solid var(--line);background:var(--surface);padding:22px;margin:30px 0 17px}
+.finder-grid {display:grid;grid-template-columns:minmax(250px,2.1fr) minmax(175px,1.2fr) minmax(180px,1fr);gap:14px}
+.finder-field {display:grid;gap:7px;min-width:0}
+.finder-field label {font-size:12px;font-weight:750;color:var(--ink)}
+.finder-field input,.finder-field select{width:100%;min-height:46px}
+.finder-options {display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap;align-items:center;margin-top:16px}
+.finder-checks {display:flex;align-items:center;gap:21px;flex-wrap:wrap}
+.finder-check {display:inline-flex;align-items:center;gap:8px;font-size:13px;color:var(--ink);cursor:pointer}
+.finder-check input{width:17px;height:17px;accent-color:var(--forest)}
+.finder-links {display:flex;gap:9px;flex-wrap:wrap}
+.finder-links button{padding:9px 12px!important;font-size:12px!important}
+.finder-links button.ghost{background:transparent!important;color:var(--forest)!important;border:1px solid #adbbb0!important}
+.finder-message {font-size:13px;color:var(--muted);margin:0 0 16px;min-height:1.6em}
+.feed-status {display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin:13px 0 27px}
+.feed-pill {border:1px solid var(--line);padding:5px 9px;background:#edece5}
+.feed-pill[data-state="failed"]{border-color:#cf9c84;color:#854632}
+.feed-pill[data-state="stale"]{border-color:#b4aa7a;color:#756c32}
+.result-topline {display:flex;justify-content:space-between;align-items:center;gap:20px;border-top:1px solid var(--ink);padding:22px 0 13px}
+.result-topline h2 {margin:0;font-size:18px;font-weight:750;letter-spacing:-.02em}
+.result-topline p {margin:3px 0 0;font-size:12px;color:var(--muted)}
+.result-topline select {font-size:13px;padding:8px 11px;max-width:180px}
+.job-results {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px}
+.job-card {border:1px solid var(--line);background:var(--surface);padding:25px;display:flex;flex-direction:column;gap:0;min-width:0;min-height:265px}
+.job-card-header {display:flex;justify-content:space-between;gap:15px;align-items:start}
+.job-source {font-size:11px;letter-spacing:.05em;color:var(--forest);font-weight:800}
+.save-job {background:transparent!important;color:var(--forest)!important;border:1px solid #a8baaa!important;padding:8px 12px!important;font-size:12px!important;white-space:nowrap;box-shadow:none!important}
+.save-job[aria-pressed="true"]{background:#e0e9dc!important;border-color:#829b85!important;color:var(--forest)!important}
+.job-card h3 {font-size:22px;letter-spacing:-.04em;line-height:1.2;margin:18px 0 9px;font-weight:750}
+.job-company {font-size:14px;color:var(--muted);font-weight:650;margin:0 0 10px}
+.job-meta {font-size:12px;color:var(--muted);line-height:1.7;margin:0 0 13px}
+.job-desc {font-size:13px;line-height:1.7;color:var(--muted);margin:0 0 20px;flex:1}
+.job-footer {border-top:1px solid var(--line);padding-top:16px;display:flex;justify-content:space-between;align-items:center;gap:15px}
+.job-footer a {font-size:13px;font-weight:800;color:var(--forest)!important;text-decoration:none}
+.job-footer a:hover{text-decoration:underline}
+.job-date {font-size:11px;color:var(--muted)}
+.job-empty {grid-column:1/-1;border:1px solid var(--line);padding:38px;background:var(--surface)}
+.job-empty h3 {font:500 30px/1.2 Georgia,serif;margin:0 0 9px}
+.job-empty p {font-size:14px;color:var(--muted);margin-bottom:20px}
+.job-empty button{font-size:13px}
+.finder-pager {display:flex;justify-content:center;align-items:center;gap:17px;margin:30px 0}
+.finder-pager button{padding:9px 15px!important;font-size:13px!important}
+.finder-pager span{font-size:13px;color:var(--muted)}
+.finder-footnote {font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:20px;margin-top:40px;line-height:1.8}
+.finder-footnote a{font-weight:700}
+@media(max-width:900px){.finder-grid{grid-template-columns:1fr 1fr}.finder-grid>.finder-field:first-child{grid-column:1/-1}}
+@media(max-width:730px){.job-results{grid-template-columns:1fr}.job-finder{padding:37px 0 60px}.finder-heading{font-size:clamp(42px,10vw,60px)}.finder-controls{padding:16px}.finder-grid{grid-template-columns:1fr}.finder-grid>.finder-field:first-child{grid-column:auto}.result-topline{align-items:start;flex-direction:column}.job-card{min-height:0}.finder-pager{gap:10px}}
