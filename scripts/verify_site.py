@@ -7,7 +7,7 @@ import subprocess
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
-PAGES = ["index.html", "career.html", "account.html", "platform.html"]
+PAGES = ["index.html", "career.html", "account.html", "platform.html", "jobs.html"]
 class Scripts(HTMLParser):
     def __init__(self):
         super().__init__()
@@ -15,6 +15,7 @@ class Scripts(HTMLParser):
         self.active = False
         self.buffer = []
         self.links = []
+        self.styles = []
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
         if tag == "script" and "src" not in a and a.get("type","text/javascript") in ("text/javascript","module"):
@@ -23,6 +24,8 @@ class Scripts(HTMLParser):
             self.kind = a.get("type","text/javascript")
         if tag == "a" and "href" in a:
             self.links.append(a["href"])
+        if tag == "link" and a.get("rel") == "stylesheet" and "href" in a:
+            self.styles.append(a["href"])
     def handle_data(self, data):
         if self.active:
             self.buffer.append(data)
@@ -39,7 +42,9 @@ for name in PAGES:
         continue
     p = Scripts()
     p.feed(file.read_text(encoding="utf-8"))
-    for href in p.links:
+    if not p.styles:
+        issues.append(f"{name}: shared stylesheet missing")
+    for href in p.links + p.styles:
         href = href.split("#")[0].split("?")[0]
         if href and not href.startswith(("http://","https://","mailto:","tel:","#","javascript:")) and not (ROOT / href).exists():
             issues.append(f"{name}: missing local link {href}")
