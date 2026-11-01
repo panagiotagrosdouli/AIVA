@@ -16,8 +16,11 @@ class Scripts(HTMLParser):
         self.buffer = []
         self.links = []
         self.styles = []
+        self.local_scripts = []
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
+        if tag == "script" and "src" in a and not a["src"].startswith(("https://","http://")):
+            self.local_scripts.append(a["src"])
         if tag == "script" and "src" not in a and a.get("type","text/javascript") in ("text/javascript","module"):
             self.active = True
             self.buffer = []
@@ -44,7 +47,7 @@ for name in PAGES:
     p.feed(file.read_text(encoding="utf-8"))
     if not p.styles:
         issues.append(f"{name}: shared stylesheet missing")
-    for href in p.links + p.styles:
+    for href in p.links + p.styles + p.local_scripts:
         href = href.split("#")[0].split("?")[0]
         if href and not href.startswith(("http://","https://","mailto:","tel:","#","javascript:")) and not (ROOT / href).exists():
             issues.append(f"{name}: missing local link {href}")
@@ -58,6 +61,10 @@ for name in PAGES:
         if proc.returncode:
             issues.append(f"{name}: inline script {i}: {proc.stderr.strip()}")
 
+for source in ("aiva-jobs-core.mjs","aiva-jobs-app.mjs"):
+    proc = subprocess.run(["node","--check",str(ROOT / source)],capture_output=True,text=True)
+    if proc.returncode:
+        issues.append(f"{source}: syntax error ({proc.stderr.strip()})")
 for name in ("data/jobs.json","data/employer_jobs.json"):
     try:
         data = json.loads((ROOT / name).read_text(encoding="utf-8"))
