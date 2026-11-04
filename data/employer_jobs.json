@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T14:29:48.845423+00:00",
+  "updated_at": "2026-11-04T23:38:24.334633+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2173,7 +2173,7 @@
     },
     {
       "id": "ashby:4f678608-f9f7-455d-b81c-9433ec974d0e",
-      "title": "Recruiting Coordinator - AMER",
+      "title": "Recruiting Coordinator,  AMER",
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e/application",
       "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nThe People Team at Notion exists to help build a generational company - one that enables people to do their best and most meaningful work. Hiring exceptional talent, at the right time",
@@ -2480,6 +2480,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
+      "title": "Software Engineer, Growth",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion’s mission is to help everyone build beautiful tools for their life’s work. Notion's Growth Engineers make the everyone part of that happen with a combination of creativity and ",
+      "location": [
+        "San Francisco, California"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:2a55d6c9-c564-443a-be3e-a3851db5a93b",
       "title": "Account Executive - Commercial, Spotify Technology",
       "company": "Spotify",
@@ -2557,20 +2571,6 @@
       "description": "We have a great opportunity for an Artist & Label Partnerships Manager to come and join the band in Berlin. The Artist & Label Partnerships team is the face of Spotify to artists, managers, labels & distributors.\nAs an Artist & Label Partnerships Manager your mission is to ensure that key artists, managers, and labels see Spotify as the #1 partner for artist development and monetization.\nIn this role you will work with a set of core label partners and artists. This role has a strong focus on launching innovative partnerships and initiatives and you will drive activations that enable, educate, and unlock new opportunities for our partners and Spotify. \nWe seek a highly motivated partner manager based in Berlin with a strong partnerships, music marketing and music / entertainment / media background. This individual must be able to prioritize, multi-task, and influence in a fast paced environment. \nThis role is on a 15-month fixed-term contract.\n",
       "location": [
         "Berlin"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "lever:4310f31c-90e1-4e8d-bdcf-dce39c145b8c",
-      "title": "Associate – Audiobook Licensing & Author Partnerships",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/4310f31c-90e1-4e8d-bdcf-dce39c145b8c/apply",
-      "description": "The Audiobooks Mission is a team in the Product & Technology organisation focused on the ecosystem and strategies of Audiobooks on Spotify. We work across both the creator and consumer audiobooks ecosystems, in order to get the best possible product to market with the best possible content.\nSpotify's Audiobooks team is helping shape the future of audio storytelling by bringing the world's best audiobook experiences to millions of listeners. As Associate Manager, Audiobook Licensing & Author Partnerships, you'll play an important role in growing our catalog while building meaningful relationships across the independent publishing community.\nYou'll work with entrepreneurial authors, hybrid publishers, independent presses, and distribution partners to identify great content, negotiate commercial partnerships, and help creators succeed on Spotify. Working closely with cross-functional teams across Product, Editorial, Growth, Operations, and Finance, you'll help scale our audiobook business while creating exceptional experiences for both creators and listeners.\n",
-      "location": [
-        "New York, NY"
       ],
       "published": null,
       "expires": null,
@@ -3152,6 +3152,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:1ee5dcb7-a5fe-465b-91da-d42ebab374c8",
+      "title": "Security Engineer - Product Security",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/1ee5dcb7-a5fe-465b-91da-d42ebab374c8/apply",
+      "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nSecurity engineers at Spotify help protect our environment and more than 700 million users. Within Platform, our Product Security team evaluates and communicates Spotify's security posture, helping developers and leadership make informed decisions about security risks. We own the vulnerability management platform, supporting the full lifecycle of identifying, attributing, remediating, and reporting security vulnerabilities.\nAs AI changes how vulnerabilities are discovered and exploited, we're evolving how Spotify responds. We're looking for a Security Engineer to help transform vulnerability findings into reliable, actionable code improvements using agentic AI. You'll build the tools, workflows, and evaluation frameworks that make automated remediation mo",
+      "location": [
+        "New York, NY"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:6eb9ce0e-5372-4a4f-b2fa-d005f9426750",
       "title": "Senior Applied Research Scientist - Personalization",
       "company": "Spotify",
@@ -3572,6 +3586,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:d86e7feb-15df-434d-8054-b7fb65010586",
+      "title": "Staff Engineer – Identity and Access Management User Platform",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/d86e7feb-15df-434d-8054-b7fb65010586/apply",
+      "description": " \n The Platform mission creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. \n Within Platform, the User Platform studio builds foundational capabilities that support Spotify's user experiences at scale. The Identity and Access Management (IAM) domain focuses on the systems and services that help users securely access Spotify, while enabling product teams to build reliable, seamless experiences. \n We're looking for a Staff Engineer to help shape the technical direction of the capabilities in this domain. You'll work across teams to solve complex engineering challenges, improve the reliability and security of critical systems, and influence how we build scalable identity infrastructure for the future. \n ",
+      "location": [
+        "Stockholm"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:281e7db9-86ba-4a1c-8773-c23b96ed32dc",
       "title": "Staff Machine Learning Engineer, Home Surfaces",
       "company": "Spotify",
@@ -3679,12 +3707,12 @@
     {
       "company": "Notion",
       "provider": "ashby",
-      "roles": 146
+      "roles": 147
     },
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 85
+      "roles": 86
     }
   ],
   "errors": []
