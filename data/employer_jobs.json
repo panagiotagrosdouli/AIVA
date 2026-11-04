@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T06:13:47.205775+00:00",
+  "updated_at": "2026-11-04T14:29:48.845423+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2984,20 +2984,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:9d1764a1-45fc-4e16-a823-7b7453b61d2e",
-      "title": "Principal Product Manager - Content Platform",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/9d1764a1-45fc-4e16-a823-7b7453b61d2e/apply",
-      "description": "Content Platform is the foundation of Spotify’s experiences. We ensure our vast catalog of music, podcasts, audiobooks, video, and creator data is trusted, safe, and ready to power innovation across Spotify.\nOur work spans content governance, platform safety, metadata, and machine learning systems that enable experiences such as Music Quiz, Playlist Mixes, Save to Spotify and SongDNA. Every day, our platform helps teams across Spotify build better products for millions of listeners and creators. \nAs a Principal Product Managers you will own strategy directly. In this role, you’ll shape long-term direction, partner closely with engineering, machine learning, design, and business leaders, and deliver platform capabilities that have company-wide impact.\n",
-      "location": [
-        "London"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "lever:73a83f73-2f59-4c82-bac3-7dfc5d3355ad",
       "title": "Principal Product Manager - Core Experience Platform",
       "company": "Spotify",
@@ -3187,20 +3173,6 @@
       "description": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.\n\nWithin Personalization, the Speak Team owns the development of Spotify's state-of-the-art speech models, contributing to speech recognition, speech synthesis, and speech-to-speech models. We craft voice models that match human-level emotional expressiveness, so we can deeply engage our listeners and support creators at scale. Our groundbreaking work on speech synthesis relies on state-of-the-art deep learning methods and evaluation techniques, highly efficient data processing and model serving, and capturing audio of outstanding quality from our voice talent pool.\n\nWe're looking for a senior applied research scientist with experience in developing novel ML techniques and architectures and with a stro",
       "location": [
         "London"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "lever:80c3a1cd-3f98-49e5-88d1-b45fca349d7f",
-      "title": "Senior Backend Data Engineer – Content Intelligence",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/80c3a1cd-3f98-49e5-88d1-b45fca349d7f/apply",
-      "description": "The Experience team designs Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\nThe Content Intelligence Product Area is a core part of Spotify’s Content Platform within the Experience mission. We build systems that create deep, machine-readable understanding of content across audio, video, text, and images before it reaches users. This enables automation, safety, and entirely new product experiences. Our work powers content enrichment, quality analysis, annotation platforms, and scalable intelligence systems that allow teams across Spotify t",
-      "location": [
-        "Stockholm"
       ],
       "published": null,
       "expires": null,
@@ -3409,6 +3381,20 @@
       "company": "Spotify",
       "url": "https://jobs.lever.co/spotify/e7b01c1e-4246-4f31-83ea-9219c8b22c83/apply",
       "description": " \n We design Spotify’s consumer experience - end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify. \n We’re seeking a Senior Product Manager to help lead the audiobook experience across Spotify’s mobile apps. You’ll join Format Foundations within Core Experience and partner closely with the Audiobooks business unit to shape how listeners discover, evaluate, enjoy, and build lasting relationships with audiobooks on Spotify. \n ",
+      "location": [
+        "London"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "lever:e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3",
+      "title": "Senior Product Manager - Core Experience",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3/apply",
+      "description": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\nCore Experience shapes how millions of people discover, choose, and enjoy what to play on Spotify every day. Within Core Experience, our What to Play team builds the technology and shared capabilities that help Spotify deliver intuitive, reliable, and consistent listening experiences.\nWe're looking for a Senior Technical Product Manager to shape the systems behind these experiences, from content distribution and mobile app architecture to shared user interface capabilities. You'll ",
       "location": [
         "London"
       ],
@@ -3698,7 +3684,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 86
+      "roles": 85
     }
   ],
   "errors": []
