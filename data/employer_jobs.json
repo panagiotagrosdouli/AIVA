@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T06:37:57.831728+00:00",
+  "updated_at": "2026-11-06T19:21:57.040005+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -436,6 +436,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:7ee0355b-85dd-4019-8e7f-8f3f38dc17cb",
+      "title": "Account Executive, Growth (EMEA)",
+      "company": "Linear",
+      "url": "https://jobs.ashbyhq.com/linear/7ee0355b-85dd-4019-8e7f-8f3f38dc17cb/application",
+      "description": "At Linear, we're building the product development system for teams and agents. AI is fundamentally changing how software gets built, and we’re shaping the tools this new era requires.\n\nFounded in 2019, Linear has become the platform of choice for more than 50,000 companies (including OpenAI, Coinbase, and Ramp) to plan, build, and ship their products. Today, our team is distributed across North America, Europe, and Australia, and we’re continuing to grow internationally. What unites us is relentless focus, fast execution, and a deep care for software craftsmanship.\n\nOver the past few years, Linear has experienced incredible organic growth and has become the default tool of choice for many of the world’s best product teams. We are now layering a product-led sales motion on top of our existing self-serve business to further accelerate our ambitions and bring the magic of Linear to even more and larger companies. As an Account Executive at Linear, you’ll contribute to the future of our product and help high-impact companies build better software.\n\nLocation & work mode\n\nWhile Linear is a",
+      "location": [
+        "London"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "ashby:1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
       "title": "Software Engineer, AI Connections (Developer Platform)",
       "company": "Notion",
@@ -639,20 +653,6 @@
       "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE\n\nAs a Product Operations Manager, you’ll work closely with Product and Engineering teams to drive launch operations and quality, ensuring teams can operate effectively as Notion scales.",
       "location": [
         "San Francisco, California"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Ashby employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "ashby:edb12109-aa32-461a-b764-1850a2314e0d",
-      "title": "Demand & Campaigns Lead, EMEA",
-      "company": "Notion",
-      "url": "https://jobs.ashbyhq.com/notion/edb12109-aa32-461a-b764-1850a2314e0d/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nWe're looking for an exceptional marketing leader to drive Notion’s growth across EMEA— the team responsible for both the fuel that powers our regional go-to-market and the engine tha",
-      "location": [
-        "Dublin, Ireland"
       ],
       "published": null,
       "expires": null,
@@ -954,6 +954,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:499cda6b-522b-4596-8a4c-30efbb1e6b2a",
+      "title": "Solutions Consultant, Mid Market, MEA (Middle East Africa)",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/499cda6b-522b-4596-8a4c-30efbb1e6b2a/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges",
+      "location": [
+        "Dublin, Ireland"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "ashby:3339493a-ee21-49f3-ab09-e1f8ba8f1b92",
       "title": "Product Support Specialist",
       "company": "Notion",
@@ -972,7 +986,7 @@
       "title": "Solutions Consultant, Commercial, France",
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/f7ea6f19-fc0f-482c-b5a8-1271747fea1b/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE\n\nNotion is reimagining how enterprise software is sold and the Solutions Consultant is the cornerstone of that model. As a SC, you’ll own the full customer journey: from first meeting t",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges",
       "location": [
         "Paris, France"
       ],
@@ -1392,23 +1406,9 @@
       "title": "Solutions Consultant, Mid-Market, France",
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/14c52e6b-b00b-42b5-96fb-195919ef6bab/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nWHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meeting",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\n\n\nABOUT THE ROLE\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenge",
       "location": [
         "Paris, France"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Ashby employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "ashby:fa089457-a22c-406f-9bc2-223656b87026",
-      "title": "Solutions Consultant, Commercial, Spain",
-      "company": "Notion",
-      "url": "https://jobs.ashbyhq.com/notion/fa089457-a22c-406f-9bc2-223656b87026/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges",
-      "location": [
-        "Dublin, Ireland"
       ],
       "published": null,
       "expires": null,
@@ -1486,11 +1486,25 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:9392cc22-547f-4089-8677-54f0d80c77a6",
+      "title": "Solutions Consultant, Mid-Market, Benelux",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/9392cc22-547f-4089-8677-54f0d80c77a6/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges ",
+      "location": [
+        "Dublin, Ireland"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "ashby:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
       "title": "Software Engineer Intern (Summer 2027)",
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\nThis internship will take place from May 17 - August 6 or June 14 - Sept 3 (based on your summer schedule) and you will need to be able to work out of our NY or SF office during this time.\n\n\n\n\nWHAT YOU",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\nThis internship will take place from May 24 - August 13 or June 14 - Sept 3 (based on your summer schedule) and you will need to be able to work out of our NY or SF office during this time.\n\n\n\n\nWHAT YO",
       "location": [
         "San Francisco, California"
       ],
@@ -1605,20 +1619,6 @@
       "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nYou will lead Notion’s GTM strategy and growth for France, one of EMEA’s largest and highest-priority markets. France is a Tier 1 region in Notion’s country-first EMEA model, with sig",
       "location": [
         "Paris, France"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Ashby employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "ashby:33ca1c55-e2e4-49a2-a09f-68c83cb540e3",
-      "title": "Global Head of Land Revenue",
-      "company": "Notion",
-      "url": "https://jobs.ashbyhq.com/notion/33ca1c55-e2e4-49a2-a09f-68c83cb540e3/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nAs Global Head of Land Revenue, you’ll be the global owner for technical new-business strategy, pipeline, and conversion—a customer-facing, technical revenue leadership role, not a Re",
-      "location": [
-        "San Francisco, California"
       ],
       "published": null,
       "expires": null,
@@ -1808,20 +1808,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "ashby:fb3cd30c-0557-40ec-a47d-e0118663d346",
-      "title": "GTM Recruiter, EMEA",
-      "company": "Notion",
-      "url": "https://jobs.ashbyhq.com/notion/fb3cd30c-0557-40ec-a47d-e0118663d346/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nThe Notion EMEA Recruiting team acts as trusted business partners who craft a thorough, inclusive, and curated interviewing experience. We believe hiring exceptional talent, at the ri",
-      "location": [
-        "Paris, France"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Ashby employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "ashby:0d000633-4a69-4dae-ab5f-da19b5ab8cc0",
       "title": "Business Operations & Strategy",
       "company": "Notion",
@@ -1841,6 +1827,20 @@
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/ead663e3-3eb2-4e0e-97e5-86820062dd68/application",
       "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nThis role will be based in San Francisco. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person",
+      "location": [
+        "San Francisco, California"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:73b0e05e-317f-4f84-8fb2-58dc8c3790a6",
+      "title": "Technical Program Manager, EPD",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/73b0e05e-317f-4f84-8fb2-58dc8c3790a6/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nThis is an opportunity to join Notion's TPM organization as a key partner to our Engineering, Product, and Design (EPD) leadership. You'll work hand-in-hand with the most senior engin",
       "location": [
         "San Francisco, California"
       ],
@@ -2130,20 +2130,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "ashby:510088c9-5ba6-44df-bef1-1d83c027f730",
-      "title": "Recruiting Coordinator, EMEA",
-      "company": "Notion",
-      "url": "https://jobs.ashbyhq.com/notion/510088c9-5ba6-44df-bef1-1d83c027f730/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nThe People Team at Notion exists to help build a generational company - one that enables people to do their best and most meaningful work. Hiring exceptional talent, at the right time",
-      "location": [
-        "Dublin, Ireland"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Ashby employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "ashby:58f8804f-0260-4f76-81d8-774e72f4a018",
       "title": "Talent Sourcer",
       "company": "Notion",
@@ -2200,20 +2186,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "ashby:82e5fdb7-6eeb-4acd-9736-4f2d1b980793",
-      "title": "GTM Recruiter, EMEA",
-      "company": "Notion",
-      "url": "https://jobs.ashbyhq.com/notion/82e5fdb7-6eeb-4acd-9736-4f2d1b980793/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nThe Notion EMEA Recruiting team acts as trusted business partners who craft a thorough, inclusive, and curated interviewing experience. We believe hiring exceptional talent, at the ri",
-      "location": [
-        "Dublin, Ireland"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Ashby employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "ashby:30a5c739-185f-4a55-8a63-85974d687444",
       "title": "Business Systems Engineer",
       "company": "Notion",
@@ -2260,7 +2232,7 @@
       "title": "Solutions Consultant, Mid-Market, Nordics",
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/3c031ac2-ef25-4335-8189-b021733275b3/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nWHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meeting",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges ",
       "location": [
         "Dublin, Ireland"
       ],
@@ -2271,7 +2243,7 @@
     },
     {
       "id": "ashby:f7da3ea4-12ce-4bb3-95c1-e852336d608e",
-      "title": "Solutions Consultant, Commercial, Italy",
+      "title": "Solutions Consultant, Commercial, Medit",
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/f7da3ea4-12ce-4bb3-95c1-e852336d608e/application",
       "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges",
@@ -2466,20 +2438,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "ashby:2e095dde-06cb-4fd2-a273-9144624400c1",
-      "title": "Demand & Campaigns Lead, EMEA",
-      "company": "Notion",
-      "url": "https://jobs.ashbyhq.com/notion/2e095dde-06cb-4fd2-a273-9144624400c1/application",
-      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nWe're looking for an exceptional marketing leader to drive Notion’s growth across EMEA— the team responsible for both the fuel that powers our regional go-to-market and the engine tha",
-      "location": [
-        "London, United Kingdom"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Ashby employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "ashby:f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
       "title": "Software Engineer, Growth",
       "company": "Notion",
@@ -2527,6 +2485,118 @@
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/021f4891-c95f-41de-b8fc-66d285f57851/application",
       "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\n\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challeng",
+      "location": [
+        "Munich, Germany"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:43ffba97-b64a-4c6a-ac13-c803253c9413",
+      "title": "Software Engineering Intern, Frontend (Summer 2027)",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\nThis internship will take place from May 24 - August 13 or June 14 - September 3 (based on your summer schedule) and you will need to be able to work out of our NY office during this time.\n\n\n\n\nABOUT TH",
+      "location": [
+        "New York, New York"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:27090d0f-07d3-419b-adaa-837b5e22f947",
+      "title": "Software Engineering Intern, iOS (Summer 2027)",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\nThis internship will take place from May 24 - August 13 or June 14 - Sept 3 (based on your summer schedule) and you will need to be able to work out of our NY office during this time.\n\n\n\n\nABOUT THE ROL",
+      "location": [
+        "New York, New York"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:3038ee95-ed44-49a5-9808-1382c4e6cfe9",
+      "title": "Solutions Consultant, Enterprise, Nordics",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/3038ee95-ed44-49a5-9808-1382c4e6cfe9/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\n\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challeng",
+      "location": [
+        "Dublin, Ireland"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:d6298237-6607-4d2b-956b-1ca6b20a12c4",
+      "title": "Solutions Consultant, Mid-Market, CEE",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/d6298237-6607-4d2b-956b-1ca6b20a12c4/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\n\n\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challen",
+      "location": [
+        "Dublin, Ireland"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:11ea8ad6-b380-4041-a4cc-40eeccddffef",
+      "title": "Business Development Representative, MEDIT",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/11ea8ad6-b380-4041-a4cc-40eeccddffef/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is rebuilding its go-to-market motion around a workflow-first, builder-led model—and the BDR is at the front of it. As a Business Development Rep, you'll be the force that turn",
+      "location": [
+        "Dublin, Ireland"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:8109628c-ff17-4e90-b388-d159dc1c53ca",
+      "title": "Solutions Consultant, Enterprise, Medit",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/8109628c-ff17-4e90-b388-d159dc1c53ca/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges",
+      "location": [
+        "Dublin, Ireland"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:10760f33-dd07-4343-ad30-3f26db7f8eee",
+      "title": "Solutions Consultant, Commercial, MEA (Middle East Africa)",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/10760f33-dd07-4343-ad30-3f26db7f8eee/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges",
+      "location": [
+        "Dublin, Ireland"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "ashby:a13fa271-f819-4421-b5fa-a9777672758e",
+      "title": "Business Development Representative, Nordics",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/a13fa271-f819-4421-b5fa-a9777672758e/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is rebuilding its go-to-market motion around a workflow-first, builder-led model—and the BDR is at the front of it. As a Business Development Rep, you'll be the force that turn",
       "location": [
         "Dublin, Ireland"
       ],
@@ -2991,20 +3061,6 @@
       "description": "",
       "location": [
         "Singapore"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "lever:29252640-3fc6-4ba9-8dac-2838093bab96",
-      "title": "Performance Marketing Activation Specialist",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/29252640-3fc6-4ba9-8dac-2838093bab96/apply",
-      "description": "We’re the Markets & Subscribers business unit, a truly cross-functional team focused on finding future listeners, wherever and whoever they may be. We work collaboratively, combining marketing, insights, product development, design, and engineering expertise to grow Spotify’s subscribers and monthly active users in both new and existing markets across the globe. Join us and you’ll be part of a dynamic team taking acquisition, activation, and business growth at Spotify to the next level.\n Spotify is looking for a Performance Marketing Activation Specialist to join the band and help drive direct response marketing efforts. You'll be part of the in-house Performance Marketing team - planning, launching, and optimizing global acquisition and conversion campaigns across paid search and paid social, owning every part of the campaign process. You'll work closely with cross-functional partners, analytics teams, and external platforms and agencies to deliver results. A desire to learn more about data and tech innovation is a must have for future growth in the role.\n",
-      "location": [
-        "New York, NY"
       ],
       "published": null,
       "expires": null,
@@ -3564,7 +3620,7 @@
       "url": "https://jobs.lever.co/spotify/cfbb2765-b4e9-445a-b558-d1fa7876863d/apply",
       "description": "We design Spotify's consumer experience — end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints — from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\nPlatform & Partner Experience (PPX) sits within the Experience Mission, shaping how Spotify shows up across devices, platforms, and partner ecosystems. We build the foundations that power seamless integrations — from smart speakers to cars to AI agents — while ensuring every interaction feels personal, reliable, and unmistakably Spotify. \nAs a Senior Staff Engineer, you'll advance how our systems power partner experiences at scale, tackling complex challenges that span teams, s",
       "location": [
-        "London"
+        "Munich"
       ],
       "published": null,
       "expires": null,
@@ -3618,7 +3674,7 @@
       "title": "Staff Backend Engineer - Content Platform",
       "company": "Spotify",
       "url": "https://jobs.lever.co/spotify/4c0aa107-bdb7-4061-b2c7-be616e059340/apply",
-      "description": " \n We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.  Policy &amp; Safety (P&amp;S) is a domain within Content Platform in the Experience Mission, responsible for building Spotify’s content moderation and regulatory compliance infrastructure. This includes rule engines, enforcement pipelines, policy configuration systems, and compliance data platforms that ensure safety at scale. \n The team operates at the intersection of backend platform engineering, machine learning systems, and regulatory compliance, partnering closely with Lic",
+      "description": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\n\nPolicy & Safety (P&S) is a domain within Content Platform in the Experience Mission, responsible for building Spotify’s content moderation and regulatory compliance infrastructure. This includes rule engines, enforcement pipelines, policy configuration systems, and compliance data platforms that ensure safety at scale.\nThe team operates at the intersection of backend platform engineering, machine learning systems, and regulatory compliance, partnering closely with Licensing, Trust",
       "location": [
         "London"
       ],
@@ -3744,17 +3800,17 @@
     {
       "company": "Linear",
       "provider": "ashby",
-      "roles": 31
+      "roles": 32
     },
     {
       "company": "Notion",
       "provider": "ashby",
-      "roles": 150
+      "roles": 154
     },
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 86
+      "roles": 85
     }
   ],
   "errors": []
