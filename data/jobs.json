@@ -1,708 +1,156 @@
 {
-  "updated_at": "2026-11-07T21:46:59.599673+00:00",
+  "updated_at": "2026-11-08T05:56:54.804018+00:00",
   "source": "Himalayas",
   "jobs": [
     {
-      "id": "https://himalayas.app/companies/kindsight/jobs/data-engineer",
-      "title": "Data Engineer",
-      "company": "Kindsight",
-      "url": "https://himalayas.app/companies/kindsight/jobs/data-engineer?utm_source=api",
-      "description": "About Kindsight:Kindsight builds technology that helps fundraisers make a difference.",
-      "location": [
-        "Canada"
-      ],
-      "published": 1794084956000,
-      "expires": 1799268955000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/getmagic/jobs/client-account-specialist",
-      "title": "Client Account Specialist",
-      "company": "Magic",
-      "url": "https://himalayas.app/companies/getmagic/jobs/client-account-specialist?utm_source=api",
-      "description": "About MagicFor over 10 years, Magic has connected top remote talent with fast-growing businesses — backed by Y Combinator and Sequoia Capital, with thousands of remote workers worldwide.",
-      "location": [
-        "Philippines"
-      ],
-      "published": 1794084916000,
-      "expires": 1799268915000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/va-eligibility-specialist-remote",
-      "title": "VA Eligibility Specialist - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/va-eligibility-specialist-remote?utm_source=api",
-      "description": "Role Title: VA Eligibility SpecialistRole Type: Contractor Location: Remote, United States Time Commitment: 20–30 hours per week, short-term project We are seeking experienced VA Eligibility Specialists to evaluate and improve AI-generated guidance on veterans' health care.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084915000,
-      "expires": 1799268915000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/tsmg/jobs/audio-transcription-specialist-with-legal-background-vietnamese-language",
-      "title": "Audio Transcription Specialist with legal background (Vietnamese language)",
-      "company": "TSMG",
-      "url": "https://himalayas.app/companies/tsmg/jobs/audio-transcription-specialist-with-legal-background-vietnamese-language?utm_source=api",
-      "description": "About the CompanyTerry Soot Management Group (TSMG) is a field data collection company founded in 2017 in Europe.",
-      "location": [
-        "Vietnam"
-      ],
-      "published": 1794084904000,
-      "expires": 1799268903000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/oxford-medical-simulation-limited/jobs/account-manager-academia",
-      "title": "Account Manager (Academia)",
-      "company": "Oxford Medical Simulation Limited",
-      "url": "https://himalayas.app/companies/oxford-medical-simulation-limited/jobs/account-manager-academia?utm_source=api",
-      "description": "In a nutshellTitle:Account Manager, Academia Location:United States (remote) - EST preferred Type: Full-time Compensation: $100K-$120K base, $30k-$50K variable comp, $130K-$170K OTE Reporting to: Director of Sales and Account Management Travel:Approximately 50% (typically 2–3 trips per month), including overnight stays.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084880000,
-      "expires": 1799268879000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/bask-health/jobs/senior-field-engineering-operations-partner",
-      "title": "Senior Field Engineering Operations Partner",
-      "company": "Bask Health",
-      "url": "https://himalayas.app/companies/bask-health/jobs/senior-field-engineering-operations-partner?utm_source=api",
-      "description": "Bask is the best telehealth platform on the market.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084864000,
-      "expires": 1799268863000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/abnormal/jobs/software-engineer-ii-attack-detection",
-      "title": "Software Engineer II, Attack Detection",
-      "company": "Abnormal Security",
-      "url": "https://himalayas.app/companies/abnormal/jobs/software-engineer-ii-attack-detection?utm_source=api",
-      "description": "About the RoleAt Abnormal AI, we are on a thrilling mission to safeguard the world's largest enterprises against a vast range of relentless email attacks.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084760000,
-      "expires": 1799268757000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/engiflex/jobs/freelance-mogelijk-security-consultant-cybersecurity-testing-exposure-mana",
-      "title": "Freelance mogelijk - Security Consultant - Cybersecurity Testing & Exposure Mana",
-      "company": "EngiFlex",
-      "url": "https://himalayas.app/companies/engiflex/jobs/freelance-mogelijk-security-consultant-cybersecurity-testing-exposure-mana?utm_source=api",
-      "description": "📋 Taken en verantwoordelijkhedenAls Security Consultant binnen een centrale overheidsdienst voor digitale veiligheid bouw je de dienstverlening rond cybersecurity testing en exposure management uit, beheer je die en ontwikkel je ze verder.",
-      "location": [
-        "Belgium"
-      ],
-      "published": 1794084759000,
-      "expires": 1799268757000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/beonemedicines/jobs/director-gco-clinical-program-lead-gcpl",
-      "title": "Director, GCO Clinical Program Lead (GCPL)",
-      "company": "BeiGene",
-      "url": "https://himalayas.app/companies/beonemedicines/jobs/director-gco-clinical-program-lead-gcpl?utm_source=api",
-      "description": "BeOne continues to grow at a rapid pace with challenging and exciting opportunities for experienced professionals.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084605000,
-      "expires": 1799268604000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/centene-corporation/jobs/senior-manager-vendor-management",
-      "title": "Senior Manager, Vendor Management",
-      "company": "Centene Corporation",
-      "url": "https://himalayas.app/companies/centene-corporation/jobs/senior-manager-vendor-management?utm_source=api",
-      "description": "Position Purpose: Manage vendor intake, evaluation, contracting, and performance oversight for assigned vendors and initiatives, ensuring compliance, strong engagement, and alignment with enterprise objectives.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084592000,
-      "expires": 1799268592000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/oddball/jobs/devsecops-engineer",
-      "title": "DevSecOps Engineer",
-      "company": "Oddball",
-      "url": "https://himalayas.app/companies/oddball/jobs/devsecops-engineer?utm_source=api",
-      "description": "Oddball believes that the best products are built when companies understand and value the things they are working on.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084570000,
-      "expires": 1799268570000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/rotork/jobs/sales-engineer-cpi-chemicals-process-industrials-m-w-d",
-      "title": "Sales Engineer – CPI (Chemicals, Process & Industrials) (m/w/d)",
-      "company": "Rotork",
-      "url": "https://himalayas.app/companies/rotork/jobs/sales-engineer-cpi-chemicals-process-industrials-m-w-d?utm_source=api",
-      "description": "Ready to bring your technical know‑how into a role where you can make real impact across the Chemicals, Process, and Industrials (CPI) sectors.",
-      "location": [
-        "Belgium",
-        "France",
-        "Germany",
-        "Liechtenstein",
-        "Luxembourg",
-        "Monaco",
-        "Netherlands",
-        "Switzerland"
-      ],
-      "published": 1794084550000,
-      "expires": 1799268550000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/nteractive/jobs/registration-director",
-      "title": "Registration Director",
-      "company": "Nteractive",
-      "url": "https://himalayas.app/companies/nteractive/jobs/registration-director?utm_source=api",
-      "description": "About NteractiveAtNteractive, we design and deliver world-class experiential, event, and conference solutions that connect brands with people in powerful, meaningful ways.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084547000,
-      "expires": 1799268546000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/acosta/jobs/noncom-sales-team-ft-5793075420",
-      "title": "NonCom Sales Team FT",
-      "company": "Acosta",
-      "url": "https://himalayas.app/companies/acosta/jobs/noncom-sales-team-ft-5793075420?utm_source=api",
-      "description": "Sell CORE client’s products to existing and new customers at the operator level in the assigned territory.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084543000,
-      "expires": 1799268542000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/modernizing-medicine-inc/jobs/director-rcm-sales",
-      "title": "Director, RCM Sales",
-      "company": "Modernizing Medicine, Inc.",
-      "url": "https://himalayas.app/companies/modernizing-medicine-inc/jobs/director-rcm-sales?utm_source=api",
-      "description": "Join the Team Modernizing MedicineAt ModMed, we’re not just building software—we’re reimagining the healthcare experience.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084507000,
-      "expires": 1799268506000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/parexel/jobs/senior-regulatory-affairs-consultant-ad-promo-strategist-manager-ad-promo",
-      "title": "Senior Regulatory Affairs Consultant - Ad Promo Strategist (Manager, Ad Promo -",
-      "company": "Parexel",
-      "url": "https://himalayas.app/companies/parexel/jobs/senior-regulatory-affairs-consultant-ad-promo-strategist-manager-ad-promo?utm_source=api",
-      "description": "When our values align, there's no limit to what we can achieve.",
-      "location": [
-        "Canada"
-      ],
-      "published": 1794084492000,
-      "expires": 1799268492000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/openprovider/jobs/product-manager-domains-dns-fully-remote-job-4715754243",
-      "title": "Product Manager (Domains & DNS) - Fully Remote job",
-      "company": "Openprovider",
-      "url": "https://himalayas.app/companies/openprovider/jobs/product-manager-domains-dns-fully-remote-job-4715754243?utm_source=api",
-      "description": "about the companyOpenprovider is an ICANN-accredited domain registrar and technology company founded in 2004 in Rotterdam, Netherlands.",
-      "location": [
-        "Portugal"
-      ],
-      "published": 1794084492000,
-      "expires": 1799268492000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/launch-potato/jobs/senior-account-manager-banking-investing",
-      "title": "Senior Account Manager, Banking & Investing",
-      "company": "Launch Potato",
-      "url": "https://himalayas.app/companies/launch-potato/jobs/senior-account-manager-banking-investing?utm_source=api",
-      "description": "WHO ARE WE? Launch Potato is the discovery and conversion company.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084451000,
-      "expires": 1799268449000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/tarantula-net-india-private-limited/jobs/net-lead",
-      "title": ".NET Lead",
-      "company": "Tarantula.net India Private Limited",
-      "url": "https://himalayas.app/companies/tarantula-net-india-private-limited/jobs/net-lead?utm_source=api",
-      "description": "Key Responsibilities• Design, develop, and maintain full stack applications using .",
-      "location": [
-        "India"
-      ],
-      "published": 1794084445000,
-      "expires": 1799268443000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/mindbodygreen/jobs/amazon-channel-operations-lead-freelance",
-      "title": "Amazon Channel Operations Lead (Freelance)",
-      "company": "mindbodygreen",
-      "url": "https://himalayas.app/companies/mindbodygreen/jobs/amazon-channel-operations-lead-freelance?utm_source=api",
-      "description": "About mindbodygreenSince 2009, mindbodygreen has been at the forefront of the global health and wellness movement.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084441000,
-      "expires": 1799268440000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/top-sales-recruitment/jobs/sdr-with-french",
-      "title": "SDR with French",
-      "company": "Top Sales Recruitment",
-      "url": "https://himalayas.app/companies/top-sales-recruitment/jobs/sdr-with-french?utm_source=api",
-      "description": "IntroductionAre you a tech savvy sales person?  Do you want to gain your first experiences in the sales area and get a taste of scale-up life?",
-      "location": [
-        "Germany"
-      ],
-      "published": 1794084434000,
-      "expires": 1799268434000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/the-telegraph/jobs/editor-the-english-garden-uk-remote",
-      "title": "Editor - The English Garden (UK remote)",
-      "company": "The Telegraph",
-      "url": "https://himalayas.app/companies/the-telegraph/jobs/editor-the-english-garden-uk-remote?utm_source=api",
-      "description": "The Chelsea Magazine Company is an award-winning publisher of special-interest titles connecting with millions of readers globally.",
-      "location": [
-        "United Kingdom"
-      ],
-      "published": 1794084433000,
-      "expires": 1799268433000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/mechanical-cad-expert-remote",
-      "title": "Mechanical CAD Expert - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/mechanical-cad-expert-remote?utm_source=api",
-      "description": "Mechanical CAD ExpertRole Type: Contractor Location: Remote We are seeking experienced Mechanical CAD Experts to contribute to a customer project focused on advanced mechanical engineering assemblies and technical analysis.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084432000,
-      "expires": 1799268432000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/modaxo/jobs/applied-ai-engineer",
-      "title": "Applied AI Engineer",
-      "company": "Modaxo",
-      "url": "https://himalayas.app/companies/modaxo/jobs/applied-ai-engineer?utm_source=api",
-      "description": "Job Summary: You will build the AI runtime, retrieval, guardrails, and evaluation that make the platform's AI features work in production - with cost, latency, and safety treated as first-class engineering constraints.",
-      "location": [
-        "Canada",
-        "Germany",
-        "Poland"
-      ],
-      "published": 1794084249000,
-      "expires": 1799268247000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/indonesian-bilingual-expert-remote",
-      "title": "Indonesian Bilingual Expert  - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/indonesian-bilingual-expert-remote?utm_source=api",
-      "description": "Indonesian Bilingual ExpertRole Type: Contractor Location: Remote Job DescriptionWe are seeking Indonesian Bilingual Experts to support a large-scale linguistic project focused on advancing AI technologies.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084215000,
-      "expires": 1799268214000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/workiva/jobs/senior-solution-sales-executive-sustainability",
-      "title": "Senior Solution Sales Executive - Sustainability",
-      "company": "Workiva",
-      "url": "https://himalayas.app/companies/workiva/jobs/senior-solution-sales-executive-sustainability?utm_source=api",
-      "description": "The Senior Solution Sales Executive is responsible for obtaining new business and customer expansion sales opportunities from Executive-level buyers and influencers in either private or publicly traded companies.",
-      "location": [
-        "United Kingdom"
-      ],
-      "published": 1794084215000,
-      "expires": 1799268214000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/amgen/jobs/field-director-medical-science-liaisons-rare-disease-gpa-mpa-sjogren-s-dise",
-      "title": "Field Director, Medical Science Liaisons - Rare Disease-GPA/MPA & Sjögren’s Dise",
-      "company": "Amgen",
-      "url": "https://himalayas.app/companies/amgen/jobs/field-director-medical-science-liaisons-rare-disease-gpa-mpa-sjogren-s-dise?utm_source=api",
-      "description": "Career CategoryMedical AffairsJob DescriptionJoin Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger, it’s because you are.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084215000,
-      "expires": 1799268213000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/beths-beautiful-destinations/jobs/virtual-hospitality-manager-wfh",
-      "title": "Virtual Hospitality Manager-WFH",
-      "company": "Beths Beautiful Destinations",
-      "url": "https://himalayas.app/companies/beths-beautiful-destinations/jobs/virtual-hospitality-manager-wfh?utm_source=api",
-      "description": "Category: Customer Service Location: Virtual Hospitality Manager-WFHOverview:Join our team as aVirtual Hospitality Managerand enjoy the flexibility of setting your work hours.",
-      "location": [
-        "Antigua and Barbuda",
-        "Argentina",
-        "Aruba",
-        "Australia",
-        "Bahamas",
-        "Barbados",
-        "Belize",
-        "Bermuda",
-        "Brazil",
-        "Cayman Islands",
-        "Chile",
-        "Colombia",
-        "Costa Rica",
-        "Dominican Republic",
-        "France",
-        "Germany",
-        "Grenada",
-        "Guatemala",
-        "Honduras",
-        "Ireland",
-        "Italy",
-        "Jamaica",
-        "Mexico",
-        "Netherlands",
-        "New Zealand",
-        "Panama",
-        "Peru",
-        "Portugal",
-        "Saint Kitts and Nevis",
-        "Saint Lucia",
-        "Spain",
-        "Sweden",
-        "Trinidad and Tobago",
-        "United Kingdom",
-        "United States"
-      ],
-      "published": 1794084214000,
-      "expires": 1799268213000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/safety-pv-submission-spec-i-at-least-2-years-of-experience-with-safety-submi",
-      "title": "Safety & PV Submission Spec I - At least 2 years of experience with safety submi",
-      "company": "Syneos Health India Private Limited",
-      "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/safety-pv-submission-spec-i-at-least-2-years-of-experience-with-safety-submi?utm_source=api",
-      "description": "Safety & PV Submission Spec I - At least 2 years of experience with safety submissions in clinical trials in Brazil and other countries - Brazil Home BasedSyneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success.",
+      "id": "https://himalayas.app/companies/metodo-grupo/jobs/analista-administrativo-gestao-integrada-temporario",
+      "title": "Analista Administrativo | Gestão Integrada - Temporário",
+      "company": "Método Grupo",
+      "url": "https://himalayas.app/companies/metodo-grupo/jobs/analista-administrativo-gestao-integrada-temporario?utm_source=api",
+      "description": "Você fará parte dotime de Gestão Integrada de Obras.",
       "location": [
         "Brazil"
       ],
-      "published": 1794084213000,
-      "expires": 1799268212000,
+      "published": 1794113607000,
+      "expires": 1799297606000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/cardiovascular-associates-of-america/jobs/senior-associate-business-development",
-      "title": "Senior Associate, Business Development",
-      "company": "Cardiovascular Associates of America",
-      "url": "https://himalayas.app/companies/cardiovascular-associates-of-america/jobs/senior-associate-business-development?utm_source=api",
-      "description": "About the job Private Equity Growth Platform has an exciting opportunity for a Sr.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084171000,
-      "expires": 1799268171000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/calix/jobs/area-vice-president-sales-central-west",
-      "title": "Area Vice President, Sales - Central / West",
-      "company": "Calix",
-      "url": "https://himalayas.app/companies/calix/jobs/area-vice-president-sales-central-west?utm_source=api",
-      "description": "The Calix platform enables Communication Service Providers (CSPs) of all sizes to transform and future-proof their businesses.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084137000,
-      "expires": 1799268136000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/civicplus/jobs/technical-support-engineer-iii",
-      "title": "Technical Support Engineer III",
-      "company": "CivicPlus",
-      "url": "https://himalayas.app/companies/civicplus/jobs/technical-support-engineer-iii?utm_source=api",
-      "description": "Your ImpactThis role keeps customers moving by providing top level technical support, troubleshooting, and clear documentation across CivicPlus products and integrations.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794084051000,
-      "expires": 1799268050000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/merrick-bank/jobs/analyst-ii-third-party-risk-management",
-      "title": "Analyst II, Third-Party Risk Management",
-      "company": "Merrick Bank",
-      "url": "https://himalayas.app/companies/merrick-bank/jobs/analyst-ii-third-party-risk-management?utm_source=api",
-      "description": "Join our team and build your career with momentum as we champion your growth, elevate your ideas and engage you in purpose-driven work that makes a real difference every day.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083984000,
-      "expires": 1799267983000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/sourcing-unicorns/jobs/creative-director",
-      "title": "Creative Director",
-      "company": "Sourcing Unicorns",
-      "url": "https://himalayas.app/companies/sourcing-unicorns/jobs/creative-director?utm_source=api",
-      "description": "About Us! At Sourcing Unicorns, we recruit globally across the creative and experiential industry, always on the lookout for exceptional talent to bring bold ideas to life.",
-      "location": [
-        "Canada",
-        "United States"
-      ],
-      "published": 1794083941000,
-      "expires": 1799267940000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/lemartec-corporation/jobs/detail-engineer-ii",
-      "title": "Detail Engineer II",
-      "company": "Lemartec Corporation",
-      "url": "https://himalayas.app/companies/lemartec-corporation/jobs/detail-engineer-ii?utm_source=api",
-      "description": "Overview MasTec Communications Group is a leading national infrastructure construction company operating throughout the United States.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083935000,
-      "expires": 1799267935000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/new-york-life-insurance-co/jobs/cvp-client-management-strategy-performance-remote-any-state-us",
-      "title": "CVP, Client Management Strategy & Performance (Remote, any state, US)",
-      "company": "New York Life Insurance Co",
-      "url": "https://himalayas.app/companies/new-york-life-insurance-co/jobs/cvp-client-management-strategy-performance-remote-any-state-us?utm_source=api",
-      "description": "Location Designation: Fully Remote Group Benefit Solutions deliverscomprehensive insurance and absence management solutions for mid-sized and large companies.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083890000,
-      "expires": 1799267889000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/dbm-global-inc/jobs/talent-acquisition-specialist",
-      "title": "Talent Acquisition Specialist",
-      "company": "DBM Global Inc.",
-      "url": "https://himalayas.app/companies/dbm-global-inc/jobs/talent-acquisition-specialist?utm_source=api",
-      "description": "OverviewAs the Talent Acquisition Specialist at DBMG, you will collaborate with key stakeholders to understand hiring needs across business units to meet immediate and future staffing plans.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083807000,
-      "expires": 1799267806000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/alpha-usa/jobs/catholic-spanish-generations-coordinator",
-      "title": "Catholic Spanish Generations Coordinator",
-      "company": "Alpha USA",
-      "url": "https://himalayas.app/companies/alpha-usa/jobs/catholic-spanish-generations-coordinator?utm_source=api",
-      "description": "About Alpha USA Alpha USA exists to equip and serve the Church in its mission to help people discover and develop a relationship with Jesus.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083800000,
-      "expires": 1799267799000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/gillis/jobs/hotel-sales-specialist-remote-usa",
-      "title": "Hotel Sales Specialist - Remote (USA)",
-      "company": "Gillis",
-      "url": "https://himalayas.app/companies/gillis/jobs/hotel-sales-specialist-remote-usa?utm_source=api",
-      "description": "Sales Specialist RoleAbout GillisAt Gillis, we believe that sales is the lifeblood for all organizations.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083748000,
-      "expires": 1799267747000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/ccs/jobs/genesys-platform-manager",
-      "title": "Genesys Platform Manager",
-      "company": "CCS",
-      "url": "https://himalayas.app/companies/ccs/jobs/genesys-platform-manager?utm_source=api",
-      "description": "OverviewResponsible for optimization and ongoing support of the Genesys Pure Cloud platform.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083694000,
-      "expires": 1799267693000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/imagery-analyst-remote",
-      "title": "Imagery Analyst - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/imagery-analyst-remote?utm_source=api",
-      "description": "Imagery Analyst – Drone & MaritimeRole Type: Contractor – Part-Time or Full-Time Location: Remote – U.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083669000,
-      "expires": 1799267668000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/evolve/jobs/senior-product-designer-guest-commerce",
-      "title": "Senior Product Designer, Guest Commerce",
-      "company": "Evolve",
-      "url": "https://himalayas.app/companies/evolve/jobs/senior-product-designer-guest-commerce?utm_source=api",
-      "description": "At Evolve, we’re on a mission to make vacation rental easy for everyone.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083651000,
-      "expires": 1799267651000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/human-interest/jobs/client-relationship-manager-i-7715733099",
-      "title": "Client Relationship Manager I",
+      "id": "https://himalayas.app/companies/human-interest/jobs/strategic-partnerships-director",
+      "title": "Strategic Partnerships Director",
       "company": "Human Interest",
-      "url": "https://himalayas.app/companies/human-interest/jobs/client-relationship-manager-i-7715733099?utm_source=api",
+      "url": "https://himalayas.app/companies/human-interest/jobs/strategic-partnerships-director?utm_source=api",
       "description": "Human Interest is on a mission to ensure that people in all lines of work have access to retirement benefits.",
       "location": [
         "United States"
       ],
-      "published": 1794083651000,
-      "expires": 1799267650000,
+      "published": 1794113583000,
+      "expires": 1799297582000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/shopify-expert-remote",
-      "title": "Shopify Expert - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/shopify-expert-remote?utm_source=api",
-      "description": "Shopify SpecialistRole Type: Contractor (5–10 hrs/week) Location: Remote We're seeking experienced Shopify Specialists to provide subject-matter expertise for a customer project focused on e-commerce workflows and analytics.",
+      "id": "https://himalayas.app/companies/reddit/jobs/senior-product-manager-finance-technology-procure-to-pay-record-to-report",
+      "title": "Senior Product Manager, Finance Technology (Procure-to-Pay & Record-to-Report)",
+      "company": "Reddit",
+      "url": "https://himalayas.app/companies/reddit/jobs/senior-product-manager-finance-technology-procure-to-pay-record-to-report?utm_source=api",
+      "description": "Reddit is a community of communities.  It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet.",
       "location": [
         "United States"
       ],
-      "published": 1794083646000,
-      "expires": 1799267645000,
+      "published": 1794113580000,
+      "expires": 1799297580000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/bishop-fox/jobs/senior-red-team-consultant",
-      "title": "Senior Red Team Consultant",
-      "company": "Bishop Fox",
-      "url": "https://himalayas.app/companies/bishop-fox/jobs/senior-red-team-consultant?utm_source=api",
-      "description": "At Bishop Fox, security isn't just a job—it's our passion.",
-      "location": [
-        "Mexico",
-        "United States"
-      ],
-      "published": 1794083566000,
-      "expires": 1799267565000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/centene-corporation/jobs/senior-business-technical-analyst-5896161230",
-      "title": "Senior Business Technical Analyst",
-      "company": "Centene Corporation",
-      "url": "https://himalayas.app/companies/centene-corporation/jobs/senior-business-technical-analyst-5896161230?utm_source=api",
-      "description": "Position Purpose: Provides in-depth business knowledge and advanced technical support to one or more business areas through developed and ad hoc analysis/reporting , as well as designing and programming complex, new processes/reports.",
+      "id": "https://himalayas.app/companies/smith-s-group/jobs/digital-application-engineer-ssa",
+      "title": "Digital Application Engineer (SSA)",
+      "company": "Smith's Group",
+      "url": "https://himalayas.app/companies/smith-s-group/jobs/digital-application-engineer-ssa?utm_source=api",
+      "description": "Job Purpose:The Digital Applications Engineer enables the digital (pre) sales team by providing application expertise and technical customer support throughout complex sales opportunities.",
       "location": [
         "United States"
       ],
-      "published": 1794083515000,
-      "expires": 1799267513000,
+      "published": 1794113523000,
+      "expires": 1799297522000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/darwoft/jobs/1045-dataops-engineer-python-aws-snowflake-senior-remote-arg",
-      "title": "1045 - DataOps Engineer (Python/AWS/Snowflake) · Senior · Remote · ARG",
-      "company": "Darwoft",
-      "url": "https://himalayas.app/companies/darwoft/jobs/1045-dataops-engineer-python-aws-snowflake-senior-remote-arg?utm_source=api",
-      "description": "Disclaimer – Lectura obligatoria: Compromiso y dedicaciónEste rol requiere dedicación full-time, con prioridad clara sobre los proyectos de Darwoft durante el horario laboral establecido.",
+      "id": "https://himalayas.app/companies/bernoulli-educacao/jobs/analista-ecommerce-pleno",
+      "title": "ANALISTA ECOMMERCE PLENO",
+      "company": "Bernoulli Educação",
+      "url": "https://himalayas.app/companies/bernoulli-educacao/jobs/analista-ecommerce-pleno?utm_source=api",
+      "description": "Se o olho brilha, vem ser BernoulliSomos feitos de pessoas que acreditam no poder transformador da educação.",
       "location": [
-        "Argentina"
+        "Brazil"
       ],
-      "published": 1794083514000,
-      "expires": 1799267513000,
+      "published": 1794113511000,
+      "expires": 1799297511000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/sysco/jobs/manager-sustainability-program-stakeholder-engagement-gsc-us",
-      "title": "Manager, Sustainability Program & Stakeholder Engagement - GSC - US",
-      "company": "Sysco",
-      "url": "https://himalayas.app/companies/sysco/jobs/manager-sustainability-program-stakeholder-engagement-gsc-us?utm_source=api",
-      "description": "Company:US6469 Sysco Payroll, Division of Sysco Resources Services, LLCSales Territory:NoneZip Code:77077Travel Percentage:Up to 25%Compensation Range:$107,400.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794083495000,
-      "expires": 1799267494000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/national-debt-relief-llc/jobs/principal-ai-ml-architect",
-      "title": "Principal AI & ML Architect",
-      "company": "National Debt Relief, LLC.",
-      "url": "https://himalayas.app/companies/national-debt-relief-llc/jobs/principal-ai-ml-architect?utm_source=api",
-      "description": "OverviewNational Debt Relief (NDR) is seeking a Principal AI & ML Architect to design and build the AI and machine learning systems that power our Data Science and Applied AI teams.",
+      "id": "https://himalayas.app/companies/chatham-university/jobs/mfa-low-residency-mentors",
+      "title": "MFA Low Residency Mentors",
+      "company": "Chatham University",
+      "url": "https://himalayas.app/companies/chatham-university/jobs/mfa-low-residency-mentors?utm_source=api",
+      "description": "Chatham University welcomes your interest in employment opportunities and encourages you to review open positions.",
       "location": [
         "United States"
       ],
-      "published": 1794083430000,
-      "expires": 1799267428000,
+      "published": 1794113480000,
+      "expires": 1799297480000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/pcg/jobs/junior-project-manager-project-controlling-w-m-d",
-      "title": "(Junior) Project Manager - Project Controlling (w/m/d)",
-      "company": "Public Cloud Group",
-      "url": "https://himalayas.app/companies/pcg/jobs/junior-project-manager-project-controlling-w-m-d?utm_source=api",
-      "description": "worum gehts?  In dieser Schlüsselrolle bist du das Bindeglied zwischen internen Teams und externen Partnern.",
+      "id": "https://himalayas.app/companies/first-citizens/jobs/lead-software-engineer-kafka-remote-nc-az-tx",
+      "title": "Lead Software Engineer - Kafka (Remote - NC, AZ, TX)",
+      "company": "First Citizens",
+      "url": "https://himalayas.app/companies/first-citizens/jobs/lead-software-engineer-kafka-remote-nc-az-tx?utm_source=api",
+      "description": "Overview This is a remote role that may be hired in several markets across the United States.",
       "location": [
-        "Germany"
+        "United States"
       ],
-      "published": 1794083396000,
-      "expires": 1799267395000,
+      "published": 1794113470000,
+      "expires": 1799297469000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/codeminders/jobs/qa-automation-lead-data-engineering",
-      "title": "QA Automation Lead (Data Engineering)",
-      "company": "Codeminders",
-      "url": "https://himalayas.app/companies/codeminders/jobs/qa-automation-lead-data-engineering?utm_source=api",
-      "description": "We are looking for a hands-on QA Automation Lead to own data quality and automation for a long-term project with a US-based client.",
+      "id": "https://himalayas.app/companies/spartanx-llc/jobs/solar-funding-specialist",
+      "title": "Solar Funding Specialist",
+      "company": "SpartanX LLC",
+      "url": "https://himalayas.app/companies/spartanx-llc/jobs/solar-funding-specialist?utm_source=api",
+      "description": "About SpartanX LLC At SpartanX, our approach is straightforward: we pair top-of-the-line solar technology with unmatched value.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794113465000,
+      "expires": 1799297465000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/motive/jobs/manager-technical-account-manager",
+      "title": "Manager, Technical Account Manager",
+      "company": "Motive",
+      "url": "https://himalayas.app/companies/motive/jobs/manager-technical-account-manager?utm_source=api",
+      "description": "Who we are:Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable.",
+      "location": [
+        "Pakistan"
+      ],
+      "published": 1794113335000,
+      "expires": 1799297334000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/first-citizens/jobs/data-engineer-i-data-platform-remote-raleigh-nc-dallas-tx-phoenix-az",
+      "title": "Data Engineer I - Data Platform (Remote-Raleigh NC, Dallas TX, Phoenix AZ)",
+      "company": "First Citizens",
+      "url": "https://himalayas.app/companies/first-citizens/jobs/data-engineer-i-data-platform-remote-raleigh-nc-dallas-tx-phoenix-az?utm_source=api",
+      "description": "Overview This is a remote role that may be hired in several markets across the United States.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794113318000,
+      "expires": 1799297318000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/da-vinci/jobs/senior-support-consultant",
+      "title": "Senior Support Consultant",
+      "company": "Da Vinci",
+      "url": "https://himalayas.app/companies/da-vinci/jobs/senior-support-consultant?utm_source=api",
+      "description": "The Senior Support Consultant brings deep warehouse management (WM) expertise to supporting DVU customers at DaVinci after go-live.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794113315000,
+      "expires": 1799297314000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/hostaway/jobs/inbound-sales-development-representative-spanish-and-italian-speaking-100-r",
+      "title": "Inbound Sales Development Representative (Spanish and Italian Speaking) - 100% r",
+      "company": "Hostaway",
+      "url": "https://himalayas.app/companies/hostaway/jobs/inbound-sales-development-representative-spanish-and-italian-speaking-100-r?utm_source=api",
+      "description": "Note: This is a fully remote role, but the candidate must be based within Europe to collaborate with their team, peers, and internal customers.",
       "location": [
         "Albania",
         "Andorra",
@@ -757,394 +205,894 @@
         "United Kingdom",
         "Åland Islands"
       ],
-      "published": 1794083332000,
-      "expires": 1799267331000,
+      "published": 1794113308000,
+      "expires": 1799297307000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/akamai-technologies/jobs/security-compliance-specialist-ii",
-      "title": "Security Compliance Specialist II",
-      "company": "Akamai Technologies",
-      "url": "https://himalayas.app/companies/akamai-technologies/jobs/security-compliance-specialist-ii?utm_source=api",
-      "description": "Do you relish the prospect of working with cutting-edge web security platforms?",
+      "id": "https://himalayas.app/companies/neolytix/jobs/spanish-bilingual-call-agent-healthcare",
+      "title": "Spanish Bilingual Call Agent - Healthcare",
+      "company": "Neolytix",
+      "url": "https://himalayas.app/companies/neolytix/jobs/spanish-bilingual-call-agent-healthcare?utm_source=api",
+      "description": "Work from home | Full-Time | Independent Contractor Are you bilingual with experience in healthcare, hospitals, medical translation, or medical documentation?",
       "location": [
-        "India"
+        "Venezuela"
       ],
-      "published": 1794083327000,
-      "expires": 1799267326000,
+      "published": 1794113307000,
+      "expires": 1799297307000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/amgen/jobs/director-study-evidence-readiness-7894048678",
-      "title": "Director, Study Evidence & Readiness",
-      "company": "Amgen",
-      "url": "https://himalayas.app/companies/amgen/jobs/director-study-evidence-readiness-7894048678?utm_source=api",
-      "description": "Career CategoryClinicalJob DescriptionJoin Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger, it’s because you are.",
+      "id": "https://himalayas.app/companies/pavago/jobs/video-game-developer-982281889",
+      "title": "Video Game Developer",
+      "company": "Pavago",
+      "url": "https://himalayas.app/companies/pavago/jobs/video-game-developer-982281889?utm_source=api",
+      "description": "Position Type: Full-Time Location: Remote Working Hours: U.",
       "location": [
-        "United States"
+        "Pakistan"
       ],
-      "published": 1794083314000,
-      "expires": 1799267313000,
+      "published": 1794113301000,
+      "expires": 1799297300000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/harris/jobs/senior-customer-experience-manager-w-m-d",
-      "title": "(Senior) Customer Experience Manager (w/m/d)",
-      "company": "Harris",
-      "url": "https://himalayas.app/companies/harris/jobs/senior-customer-experience-manager-w-m-d?utm_source=api",
-      "description": "📍 Ort: Remote DACH (mit gelegentlichen Reisen) ⏱️ Art der Anstellung: Vollzeit ⭐️ Website & kununu Über unsDie SIV.",
-      "location": [
-        "Austria",
-        "Germany",
-        "Switzerland"
-      ],
-      "published": 1794083289000,
-      "expires": 1799267288000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/veilsun-inc/jobs/ai-technical-lead",
-      "title": "AI Technical Lead",
-      "company": "VeilSun, Inc.",
-      "url": "https://himalayas.app/companies/veilsun-inc/jobs/ai-technical-lead?utm_source=api",
-      "description": "• Employment Type: Full-Time • FLSA Status: Exempt • Pay Type: Salary, Exempt.",
+      "id": "https://himalayas.app/companies/truckstop/jobs/software-engineering-manager",
+      "title": "Software Engineering Manager",
+      "company": "Truckstop",
+      "url": "https://himalayas.app/companies/truckstop/jobs/software-engineering-manager?utm_source=api",
+      "description": "At Truckstop, we have transformed the entire freight-moving lifecycle with our SaaS solutions.",
       "location": [
         "United States"
       ],
-      "published": 1794083289000,
-      "expires": 1799267288000,
+      "published": 1794113296000,
+      "expires": 1799297295000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/advocate-aurora-health/jobs/patient-safety-specialist",
-      "title": "Patient Safety Specialist",
-      "company": "Advocate Aurora Health",
-      "url": "https://himalayas.app/companies/advocate-aurora-health/jobs/patient-safety-specialist?utm_source=api",
-      "description": "Department: 10122 Enterprise Corporate - Patient SafetyStatus: Part timeBenefits Eligible: YesHours Per Week: 20Schedule Details/Additional Information: This is a part-time position scheduled to work 20 hours per week; 40 hours per pay period.",
+      "id": "https://himalayas.app/companies/cynet-corp/jobs/pricing-analyst-remote-in-costa-rica",
+      "title": "Pricing Analyst (Remote in Costa Rica)",
+      "company": "Cynet Corp",
+      "url": "https://himalayas.app/companies/cynet-corp/jobs/pricing-analyst-remote-in-costa-rica?utm_source=api",
+      "description": "The Pricing Analyst will play a critical role in shaping competitive, compliant and sustainable pricing strategies for staffing and workforce solutions within the government and private sectors, with a strong focus on federal contracts.",
+      "location": [
+        "Costa Rica"
+      ],
+      "published": 1794113296000,
+      "expires": 1799297294000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/evora-it-solutions/jobs/sap-cloud-erp-financial-consultant",
+      "title": "SAP Cloud ERP Financial Consultant",
+      "company": "Evora IT Solutions",
+      "url": "https://himalayas.app/companies/evora-it-solutions/jobs/sap-cloud-erp-financial-consultant?utm_source=api",
+      "description": "who we areEvora Group is a specialist SAP consulting and services partner with deep expertise in SAP Cloud ERP transformation.",
       "location": [
         "United States"
       ],
-      "published": 1794083272000,
-      "expires": 1799267272000,
+      "published": 1794113288000,
+      "expires": 1799297287000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/public-policy-expert-remote",
-      "title": "Public Policy Expert - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/public-policy-expert-remote?utm_source=api",
-      "description": "Legal, Policy & Public Affairs SpecialistRole Type: Contractor Location: Remote We are engaging Legal, Policy & Public Affairs Specialists to participate in a project focused on reviewing, reconstructing, and enhancing executive-level presentations for legal, policy, compliance, and public-sector audiences.",
+      "id": "https://himalayas.app/companies/wix/jobs/sales-manager-mid-market-base44",
+      "title": "Sales Manager, Mid-Market - Base44",
+      "company": "Wix",
+      "url": "https://himalayas.app/companies/wix/jobs/sales-manager-mid-market-base44?utm_source=api",
+      "description": "We’re building the go-to-market team for Base44, an AI-powered software development platform recently acquired by Wix.",
       "location": [
         "United States"
       ],
-      "published": 1794083267000,
-      "expires": 1799267266000,
+      "published": 1794113212000,
+      "expires": 1799297211000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/zelh/jobs/structural-engineer-drafter",
-      "title": "Structural Engineer/Drafter",
-      "company": "Zelh",
-      "url": "https://himalayas.app/companies/zelh/jobs/structural-engineer-drafter?utm_source=api",
-      "description": "Zelh is a fast-growing, passionate outsourcing company.",
-      "location": [
-        "Serbia",
-        "Ukraine"
-      ],
-      "published": 1794083255000,
-      "expires": 1799267254000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/ensono/jobs/expert-solution-delivery-architect",
-      "title": "Expert Solution Delivery Architect",
-      "company": "Ensono",
-      "url": "https://himalayas.app/companies/ensono/jobs/expert-solution-delivery-architect?utm_source=api",
-      "description": "Worker Type:EmployeeJob Duties & Responsibilities:Understand the functional areas well enough to involve the appropriate resources as needed to ensure a successful conversion.",
+      "id": "https://himalayas.app/companies/alliance-animal-health/jobs/benefits-specialist",
+      "title": "Benefits Specialist",
+      "company": "Alliance Animal Health",
+      "url": "https://himalayas.app/companies/alliance-animal-health/jobs/benefits-specialist?utm_source=api",
+      "description": "The Benefits Specialist serves as an internal resource for coordinating employee benefits and leave of absence administration across Alliance Animal Health's multi-state organization.",
       "location": [
         "United States"
       ],
-      "published": 1794083255000,
-      "expires": 1799267254000,
+      "published": 1794113192000,
+      "expires": 1799297192000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/omg-technology/jobs/sr-bioinformatics-scientist-algorithm-assay-development-remote-us",
-      "title": "Sr Bioinformatics Scientist – Algorithm & Assay Development (Remote, US)",
-      "company": "OMG Technology",
-      "url": "https://himalayas.app/companies/omg-technology/jobs/sr-bioinformatics-scientist-algorithm-assay-development-remote-us?utm_source=api",
-      "description": "Sr Bioinformatics Scientist – Algorithm & Assay Development (Remote, US) We are looking to hire a candidate with the mentioned skill sets and experience for one of our clients within the diagnostics and pharma services company.",
+      "id": "https://himalayas.app/companies/roundpoint-mortgage-servicing-corporation/jobs/business-solutions-manager",
+      "title": "Business Solutions Manager",
+      "company": "RoundPoint Mortgage Servicing Corporation",
+      "url": "https://himalayas.app/companies/roundpoint-mortgage-servicing-corporation/jobs/business-solutions-manager?utm_source=api",
+      "description": "The Business Solutions Manager is dedicated to the creation, operation, iteration and management of key enterprise systems within the mortgage operation at RoundPoint and the oversight of these business solutions and acts as a key coverage point for operational groups and leaders.",
       "location": [
         "United States"
       ],
-      "published": 1794083229000,
-      "expires": 1799267228000,
+      "published": 1794113105000,
+      "expires": 1799297104000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/ge-healthcare/jobs/sr-director-digital-pricing-strategy",
-      "title": "Sr. Director, Digital Pricing Strategy",
-      "company": "GE HealthCare",
-      "url": "https://himalayas.app/companies/ge-healthcare/jobs/sr-director-digital-pricing-strategy?utm_source=api",
-      "description": "Job Description SummaryGE HealthCare is undergoing a significant customer and business model transformation, driven by the acquisition of Intelerad and the expansion of innovative software, SaaS, and cloud-based solutions.",
+      "id": "https://himalayas.app/companies/phocas-software/jobs/principal-financial-sponsor-partnerships",
+      "title": "Principal, Financial Sponsor Partnerships",
+      "company": "Phocas Software",
+      "url": "https://himalayas.app/companies/phocas-software/jobs/principal-financial-sponsor-partnerships?utm_source=api",
+      "description": "Phocas Software is a profitable, growing SaaS company with a loyal customer base and a category-leading product.",
       "location": [
         "United States"
       ],
-      "published": 1794083214000,
-      "expires": 1799267213000,
+      "published": 1794113101000,
+      "expires": 1799297100000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/teleperformanceusa/jobs/bilingual-spanish-english-customer-experts-remote-8460819815",
-      "title": "Bilingual Spanish/English Customer Experts - Remote",
-      "company": "Teleperformance",
-      "url": "https://himalayas.app/companies/teleperformanceusa/jobs/bilingual-spanish-english-customer-experts-remote-8460819815?utm_source=api",
-      "description": "OverviewAs a Bilingual Spanish/English Customer Specialist, you will serve as a primary point of contact for our clients, managing inbound and outbound communications with professional excellence.",
+      "id": "https://himalayas.app/companies/sysdig/jobs/enterprise-account-executive-nordics",
+      "title": "Enterprise Account Executive (Nordics)",
+      "company": "Sysdig",
+      "url": "https://himalayas.app/companies/sysdig/jobs/enterprise-account-executive-nordics?utm_source=api",
+      "description": "At Sysdig, we believe cloud security isn't a compromise - it's a promise.",
+      "location": [
+        "Denmark"
+      ],
+      "published": 1794113101000,
+      "expires": 1799297100000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/huzzle/jobs/senior-meta-ads-specialist",
+      "title": "Senior Meta Ads Specialist",
+      "company": "Huzzle",
+      "url": "https://himalayas.app/companies/huzzle/jobs/senior-meta-ads-specialist?utm_source=api",
+      "description": "About HuzzleAt Huzzle, we connect exceptional talents with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia.",
+      "location": [
+        "South Africa"
+      ],
+      "published": 1794113090000,
+      "expires": 1799297090000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/igel-technology/jobs/enterprise-relationship-manager-business-continuity-and-disaster-recovery-m-f-5000825959",
+      "title": "Enterprise Relationship Manager, Business Continuity and Disaster Recovery (m/f/",
+      "company": "IGEL Technology",
+      "url": "https://himalayas.app/companies/igel-technology/jobs/enterprise-relationship-manager-business-continuity-and-disaster-recovery-m-f-5000825959?utm_source=api",
+      "description": "THE LOCATION: Belgium - Remote THE ROLE IGEL is building a dedicated enterprise sales motion for Business Continuity & Disaster Recovery (BC&DR).",
+      "location": [
+        "Belgium",
+        "Netherlands"
+      ],
+      "published": 1794113075000,
+      "expires": 1799297074000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/chg-healthcare/jobs/product-management-manager",
+      "title": "Product Management Manager",
+      "company": "CHG Healthcare",
+      "url": "https://himalayas.app/companies/chg-healthcare/jobs/product-management-manager?utm_source=api",
+      "description": "Healthcare’s helping hand.  CHG shook things up in 1979 by inventing the locum tenens staffing model.",
       "location": [
         "United States"
       ],
-      "published": 1794083197000,
-      "expires": 1799267196000,
+      "published": 1794112980000,
+      "expires": 1799296979000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/research-evaluation-specialist-remote",
-      "title": "Research Evaluation Specialist - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/research-evaluation-specialist-remote?utm_source=api",
-      "description": "Job Description: Research Evaluation Specialist (PhD, Master's, or Researcher)Role Type: Contractor (Approximately 15 hours per week) Location: Remote, Worldwide Job SummaryWe are seeking experienced Research Evaluation Specialists with advanced academic qualifications or substantial research experience to contribute to the development of rigorous evaluation materials for advanced AI models.",
+      "id": "https://himalayas.app/companies/rochester-regional-health/jobs/ct-scientific-associate-affairs-specialist",
+      "title": "CT Scientific Associate Affairs Specialist",
+      "company": "Rochester Regional Health",
+      "url": "https://himalayas.app/companies/rochester-regional-health/jobs/ct-scientific-associate-affairs-specialist?utm_source=api",
+      "description": "Job Title: CT Scientific Affairs Associate Specialist Department: Scientific Affairs Location: Remote, Eastern or Central Time Zones Hours Per Week: 40 Schedule: Monday - Friday, 8:00 AM - 5:00 PM SUMMARY The Clinical Trial Scientific Affairs Associate Specialist supports subcontracted testing performed by referral laboratories on ACM’s behalf.",
       "location": [
         "United States"
       ],
-      "published": 1794083157000,
-      "expires": 1799267156000,
+      "published": 1794112970000,
+      "expires": 1799296969000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/arrise/jobs/senior-security-analyst",
-      "title": "Senior Security Analyst",
-      "company": "Arrise",
-      "url": "https://himalayas.app/companies/arrise/jobs/senior-security-analyst?utm_source=api",
-      "description": "What you will doIncident Response• Lead investigations into complex security incidents, including containment, eradication, recovery, and root cause analysis.",
+      "id": "https://himalayas.app/companies/inetum/jobs/java-software-engineer-1",
+      "title": "Java Software Engineer / 1",
+      "company": "Inetum",
+      "url": "https://himalayas.app/companies/inetum/jobs/java-software-engineer-1?utm_source=api",
+      "description": "For one of our clients in the telecommunications industry we are looking for JVM Software Engineer.",
       "location": [
         "Poland"
       ],
-      "published": 1794083130000,
-      "expires": 1799267129000,
+      "published": 1794112970000,
+      "expires": 1799296969000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/certara/jobs/client-implementation-consultant-9031551964",
-      "title": "Client Implementation Consultant",
-      "company": "Certara",
-      "url": "https://himalayas.app/companies/certara/jobs/client-implementation-consultant-9031551964?utm_source=api",
-      "description": "Overview Certara is a growing company that provides a dynamic and exciting place to work.",
-      "location": [
-        "France",
-        "Hungary",
-        "United Kingdom"
-      ],
-      "published": 1794083126000,
-      "expires": 1799267125000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/notraffic/jobs/sales-operations-specialist",
-      "title": "Sales Operations Specialist",
-      "company": "NoTraffic",
-      "url": "https://himalayas.app/companies/notraffic/jobs/sales-operations-specialist?utm_source=api",
-      "description": "DescriptionJoin the future of mobility.  Help build the platform that's changing how cities move.",
+      "id": "https://himalayas.app/companies/privia-health/jobs/care-center-communications-sr-associate",
+      "title": "Care Center Communications Sr. Associate",
+      "company": "Privia Health",
+      "url": "https://himalayas.app/companies/privia-health/jobs/care-center-communications-sr-associate?utm_source=api",
+      "description": "The Communications Associate will assist in the planning, development, and execution of Care Center and clinician communications initiatives.",
       "location": [
         "United States"
       ],
-      "published": 1794083117000,
-      "expires": 1799267117000,
+      "published": 1794112745000,
+      "expires": 1799296744000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/stripe/jobs/partner-development-manager-ecosystem-partnerships-9321463440",
-      "title": "Partner Development Manager, Ecosystem Partnerships",
-      "company": "Stripe",
-      "url": "https://himalayas.app/companies/stripe/jobs/partner-development-manager-ecosystem-partnerships-9321463440?utm_source=api",
-      "description": "Who we areAbout StripeStripe is a financial infrastructure platform for businesses.",
-      "location": [
-        "Canada"
-      ],
-      "published": 1794083117000,
-      "expires": 1799267116000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/sapiens/jobs/technical-client-services-representative",
-      "title": "Technical Client Services Representative",
-      "company": "Sapiens",
-      "url": "https://himalayas.app/companies/sapiens/jobs/technical-client-services-representative?utm_source=api",
-      "description": "About Sapiens: Sapiens International Corporation (NASDAQ and TASE: SPNS) is a leading global provider of software solutions for the insurance industry, with a growing presence in the financial services sector.",
+      "id": "https://himalayas.app/companies/piedmont-healthcare/jobs/financial-clearance-associate-ii-7962856765",
+      "title": "Financial Clearance Associate-II",
+      "company": "Piedmont Healthcare",
+      "url": "https://himalayas.app/companies/piedmont-healthcare/jobs/financial-clearance-associate-ii-7962856765?utm_source=api",
+      "description": "ResponsibilitiesServes as front line support for the Patient Connection Center within Piedmont Healthcare.",
       "location": [
         "United States"
       ],
-      "published": 1794083082000,
-      "expires": 1799267081000,
+      "published": 1794112729000,
+      "expires": 1799296728000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/zoll-medical/jobs/customer-experience-partner-hospital-ems-6528960823",
-      "title": "Customer Experience Partner, Hospital & EMS",
-      "company": "ZOLL Medical",
-      "url": "https://himalayas.app/companies/zoll-medical/jobs/customer-experience-partner-hospital-ems-6528960823?utm_source=api",
-      "description": "Acute Care TechnologyThe Acute Care Technology division of ZOLL Medical Corporation develops and delivers innovative lifesaving products and software solutions to EMS, hospital, public safety, and military customers globally.",
+      "id": "https://himalayas.app/companies/gcore/jobs/customer-support-specialist-night-shift-tbilisi",
+      "title": "Customer Support Specialist (Night Shift/Tbilisi)",
+      "company": "Gcore",
+      "url": "https://himalayas.app/companies/gcore/jobs/customer-support-specialist-night-shift-tbilisi?utm_source=api",
+      "description": "Your Responsibilities:• First-line support, which includes handling customers and internal users requests via chat, email, and phone (rarely happens) in English; • Provide consultations about our products and services, such as Cloud, CDN, Hosting, AI and more; • Resolve technical issues by providing technical diagnostics and collect the information about customers and users incidents, forward it up to the higher levels of technical support if needed.",
+      "location": [
+        "Georgia"
+      ],
+      "published": 1794112728000,
+      "expires": 1799296728000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/slasify/jobs/marketing-specialist",
+      "title": "Marketing Specialist",
+      "company": "Slasify",
+      "url": "https://himalayas.app/companies/slasify/jobs/marketing-specialist?utm_source=api",
+      "description": "Slasify is a global HR platform that helps businesses hire, pay, and manage teams in 150+ countries and 130+ currencies — without setting up local entities.",
+      "location": [
+        "Taiwan"
+      ],
+      "published": 1794112724000,
+      "expires": 1799296724000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/bertelsmann-se-co-kgaa/jobs/manager-online-and-digital-business-development-open-to-remote-new-york-1",
+      "title": "Manager, Online and Digital Business Development - (Open to remote) (New York, 1",
+      "company": "Bertelsmann SE & Co. KGaA",
+      "url": "https://himalayas.app/companies/bertelsmann-se-co-kgaa/jobs/manager-online-and-digital-business-development-open-to-remote-new-york-1?utm_source=api",
+      "description": "Company Description Penguin Random House is the leading adult and children's publishing house in North America, the United Kingdom and many other regions around the world.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794112648000,
+      "expires": 1799296647000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/amgen/jobs/grad-intern-amgen-library-summer-2027",
+      "title": "Grad Intern – Amgen Library (Summer 2027)",
+      "company": "Amgen",
+      "url": "https://himalayas.app/companies/amgen/jobs/grad-intern-amgen-library-summer-2027?utm_source=api",
+      "description": "Career CategoryCollege JobJob DescriptionJoin Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger, it’s because you are.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794112513000,
+      "expires": 1799296508000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/defconai/jobs/product-designer-1099-contract-active-secret-clearance-required",
+      "title": "Product Designer (1099 Contract) | Active Secret Clearance Required",
+      "company": "DEFCON AI",
+      "url": "https://himalayas.app/companies/defconai/jobs/product-designer-1099-contract-active-secret-clearance-required?utm_source=api",
+      "description": "ABOUT DEFCON AIRESILIENCE IN THE FACE OF DISRUPTION.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794112506000,
+      "expires": 1799296502000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/hubspot/jobs/lead-presales-engineer-german-speaking",
+      "title": "Lead PreSales Engineer - German Speaking",
+      "company": "HubSpot",
+      "url": "https://himalayas.app/companies/hubspot/jobs/lead-presales-engineer-german-speaking?utm_source=api",
+      "description": "Lead Solutions Engineer The presales mission is to sell better to reduce turn rate and to push for value-driven propositions that solve for customers.",
       "location": [
         "Germany"
       ],
-      "published": 1794083074000,
-      "expires": 1799267074000,
+      "published": 1794112495000,
+      "expires": 1799296494000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/gartner/jobs/cio-analyst-australia-federal-and-state-government",
-      "title": "CIO Analyst - Australia Federal and State Government",
-      "company": "Gartner",
-      "url": "https://himalayas.app/companies/gartner/jobs/cio-analyst-australia-federal-and-state-government?utm_source=api",
-      "description": "About the roleGartner is hiring a Government CIO Technology Analyst, Sr.",
+      "id": "https://himalayas.app/companies/beths-beautiful-destinations/jobs/travel-reservation-consultant",
+      "title": "Travel Reservation Consultant",
+      "company": "Beths Beautiful Destinations",
+      "url": "https://himalayas.app/companies/beths-beautiful-destinations/jobs/travel-reservation-consultant?utm_source=api",
+      "description": "Category: Travel Location: Travel Reservation Consultant (Remote)Location:Remote Schedule:Full-Time or Part-TimeOverview:We are seeking a detail-oriented Travel Reservation Consultant to support clients with planning and booking travel experiences.",
       "location": [
-        "Australia"
-      ],
-      "published": 1794083034000,
-      "expires": 1799267033000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/agilent-technologies/jobs/demand-planner",
-      "title": "Demand Planner",
-      "company": "Agilent Technologies",
-      "url": "https://himalayas.app/companies/agilent-technologies/jobs/demand-planner?utm_source=api",
-      "description": "Job DescriptionIntegrated Business Planning (IBP) brings together forecasting and planning across marketing, sales, finance, procurement, manufacturing, and customer service into a unified process.",
-      "location": [
-        "Denmark",
+        "Aruba",
+        "Bahamas",
+        "Barbados",
+        "Belize",
+        "Cayman Islands",
+        "Colombia",
+        "Costa Rica",
+        "Dominican Republic",
+        "France",
         "Germany",
-        "India",
-        "Japan",
-        "Singapore"
+        "Honduras",
+        "Ireland",
+        "Italy",
+        "Jamaica",
+        "Mexico",
+        "New Zealand",
+        "Panama",
+        "Saint Lucia",
+        "Spain",
+        "United Kingdom",
+        "United States"
       ],
-      "published": 1794083018000,
-      "expires": 1799267017000,
+      "published": 1794112469000,
+      "expires": 1799296467000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/revolution-medicines/jobs/senior-manager-customer-engagement-social-strategy-and-operations",
-      "title": "Senior Manager, Customer Engagement Social Strategy and Operations",
-      "company": "Revolution Medicines",
-      "url": "https://himalayas.app/companies/revolution-medicines/jobs/senior-manager-customer-engagement-social-strategy-and-operations?utm_source=api",
-      "description": "Revolution Medicines is a global, commercial-state oncology company dedicated to discovering, developing and delivering innovative medicines for patients with RAS-addicted cancers.",
+      "id": "https://himalayas.app/companies/top-transport-talent/jobs/sales-executive-air-or-ocean",
+      "title": "Sales Executive (Air or Ocean)",
+      "company": "Top Transport Talent",
+      "url": "https://himalayas.app/companies/top-transport-talent/jobs/sales-executive-air-or-ocean?utm_source=api",
+      "description": "About Our ClientOur client is a leading global logistics provider, ranked among the Top 50 freight forwarders worldwide.",
+      "location": [
+        "Japan"
+      ],
+      "published": 1794112469000,
+      "expires": 1799296468000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/bravium-consulting/jobs/servicenow-retail-operations-architect-sme",
+      "title": "ServiceNow Retail Operations Architect/SME",
+      "company": "Bravium Consulting",
+      "url": "https://himalayas.app/companies/bravium-consulting/jobs/servicenow-retail-operations-architect-sme?utm_source=api",
+      "description": "Bravium Consulting is a dynamic and rapidly growing firm specializing in technology and management consulting for both public and private sector clients.",
       "location": [
         "United States"
       ],
-      "published": 1794083010000,
-      "expires": 1799267009000,
+      "published": 1794112462000,
+      "expires": 1799296462000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/samsara/jobs/security-operations-engineer-i",
-      "title": "Security Operations Engineer I",
-      "company": "Samsara",
-      "url": "https://himalayas.app/companies/samsara/jobs/security-operations-engineer-i?utm_source=api",
-      "description": "Who we areSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations.",
+      "id": "https://himalayas.app/companies/impact-advisors/jobs/director-of-workday-system-performance",
+      "title": "Director of Workday System Performance",
+      "company": "Impact Advisors",
+      "url": "https://himalayas.app/companies/impact-advisors/jobs/director-of-workday-system-performance?utm_source=api",
+      "description": "Impact Advisors, LLC is a nationally recognized healthcare management consulting firm delivering Best in KLAS advisory, implementation, and optimization services.",
       "location": [
         "United States"
       ],
-      "published": 1794082986000,
-      "expires": 1799266986000,
+      "published": 1794112449000,
+      "expires": 1799296448000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/northway-biotech/jobs/business-development-director-east-coast",
-      "title": "Business Development Director- East Coast",
-      "company": "Northway Biotech",
-      "url": "https://himalayas.app/companies/northway-biotech/jobs/business-development-director-east-coast?utm_source=api",
-      "description": "Position responsibilities:• Participation in development and implementation of key account and market strategies targeting clients that have the potential to substantially increase market share; • With support of in-house resources, ensure alignment with manufacturing capabilities/schedules and anticipated customer needs, including the coordination of prospective client site visits as well as other opportunities; • Developing effective sales and marketing processes (market research, forecasting, client development, relationship building, pricing, proposal preparation, contract negotiation, deal closing and the handoff of contracts to Project Management); • Support the design, implementation and effectiveness of systems and processes that facilitate accurate and timely decision making and reporting, including department and company performance (Key Performance Indicators), client financial worthiness and risk assessment/mitigation, and Customer Relationship Management; • Create marketing/competitive intelligence capability that identifies and positions the company in the forefront of key industry trends, challenges and opportunities; • Foster the development of senior level customer relationships, including the negotiation of contract agreements that are in compliance with company systems, acting as the primary company representative; • Develop and maintain positive, constructive and trusting relationships with members of the executive leadership as well as with in-house organization; • Participate in business development meetings as required and ensure action plans and follow-up activities are completed and communicated on a timely basis; • Coordinate both internal and external technical, legal and/or financial due diligence activities for specific business opportunities; • Manage regional budget and sales pipeline, analysing and evaluating the effectiveness of business development activities, costs and results, while taking corrective actions where needed; • Represent the company at various trade and industry shows, community, and/or business meetings that positively promote the company.",
+      "id": "https://himalayas.app/companies/joinroot/jobs/complex-adjuster-1-18-2027",
+      "title": "Complex Adjuster 1.18.2027",
+      "company": "Root, Inc.",
+      "url": "https://himalayas.app/companies/joinroot/jobs/complex-adjuster-1-18-2027?utm_source=api",
+      "description": "Root was founded on the belief that car insurance is broken, and we set out to change it.",
       "location": [
         "United States"
       ],
-      "published": 1794082986000,
-      "expires": 1799266986000,
+      "published": 1794112405000,
+      "expires": 1799296404000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/owensminor/jobs/licensing-coordinator",
-      "title": "Licensing Coordinator",
-      "company": "Owens & Minor",
-      "url": "https://himalayas.app/companies/owensminor/jobs/licensing-coordinator?utm_source=api",
-      "description": "Owens & Minor is a global healthcare solutions company providing essential products, services and technology solutions that support care delivery in leading hospitals, health systems and research centers around the world.",
+      "id": "https://himalayas.app/companies/capgemini-technology-services/jobs/fbs-associate-data-engineer",
+      "title": "FBS Associate Data Engineer",
+      "company": "Capgemini Technology Services",
+      "url": "https://himalayas.app/companies/capgemini-technology-services/jobs/fbs-associate-data-engineer?utm_source=api",
+      "description": "Our Client is one of the United States’ largest insurers, providing a wide range of insurance and financial services products with gross written premiums well over US$25 Billion (P&C).",
+      "location": [
+        "Brazil"
+      ],
+      "published": 1794112349000,
+      "expires": 1799296348000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/extrahop-networks/jobs/customer-success-manager-i-spain",
+      "title": "Customer Success Manager I | Spain",
+      "company": "ExtraHop Networks",
+      "url": "https://himalayas.app/companies/extrahop-networks/jobs/customer-success-manager-i-spain?utm_source=api",
+      "description": "At ExtraHop, we’re on a mission to protect and empower the connected enterprise.",
+      "location": [
+        "Spain"
+      ],
+      "published": 1794112289000,
+      "expires": 1799296288000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/unitarian-universalist-association/jobs/donor-database-manager",
+      "title": "Donor Database Manager",
+      "company": "Unitarian Universalist Association",
+      "url": "https://himalayas.app/companies/unitarian-universalist-association/jobs/donor-database-manager?utm_source=api",
+      "description": "Updated:September 1st, 2026 Title:Donor Database Manager Staff Group:Stewardship and Development Reports To:Director of Development Operations Location:Open* Job Category:Program Manager I Hours/Week:35 * Location is open in the continental United States.",
       "location": [
         "United States"
       ],
-      "published": 1794082832000,
-      "expires": 1799266831000,
+      "published": 1794112284000,
+      "expires": 1799296283000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/samsara/jobs/customer-success-account-manager-mid-market",
-      "title": "Customer Success Account Manager, Mid-Market",
-      "company": "Samsara",
-      "url": "https://himalayas.app/companies/samsara/jobs/customer-success-account-manager-mid-market?utm_source=api",
-      "description": "Who we areSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations.",
+      "id": "https://himalayas.app/companies/geico/jobs/senior-manager-data-analytics",
+      "title": "Senior Manager - Data Analytics",
+      "company": "GEICO",
+      "url": "https://himalayas.app/companies/geico/jobs/senior-manager-data-analytics?utm_source=api",
+      "description": "Why Join GEICO? At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.",
       "location": [
-        "United Kingdom"
+        "United States"
       ],
-      "published": 1794082828000,
-      "expires": 1799266827000,
+      "published": 1794112260000,
+      "expires": 1799296259000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/aqilea/jobs/azure-platform-solution-architect-developer-developer-experience-platform-e",
-      "title": "Azure Platform Solution Architect & Developer (Developer Experience & Platform E",
-      "company": "Aqilea",
-      "url": "https://himalayas.app/companies/aqilea/jobs/azure-platform-solution-architect-developer-developer-experience-platform-e?utm_source=api",
-      "description": "Role: Azure Platform Solution Architect & Developer (Developer Experience & Platform Enablement Focus) Job Ref Id: JD-1337 Competence level: 10+ Years Start date: 2026-12-01 End date: 2027-05-31 Extension option: Yes Scope: 100 % Location: India Remote work: Yes Language: English Application deadline: 2026-11-21 Number of consultants: 1 Security clearance: No About the assignmentWe are looking for an experienced Azure Platform Solution Architect and Developer to enable application teams to onboard and operate on a secure, governed Azure platform.",
+      "id": "https://himalayas.app/companies/cresta/jobs/marketing-engineer-ai-agents",
+      "title": "Marketing Engineer (AI Agents)",
+      "company": "Cresta",
+      "url": "https://himalayas.app/companies/cresta/jobs/marketing-engineer-ai-agents?utm_source=api",
+      "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794112260000,
+      "expires": 1799296259000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/scale-x-solutions/jobs/parts-inventory-coordinator-permanent-au-dayshift-remote-wfh-philippines",
+      "title": "Parts & Inventory Coordinator (PERMANENT AU DAYSHIFT, REMOTE/WFH - PHILIPPINES)",
+      "company": "Scale-X Solutions",
+      "url": "https://himalayas.app/companies/scale-x-solutions/jobs/parts-inventory-coordinator-permanent-au-dayshift-remote-wfh-philippines?utm_source=api",
+      "description": "Category: Architecture & Construction Location: PERMANENT AU DAYSHIFT, REMOTE/WFH PHILIPPINES Position Title: Parts & Inventory CoordinatorEmployment Type: Part-time 20 hours per week (Will transition to full time based on performance) Schedule: 9:00am WA Time VA RATE: $9 Position Overview Our client is looking for a detail-oriented and organised Parts & Inventory Coordinator to provide remote support to the onshore parts team.",
+      "location": [
+        "Philippines"
+      ],
+      "published": 1794112144000,
+      "expires": 1799296143000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/hustler-marketing/jobs/account-manager-e-commerce-marketing-agency-7838556753",
+      "title": "Account Manager - E-commerce Marketing Agency",
+      "company": "Hustler Marketing",
+      "url": "https://himalayas.app/companies/hustler-marketing/jobs/account-manager-e-commerce-marketing-agency-7838556753?utm_source=api",
+      "description": "The main purpose of the Account Manager is to manage their assigned clients and their stores by planning, briefing, monitoring, and executing marketing campaigns aimed at driving conversions and sales.",
+      "location": [
+        "Chile"
+      ],
+      "published": 1794112073000,
+      "expires": 1799296072000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/kreative-media/jobs/ai-automation-expert-n8n-make-zapier-ai-agents",
+      "title": "AI Automation Expert (n8n / Make / Zapier / AI Agents)",
+      "company": "Kreative Media",
+      "url": "https://himalayas.app/companies/kreative-media/jobs/ai-automation-expert-n8n-make-zapier-ai-agents?utm_source=api",
+      "description": "Kreative Media is hiring an AI Automation Expert to build the workflows behind our AI creative pipeline and client operations.",
+      "location": [],
+      "published": 1794112008000,
+      "expires": 1796447659000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/kreative-media/jobs/ai-video-editor",
+      "title": "AI Video Editor",
+      "company": "Kreative Media",
+      "url": "https://himalayas.app/companies/kreative-media/jobs/ai-video-editor?utm_source=api",
+      "description": "Kreative Media is hiring an AI Video Editor to produce scroll-stopping video ads for brands in India and abroad.",
+      "location": [],
+      "published": 1794112006000,
+      "expires": 1796447470000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/ace-digital-group/jobs/senior-digital-strategist-paid-search-and-social",
+      "title": "Senior Digital Strategist, Paid Search and Social",
+      "company": "Ace Digital Group",
+      "url": "https://himalayas.app/companies/ace-digital-group/jobs/senior-digital-strategist-paid-search-and-social?utm_source=api",
+      "description": "Welcome to Ace Digital Group - where we're always up for a challenge and never shy away from trying new things!",
+      "location": [
+        "Canada"
+      ],
+      "published": 1794111992000,
+      "expires": 1796014800000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/bloggersideas/jobs/seo-specialist",
+      "title": "SEO Specialist",
+      "company": "BloggersIdeas",
+      "url": "https://himalayas.app/companies/bloggersideas/jobs/seo-specialist?utm_source=api",
+      "description": "BloggersIdeas. com started in 2013 as one of India's most-read affiliate marketing blogs and now also runs as an AI automation and growth agency.",
       "location": [
         "India"
       ],
-      "published": 1794082786000,
-      "expires": 1799266785000,
+      "published": 1794111957000,
+      "expires": 1796328690000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/control-system-engineer-remote",
-      "title": "Control System Engineer - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/control-system-engineer-remote?utm_source=api",
-      "description": "Role Title: Control Systems Engineer Role Type: Contractor Location: Remote Required SkillsPID Control | Controller Design | Plant Modeling | System Identification | Real-System Deployment | LQR | MPC | Kalman Filtering | Python | Control Systems | Model Validation Job SummaryWe are seeking experienced Control Systems Engineers to support a project focused on real-world control systems and AI training.",
+      "id": "https://himalayas.app/companies/bloggersideas/jobs/content-writer-affiliate-digital-marketing",
+      "title": "Content Writer (Affiliate & Digital Marketing)",
+      "company": "BloggersIdeas",
+      "url": "https://himalayas.app/companies/bloggersideas/jobs/content-writer-affiliate-digital-marketing?utm_source=api",
+      "description": "SummaryBloggersIdeas (bloggersideas. com), founded in 2013 by Jitendra Vaswani and based in New Delhi, India, is one of India’s most-read affiliate marketing blogs and also runs as an AI automation and growth agency.",
       "location": [
-        "United States"
+        "India"
       ],
-      "published": 1794082780000,
-      "expires": 1799266779000,
+      "published": 1794111956000,
+      "expires": 1796332196000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/ensono/jobs/mainframe-technical-advisor",
-      "title": "Mainframe Technical Advisor",
-      "company": "Ensono",
-      "url": "https://himalayas.app/companies/ensono/jobs/mainframe-technical-advisor?utm_source=api",
-      "description": "Worker Type:EmployeeReporting to the Mainframe Operations Run organization, you will be part of the Technical Advisor team.",
+      "id": "https://himalayas.app/companies/bloggersideas/jobs/content-marketing-manager",
+      "title": "Content Marketing Manager",
+      "company": "BloggersIdeas",
+      "url": "https://himalayas.app/companies/bloggersideas/jobs/content-marketing-manager?utm_source=api",
+      "description": "About BloggersIdeas BloggersIdeas. com, founded in 2013 by Jitendra Vaswani, is one of India's most-read affiliate marketing blogs and also runs as an AI automation and growth agency, based in New Delhi.",
       "location": [
-        "United States"
+        "India"
       ],
-      "published": 1794082743000,
-      "expires": 1799266741000,
+      "published": 1794111955000,
+      "expires": 1796335457000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/radpartners-avature/jobs/general-radiology-enjoy-pet-ct-fully-remote-empire-state-radiology-new",
-      "title": "General Radiology - Enjoy PET CT? - Fully Remote - Empire State Radiology - New",
-      "company": "Radiology Partners",
-      "url": "https://himalayas.app/companies/radpartners-avature/jobs/general-radiology-enjoy-pet-ct-fully-remote-empire-state-radiology-new?utm_source=api",
-      "description": "General information Press space or enter keys to toggle section visibility Job Title General Radiology - Enjoy PET CT?",
+      "id": "https://himalayas.app/companies/high-roller-technologies-inc/jobs/senior-analyst-strategy",
+      "title": "Senior Analyst, Strategy",
+      "company": "High Roller Technologies, Inc.",
+      "url": "https://himalayas.app/companies/high-roller-technologies-inc/jobs/senior-analyst-strategy?utm_source=api",
+      "description": "High Roller Technologies is expanding into the rapidly evolving regulated prediction markets space — a major new growth area for the business.",
+      "location": [
+        "Malta"
+      ],
+      "published": 1794111917000,
+      "expires": 1799295916000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/jctm/jobs/senior-advisory-board-member-uscg-fd-i",
+      "title": "Senior Advisory Board Member - USCG FD&I",
+      "company": "JCTM",
+      "url": "https://himalayas.app/companies/jctm/jobs/senior-advisory-board-member-uscg-fd-i?utm_source=api",
+      "description": "Senior Advisory Board MemberU. S.  Coast Guard | Strategic Advisory, Mission Engineering, and Future Force Development Location: Remote / Washington, DC Metropolitan Area (Travel as Required) Employment Type: Part-Time / Intermittent / As-Needed Openings: Multiple Opportunity Status: Contingent Upon Contract Award and Authorized Requirements The Challenge:What if your military, federal, or technical leadership experience could help shape the future of the United States Coast Guard?",
       "location": [
         "United States"
       ],
-      "published": 1794082722000,
-      "expires": 1799087855000,
+      "published": 1794111917000,
+      "expires": 1799295916000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/techvify/jobs/solution-engineer",
+      "title": "Solution Engineer",
+      "company": "Techvify",
+      "url": "https://himalayas.app/companies/techvify/jobs/solution-engineer?utm_source=api",
+      "description": "Responsibilities• Architect, design and develop tailored technical solutions that address specific client needs, leveraging the full capabilities of our platform and products.",
+      "location": [
+        "Vietnam"
+      ],
+      "published": 1794111857000,
+      "expires": 1796366077000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/techvify/jobs/technical-leader",
+      "title": "Technical Leader",
+      "company": "Techvify",
+      "url": "https://himalayas.app/companies/techvify/jobs/technical-leader?utm_source=api",
+      "description": "What You'll Do • Own the technical solution for your squad: architecture, service boundaries, data model, integration design, and the non-functional requirements that usually get discovered too late.",
+      "location": [
+        "Vietnam"
+      ],
+      "published": 1794111854000,
+      "expires": 1796368445000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/layoutindex/jobs/sales-development-representative-sdr",
+      "title": "Sales Development Representative (SDR)",
+      "company": "LAYOUTindex ",
+      "url": "https://himalayas.app/companies/layoutindex/jobs/sales-development-representative-sdr?utm_source=api",
+      "description": "CINEsync () is the all-in-one platform that modern movie theaters run on: box office and concession POS, self-service kiosks, online ticketing on web and iOS/Android apps, loyalty programs, gift cards, digital signage and a powerful back office, all in one place.",
+      "location": [
+        "Albania",
+        "Belarus",
+        "Bosnia and Herzegovina",
+        "Bulgaria",
+        "Croatia",
+        "Czechia",
+        "Estonia",
+        "Hungary",
+        "Latvia",
+        "Lithuania",
+        "Moldova",
+        "Montenegro",
+        "North Macedonia",
+        "Poland",
+        "Romania",
+        "Russian Federation",
+        "Serbia",
+        "Slovakia",
+        "Slovenia",
+        "Ukraine"
+      ],
+      "published": 1794111849000,
+      "expires": 1796380119000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/providence/jobs/applications-engineer-ii-is-remote",
+      "title": "Applications Engineer II IS -Remote",
+      "company": "Providence",
+      "url": "https://himalayas.app/companies/providence/jobs/applications-engineer-ii-is-remote?utm_source=api",
+      "description": "Application Engineer II - RemoteThe Application Engineer II is responsible for design, configuration, testing, implementation, and ongoing support of moderately complex applications and services.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794111829000,
+      "expires": 1799295828000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/everhelp/jobs/sales-manager-ai",
+      "title": "Sales Manager | AI",
+      "company": "Everhelp",
+      "url": "https://himalayas.app/companies/everhelp/jobs/sales-manager-ai?utm_source=api",
+      "description": "EverHelp is a team of professionals developing outsourcing customer support services for products around the world.",
+      "location": [
+        "Germany"
+      ],
+      "published": 1794111787000,
+      "expires": 1796376517000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/eyeball-factory/jobs/senior-video-editor-direct-response-ads",
+      "title": "Senior Video Editor: Direct Response Ads",
+      "company": "Eyeball Factory",
+      "url": "https://himalayas.app/companies/eyeball-factory/jobs/senior-video-editor-direct-response-ads?utm_source=api",
+      "description": "Senior Video Editor: Direct Response Ads Remote | Full-time independent contractor | $3,500 to $5,000 USD a month + winner bonuses | At least 4 hours a day overlapping 10am to 6pm Dubai time You've edited hundreds of ads.",
+      "location": [],
+      "published": 1794111783000,
+      "expires": 1796703783000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/eyeball-factory/jobs/junior-video-editor-direct-response-ads",
+      "title": "Junior Video Editor: Direct Response Ads",
+      "company": "Eyeball Factory",
+      "url": "https://himalayas.app/companies/eyeball-factory/jobs/junior-video-editor-direct-response-ads?utm_source=api",
+      "description": "Junior Video Editor: Direct Response Ads Remote | Full-time independent contractor | $2,000 to $3,000 USD a month | At least 4 hours a day overlapping 10am to 6pm Dubai time You can cut a great ad.",
+      "location": [],
+      "published": 1794111779000,
+      "expires": 1795968000000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/highgrowth-io/jobs/sales-manager",
+      "title": "Sales Manager",
+      "company": "HighGrowth.io",
+      "url": "https://himalayas.app/companies/highgrowth-io/jobs/sales-manager?utm_source=api",
+      "description": "HighGrowth. io builds outbound sales teams for founder-led, bootstrapped, B2B companies ($500K to $5M ARR) in the US and Europe.",
+      "location": [],
+      "published": 1794111772000,
+      "expires": 1796703772000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/product-manager",
+      "title": "Product Manager",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/product-manager?utm_source=api",
+      "description": "Health Hue Hub has more than 40 features across operations, clinical, marketing and AI, used by med spas and aesthetic clinics in the US and Canada.",
+      "location": [],
+      "published": 1794111751000,
+      "expires": 1796658973000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/implementation-specialist",
+      "title": "Implementation Specialist",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/implementation-specialist?utm_source=api",
+      "description": "When a clinic signs with us, you get them running.",
+      "location": [],
+      "published": 1794111741000,
+      "expires": 1796659006000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/platform-support-specialist",
+      "title": "Platform Support Specialist",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/platform-support-specialist?utm_source=api",
+      "description": "Health Hue Hub is the platform med spas and aesthetic clinics use to run their day: booking, patient records, payments, messaging and marketing.",
+      "location": [],
+      "published": 1794111736000,
+      "expires": 1796659032000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/client-success-manager",
+      "title": "Client Success Manager",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/client-success-manager?utm_source=api",
+      "description": "You'll own the clinic relationship once onboarding is done: the check-ins, the reporting, the escalations, and the renewal.",
+      "location": [],
+      "published": 1794111735000,
+      "expires": 1796659057000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/business-development-representative",
+      "title": "Business Development Representative",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/business-development-representative?utm_source=api",
+      "description": "We're hiring a Business Development Representative to follow up with high-intent inbound leads generated from paid advertising.",
+      "location": [],
+      "published": 1794111732000,
+      "expires": 1796659082000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/creative-account-manager",
+      "title": "Creative Account Manager",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/creative-account-manager?utm_source=api",
+      "description": "We're hiring a Creative Account Manager to manage creative campaigns and client communication for beauty, medical spa, and plastic surgery brands.",
+      "location": [],
+      "published": 1794111731000,
+      "expires": 1796659108000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/senior-ai-automation-platform-architect",
+      "title": "Senior AI Automation & Platform Architect",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/senior-ai-automation-platform-architect?utm_source=api",
+      "description": "We are looking for a technical powerhouse to architect the automated infrastructure behind our plastic surgery and medical spa clients.",
+      "location": [],
+      "published": 1794111729000,
+      "expires": 1796659134000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/senior-graphic-designer",
+      "title": "Senior Graphic Designer",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/senior-graphic-designer?utm_source=api",
+      "description": "The Senior Graphic Designer creates the visual assets that support marketing, sales, and patient conversion across digital channels.",
+      "location": [],
+      "published": 1794111727000,
+      "expires": 1796659161000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/senior-web-designer",
+      "title": "Senior Web Designer",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/senior-web-designer?utm_source=api",
+      "description": "We're looking for an experienced Senior Web Designer.",
+      "location": [],
+      "published": 1794111724000,
+      "expires": 1796659188000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/video-editor",
+      "title": "Video Editor",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/video-editor?utm_source=api",
+      "description": "You'll edit short-form and long-form videos across Meta, TikTok, YouTube, and websites — combining visual storytelling, pacing, and design to produce editorial-quality content that converts.",
+      "location": [],
+      "published": 1794111723000,
+      "expires": 1796659216000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/paid-media-buyer",
+      "title": "Paid Media Buyer",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/paid-media-buyer?utm_source=api",
+      "description": "You'll own paid spend across Meta and Google for a book of aesthetics clinics.",
+      "location": [],
+      "published": 1794111720000,
+      "expires": 1796659249000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/seo-ai-search-strategist",
+      "title": "SEO & AI Search Strategist",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/seo-ai-search-strategist?utm_source=api",
+      "description": "Patients no longer only search — they ask.  You'll own how our clinics show up in both places: classic local and organic search, and the answers assistants give when someone asks where to get a treatment done.",
+      "location": [],
+      "published": 1794111718000,
+      "expires": 1796659275000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/healthhue/jobs/copywriter-medical-aesthetics",
+      "title": "Copywriter, Medical Aesthetics",
+      "company": "Health Hue Digital",
+      "url": "https://himalayas.app/companies/healthhue/jobs/copywriter-medical-aesthetics?utm_source=api",
+      "description": "You'll write the words patients read before they book: treatment pages, landing pages, ads, email, and the follow-up that turns an enquiry into an appointment.",
+      "location": [],
+      "published": 1794111713000,
+      "expires": 1796659300000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/swyfft/jobs/senior-software-developer-partner-api-net",
+      "title": "Senior Software Developer, Partner API (.NET)",
+      "company": "Swyfft",
+      "url": "https://himalayas.app/companies/swyfft/jobs/senior-software-developer-partner-api-net?utm_source=api",
+      "description": "Swyfft writes homeowners and commercial package insurance, sold mostly through independent agents.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794111704000,
+      "expires": 1799295703000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/rustlabs/jobs/remote-audio-describer-transcriber-ai-training",
+      "title": "Remote Audio Describer / Transcriber (AI training)",
+      "company": "RustLabs",
+      "url": "https://himalayas.app/companies/rustlabs/jobs/remote-audio-describer-transcriber-ai-training?utm_source=api",
+      "description": "Pay: $12 per approved task (about 90 minutes each), in USD.",
+      "location": [],
+      "published": 1794111698000,
+      "expires": 1796694968000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/accenture/jobs/group-life-insurance-management-consultant",
+      "title": "Group/Life Insurance Management Consultant",
+      "company": "Accenture",
+      "url": "https://himalayas.app/companies/accenture/jobs/group-life-insurance-management-consultant?utm_source=api",
+      "description": "Accenture is a business reinvention and technology company.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794111673000,
+      "expires": 1799295672000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/cielo/jobs/manager-customer-technology-operations",
+      "title": "Manager - Customer Technology Operations",
+      "company": "Cielo",
+      "url": "https://himalayas.app/companies/cielo/jobs/manager-customer-technology-operations?utm_source=api",
+      "description": "The Manager - Customer Technology Operations drives operational excellence within our Customer Technology team.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794111654000,
+      "expires": 1799295653000,
       "source": "Himalayas"
     },
     {
@@ -2461,263 +2409,263 @@
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/bilingual-medical-doctor-japanese-remote",
-      "title": "Bilingual Medical Doctor (Japanese) - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/bilingual-medical-doctor-japanese-remote?utm_source=api",
-      "description": "Role Title: Bilingual Medical Doctor (Japanese)Role Type: Contractor (Part-Time) Location: Remote, Worldwide Time Commitment: Minimum 15 hours per week We are seeking bilingual Medical Doctors fluent in Japanese and English to support an AI training project focused on healthcare and clinical decision-making.",
+      "id": "https://himalayas.app/companies/yale-new-haven-health/jobs/account-resolution-analyst-4780536615",
+      "title": "Account Resolution Analyst",
+      "company": "Yale New Haven Health",
+      "url": "https://himalayas.app/companies/yale-new-haven-health/jobs/account-resolution-analyst-4780536615?utm_source=api",
+      "description": "Overview To be part of our organization, every employee should understand and share in the YNHHS Vision, support our Mission, and live our Values.",
       "location": [
         "United States"
       ],
-      "published": 1794051707000,
-      "expires": 1799235706000,
+      "published": 1794086422000,
+      "expires": 1799270421000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/mercy/jobs/healthcare-recruiter",
-      "title": "Healthcare Recruiter",
-      "company": "Mercy",
-      "url": "https://himalayas.app/companies/mercy/jobs/healthcare-recruiter?utm_source=api",
-      "description": "Find your calling at Mercy! The recruiter in the human resources department provides sourcing, interviews, recruitment, job offers, coordination of new hire paperwork, maintain databases and act as a liaison between hiring managers and candidates.",
+      "id": "https://himalayas.app/companies/lifepoint-health/jobs/phone-counselor-assessor-behavioral-health",
+      "title": "Phone Counselor Assessor, Behavioral Health",
+      "company": "Lifepoint Health",
+      "url": "https://himalayas.app/companies/lifepoint-health/jobs/phone-counselor-assessor-behavioral-health?utm_source=api",
+      "description": "Phone Counselor Assessor- Behavioral HealthJob Type: Part-Time (Remote) Thursday - Saturday 12:00am-7:30am EST Your experience matters We are a diversified healthcare delivery network with facilities coast to coast.",
       "location": [
         "United States"
       ],
-      "published": 1794050715000,
-      "expires": 1799234714000,
+      "published": 1794086138000,
+      "expires": 1799270137000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/ensemble-health-partners/jobs/business-excellence-program-manager",
-      "title": "Business Excellence Program Manager",
-      "company": "Ensemble Health Partners",
-      "url": "https://himalayas.app/companies/ensemble-health-partners/jobs/business-excellence-program-manager?utm_source=api",
-      "description": "Thank you for considering a career at Ensemble! Ensemble is a leading provider of technology-enabled revenue cycle management solutions for health systems, including hospitals and affiliated physician groups.",
+      "id": "https://himalayas.app/companies/hire-virtue/jobs/director-of-marketing-communications",
+      "title": "Director of Marketing & Communications",
+      "company": "Hire Virtue",
+      "url": "https://himalayas.app/companies/hire-virtue/jobs/director-of-marketing-communications?utm_source=api",
+      "description": "Director of Marketing & Communications Confidential Echelon Search Location: %100 Remote — United States Compensation: $170,000–$195,000 annually, plus bonus and equity The OpportunityHire Virtue is conducting a confidential search for a Director of Marketing & Communications to lead the development and execution of marketing campaigns, brand content, and corporate communications for an organization preparing for product commercialization and continued growth.",
       "location": [
         "United States"
       ],
-      "published": 1794050392000,
-      "expires": 1799234392000,
+      "published": 1794085942000,
+      "expires": 1799269941000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/neolytix/jobs/spanish-bilingual-medical-virtual-agent",
-      "title": "Spanish Bilingual Medical Virtual Agent",
-      "company": "Neolytix",
-      "url": "https://himalayas.app/companies/neolytix/jobs/spanish-bilingual-medical-virtual-agent?utm_source=api",
-      "description": "Work from home | Full-Time | Independent Contractor Are you bilingual with experience in healthcare, hospitals, medical translation, or medical documentation?",
+      "id": "https://himalayas.app/companies/clinisys/jobs/integration-engineer",
+      "title": "Integration Engineer",
+      "company": "Clinisys",
+      "url": "https://himalayas.app/companies/clinisys/jobs/integration-engineer?utm_source=api",
+      "description": "Building anAI‑first organisationis central to Clinisys’ purpose and the impact we deliver.",
       "location": [
-        "Bolivia"
+        "United Kingdom"
       ],
-      "published": 1794049763000,
-      "expires": 1799233762000,
+      "published": 1794085706000,
+      "expires": 1799269706000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/call-4-health/jobs/nurse-triage-operations-admin",
-      "title": "Nurse Triage Operations Admin",
-      "company": "Call 4 Health",
-      "url": "https://himalayas.app/companies/call-4-health/jobs/nurse-triage-operations-admin?utm_source=api",
-      "description": "Position SummaryThe Nurse Triage Administrator is responsible for the coordination, administrative planning, and operational oversight of assigned functions within Call 4 Health's 24/7 Nurse Triage department, serving multiple healthcare clients.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794049641000,
-      "expires": 1799233640000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/advocate-aurora-health/jobs/hospital-coding-quality-integrity-analyst-outpatient",
-      "title": "Hospital Coding Quality Integrity Analyst - Outpatient",
-      "company": "Advocate Aurora Health",
-      "url": "https://himalayas.app/companies/advocate-aurora-health/jobs/hospital-coding-quality-integrity-analyst-outpatient?utm_source=api",
-      "description": "Department: 13244 Enterprise Revenue Cycle - Integrity Operations: Facility Coding QualityStatus: Full timeBenefits Eligible: YesHours Per Week: 40Schedule Details/Additional Information: Desired Experience: • Facility/Hospital Based Outpatient Coding experience Schedule: • Monday - Friday Flexible 1st shift / 40 hours a week Certification desired: • Coding credentials required.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794049595000,
-      "expires": 1799233592000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/molina-healthcare/jobs/pharmacy-operations-internship-summer-2027-undergraduate",
-      "title": "Pharmacy Operations Internship – Summer 2027 (Undergraduate)",
-      "company": "Molina Healthcare",
-      "url": "https://himalayas.app/companies/molina-healthcare/jobs/pharmacy-operations-internship-summer-2027-undergraduate?utm_source=api",
-      "description": "JOB SUMMARY (Purpose of the Job & high-level summary): The Molina Healthcare Internship Program shares an objective to create a stepping stone for students who aim to be professionals and future leaders in the healthcare business profession.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794049421000,
-      "expires": 1799233420000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/guidehouse/jobs/manager-payment-posting",
-      "title": "Manager, Payment Posting",
-      "company": "Guidehouse",
-      "url": "https://himalayas.app/companies/guidehouse/jobs/manager-payment-posting?utm_source=api",
-      "description": "Job Family:PFS GeneralTravel Required:Up to 25%Clearance Required:None What You Will Do:The Cash Posting Manager is responsible for overseeing the daily cash posting and payment reconciliation functions for hospital and healthcare revenue cycle operations.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794049411000,
-      "expires": 1799233410000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/go-lean-health/jobs/bilingual-back-office-insurance-prior-authorization-299632489",
-      "title": "Bilingual Back-Office Insurance & Prior Authorization",
-      "company": "Go Lean Health",
-      "url": "https://himalayas.app/companies/go-lean-health/jobs/bilingual-back-office-insurance-prior-authorization-299632489?utm_source=api",
-      "description": "Bilingual Back-Office Insurance & Prior Authorization Remote | Behavioral Health | 30 hours/week | $7/Hour Working Hours: 11:00 AM to 7:00 PM US Central Time Role OverviewWe are seeking an experienced Bilingual Back-Office Insurance & Prior Authorization Virtual Medical Assistant to support a nonprofit behavioral health organization in the United States.",
-      "location": [
-        "Venezuela"
-      ],
-      "published": 1794046928000,
-      "expires": 1799230927000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/ge-healthcare/jobs/asc-solutions-architect-west",
-      "title": "ASC Solutions Architect - West",
+      "id": "https://himalayas.app/companies/ge-healthcare/jobs/biomed-leader",
+      "title": "Biomed Leader",
       "company": "GE HealthCare",
-      "url": "https://himalayas.app/companies/ge-healthcare/jobs/asc-solutions-architect-west?utm_source=api",
-      "description": "Job Description SummaryThe ASC Solutions Architect is the commercial solutioning and deal-architecture lead for complex ambulatory surgery center opportunities.",
+      "url": "https://himalayas.app/companies/ge-healthcare/jobs/biomed-leader?utm_source=api",
+      "description": "Job Description SummaryAll resources, and logistics required to perform services and maintenance activities on customers' site/property.",
       "location": [
         "United States"
       ],
-      "published": 1794046801000,
-      "expires": 1799230800000,
+      "published": 1794085528000,
+      "expires": 1799269527000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/stryker/jobs/senior-implementation-engineer",
-      "title": "Senior Implementation Engineer",
-      "company": "Stryker",
-      "url": "https://himalayas.app/companies/stryker/jobs/senior-implementation-engineer?utm_source=api",
-      "description": "Work Flexibility: RemoteThe Implementation Engineer will execute technical planning, architecture, and implementation of on-premise communications solutions that result in a successful deployment within the customer environment.",
-      "location": [
-        "Canada"
-      ],
-      "published": 1794046789000,
-      "expires": 1799230788000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/versant-health/jobs/chief-strategy-officer",
-      "title": "Chief Strategy Officer",
-      "company": "Versant Health",
-      "url": "https://himalayas.app/companies/versant-health/jobs/chief-strategy-officer?utm_source=api",
-      "description": "SEE how you can make a difference!  Be part of an innovative company that cares about its associates and helps members enjoy the wonders of sight through healthy eyes and vision.",
+      "id": "https://himalayas.app/companies/circle-cardiovascular-imaging/jobs/account-sales-executive-2026-047",
+      "title": "Account Sales Executive (2026-047)",
+      "company": "Circle Cardiovascular Imaging",
+      "url": "https://himalayas.app/companies/circle-cardiovascular-imaging/jobs/account-sales-executive-2026-047?utm_source=api",
+      "description": "About Circle Cardiovascular Imaging: Circle’s vision is to enable healthier Lives through better imaging by transforming cardiac magnetic resonance imaging (MR) and other advanced imaging technologies to improve Cardiovascular Care.",
       "location": [
         "United States"
       ],
-      "published": 1794045942000,
-      "expires": 1799229942000,
+      "published": 1794085464000,
+      "expires": 1799269463000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/wellsky/jobs/clinical-quality-program-manager",
-      "title": "Clinical Quality Program Manager",
-      "company": "WellSky",
-      "url": "https://himalayas.app/companies/wellsky/jobs/clinical-quality-program-manager?utm_source=api",
-      "description": "This job is responsible for ensuring compliance with WellSky's Utilization Management and Quality Improvement Program by serving as a clinical expert on state and federal regulations.",
+      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/va-eligibility-specialist-remote",
+      "title": "VA Eligibility Specialist - Remote",
+      "company": "YO AI Labs",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/va-eligibility-specialist-remote?utm_source=api",
+      "description": "Role Title: VA Eligibility SpecialistRole Type: Contractor Location: Remote, United States Time Commitment: 20–30 hours per week, short-term project We are seeking experienced VA Eligibility Specialists to evaluate and improve AI-generated guidance on veterans' health care.",
       "location": [
         "United States"
       ],
-      "published": 1794045557000,
-      "expires": 1799229556000,
+      "published": 1794084915000,
+      "expires": 1799268915000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/guidewell/jobs/claims-examiner-i-2156313449",
-      "title": "Claims Examiner I",
-      "company": "GuideWell",
-      "url": "https://himalayas.app/companies/guidewell/jobs/claims-examiner-i-2156313449?utm_source=api",
-      "description": "Get To Know Us! WebTPA, a GuideWell Company, is a healthcare third-party administrator with over 30+ years of experience building unique benefit solutions and managing customized health plans.",
+      "id": "https://himalayas.app/companies/modernizing-medicine-inc/jobs/director-rcm-sales",
+      "title": "Director, RCM Sales",
+      "company": "Modernizing Medicine, Inc.",
+      "url": "https://himalayas.app/companies/modernizing-medicine-inc/jobs/director-rcm-sales?utm_source=api",
+      "description": "Join the Team Modernizing MedicineAt ModMed, we’re not just building software—we’re reimagining the healthcare experience.",
       "location": [
         "United States"
       ],
-      "published": 1794044527000,
-      "expires": 1799228527000,
+      "published": 1794084507000,
+      "expires": 1799268506000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/insight-therapy-solutions/jobs/marketing-and-partnerships-manager-6056048333",
-      "title": "Marketing and Partnerships Manager",
-      "company": "Insight Therapy Solutions",
-      "url": "https://himalayas.app/companies/insight-therapy-solutions/jobs/marketing-and-partnerships-manager-6056048333?utm_source=api",
-      "description": "This is a remote position. Role OverviewWe are seeking a strategic, highly organized, and growth-mindedMarketing & Partnership Managerto oversee the promotional and community outreach ecosystem of our US-based clinical practice.",
+      "id": "https://himalayas.app/companies/amgen/jobs/field-director-medical-science-liaisons-rare-disease-gpa-mpa-sjogren-s-dise",
+      "title": "Field Director, Medical Science Liaisons - Rare Disease-GPA/MPA & Sjögren’s Dise",
+      "company": "Amgen",
+      "url": "https://himalayas.app/companies/amgen/jobs/field-director-medical-science-liaisons-rare-disease-gpa-mpa-sjogren-s-dise?utm_source=api",
+      "description": "Career CategoryMedical AffairsJob DescriptionJoin Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger, it’s because you are.",
       "location": [
         "United States"
       ],
-      "published": 1794043902000,
-      "expires": 1799227901000,
+      "published": 1794084215000,
+      "expires": 1799268213000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/mayo-clinic/jobs/solutions-architect-revenue-cycle-automation-remote",
-      "title": "Solutions Architect Revenue Cycle-Automation-Remote",
-      "company": "Mayo Clinic",
-      "url": "https://himalayas.app/companies/mayo-clinic/jobs/solutions-architect-revenue-cycle-automation-remote?utm_source=api",
-      "description": "Why Mayo Clinic Mayo Clinic is top-ranked in more specialties than any other care provider according to U.",
+      "id": "https://himalayas.app/companies/cardiovascular-associates-of-america/jobs/senior-associate-business-development",
+      "title": "Senior Associate, Business Development",
+      "company": "Cardiovascular Associates of America",
+      "url": "https://himalayas.app/companies/cardiovascular-associates-of-america/jobs/senior-associate-business-development?utm_source=api",
+      "description": "About the job Private Equity Growth Platform has an exciting opportunity for a Sr.",
       "location": [
         "United States"
       ],
-      "published": 1794043848000,
-      "expires": 1799227847000,
+      "published": 1794084171000,
+      "expires": 1799268171000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/recruitmymom/jobs/half-day-medical-administrator",
-      "title": "Half-day Medical Administrator",
-      "company": "RecruitMyMom",
-      "url": "https://himalayas.app/companies/recruitmymom/jobs/half-day-medical-administrator?utm_source=api",
-      "description": "This is a remote position. Operating remotely for 20 hours per week (Monday to Friday), this position delivers front-of-house coordination and operational administration for an established corporate healthcare provider.",
+      "id": "https://himalayas.app/companies/centene-corporation/jobs/senior-business-technical-analyst-5896161230",
+      "title": "Senior Business Technical Analyst",
+      "company": "Centene Corporation",
+      "url": "https://himalayas.app/companies/centene-corporation/jobs/senior-business-technical-analyst-5896161230?utm_source=api",
+      "description": "Position Purpose: Provides in-depth business knowledge and advanced technical support to one or more business areas through developed and ad hoc analysis/reporting , as well as designing and programming complex, new processes/reports.",
       "location": [
-        "Ireland"
+        "United States"
       ],
-      "published": 1794043722000,
-      "expires": 1799227721000,
+      "published": 1794083515000,
+      "expires": 1799267513000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/compugroup-medical/jobs/key-account-manager-m-w-d-pharma-healthcare",
-      "title": "Key Account Manager (m/w/d) – Pharma & Healthcare",
-      "company": "CompuGroup Medical",
-      "url": "https://himalayas.app/companies/compugroup-medical/jobs/key-account-manager-m-w-d-pharma-healthcare?utm_source=api",
-      "description": "Als führendes Unternehmen im Bereich Softwarelösungen für das Gesundheitswesen sind wir in 19 Ländern tätig und beschäftigen über 9.",
+      "id": "https://himalayas.app/companies/advocate-aurora-health/jobs/patient-safety-specialist",
+      "title": "Patient Safety Specialist",
+      "company": "Advocate Aurora Health",
+      "url": "https://himalayas.app/companies/advocate-aurora-health/jobs/patient-safety-specialist?utm_source=api",
+      "description": "Department: 10122 Enterprise Corporate - Patient SafetyStatus: Part timeBenefits Eligible: YesHours Per Week: 20Schedule Details/Additional Information: This is a part-time position scheduled to work 20 hours per week; 40 hours per pay period.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794083272000,
+      "expires": 1799267272000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/ge-healthcare/jobs/sr-director-digital-pricing-strategy",
+      "title": "Sr. Director, Digital Pricing Strategy",
+      "company": "GE HealthCare",
+      "url": "https://himalayas.app/companies/ge-healthcare/jobs/sr-director-digital-pricing-strategy?utm_source=api",
+      "description": "Job Description SummaryGE HealthCare is undergoing a significant customer and business model transformation, driven by the acquisition of Intelerad and the expansion of innovative software, SaaS, and cloud-based solutions.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794083214000,
+      "expires": 1799267213000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/zoll-medical/jobs/customer-experience-partner-hospital-ems-6528960823",
+      "title": "Customer Experience Partner, Hospital & EMS",
+      "company": "ZOLL Medical",
+      "url": "https://himalayas.app/companies/zoll-medical/jobs/customer-experience-partner-hospital-ems-6528960823?utm_source=api",
+      "description": "Acute Care TechnologyThe Acute Care Technology division of ZOLL Medical Corporation develops and delivers innovative lifesaving products and software solutions to EMS, hospital, public safety, and military customers globally.",
       "location": [
         "Germany"
       ],
-      "published": 1794043499000,
-      "expires": 1799227499000,
+      "published": 1794083074000,
+      "expires": 1799267074000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/us-acute-care-solutions/jobs/erp-inpatient-medicine-analyst",
-      "title": "ERP Inpatient Medicine Analyst",
-      "company": "US Acute Care Solutions",
-      "url": "https://himalayas.app/companies/us-acute-care-solutions/jobs/erp-inpatient-medicine-analyst?utm_source=api",
-      "description": "Job Posting Closing Date: Open until Filled Where do you belong?",
+      "id": "https://himalayas.app/companies/wvu-medicine/jobs/supervisor-strategic-staffing-solutions",
+      "title": "Supervisor, Strategic Staffing Solutions",
+      "company": "WVU Medicine",
+      "url": "https://himalayas.app/companies/wvu-medicine/jobs/supervisor-strategic-staffing-solutions?utm_source=api",
+      "description": "Welcome!  We’re excited you’re considering an opportunity with us!",
       "location": [
         "United States"
       ],
-      "published": 1794043497000,
-      "expires": 1799227496000,
+      "published": 1794080247000,
+      "expires": 1799264245000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/corrohealth/jobs/pb-hb-coding-denials-edits-specialist-aapc-or-amhima-cert-required",
-      "title": "PB & HB Coding Denials & Edits Specialist (AAPC or AMHIMA cert required)",
-      "company": "CorroHealth",
-      "url": "https://himalayas.app/companies/corrohealth/jobs/pb-hb-coding-denials-edits-specialist-aapc-or-amhima-cert-required?utm_source=api",
-      "description": "About Us:Our purpose is to help clients exceed their financial health goals.",
+      "id": "https://himalayas.app/companies/regeneron/jobs/reimbursement-business-manager",
+      "title": "Reimbursement Business Manager",
+      "company": "Regeneron",
+      "url": "https://himalayas.app/companies/regeneron/jobs/reimbursement-business-manager?utm_source=api",
+      "description": "Build our future together: The Field Reimbursement Manager is a critical front-line member of the Regeneron Ophthalmology Field team.",
       "location": [
         "United States"
       ],
-      "published": 1794042842000,
-      "expires": 1799226841000,
+      "published": 1794078929000,
+      "expires": 1799262928000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/eversana/jobs/field-access-manager-diabetes-north-florida",
+      "title": "Field Access Manager - Diabetes - North Florida",
+      "company": "EVERSANA",
+      "url": "https://himalayas.app/companies/eversana/jobs/field-access-manager-diabetes-north-florida?utm_source=api",
+      "description": "The Field Access Manager (FAM) will act as the main point of contact at designated accounts providing account management support to Healthcare Professionals (HCPs) and their staff on behalf of patients who are prescribed a product for approved indications.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794078271000,
+      "expires": 1799262270000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/go-lean-health/jobs/bilingual-back-office-insurance-prior-authorization-2090229576",
+      "title": "Bilingual Back-Office Insurance & Prior Authorization",
+      "company": "Go Lean Health",
+      "url": "https://himalayas.app/companies/go-lean-health/jobs/bilingual-back-office-insurance-prior-authorization-2090229576?utm_source=api",
+      "description": "Bilingual Back-Office Insurance & Prior Authorization Remote | Behavioral Health | 30 hours/week | $7/Hour Working Hours: 11:00 AM to 7:00 PM US Central Time Role OverviewWe are seeking an experienced Bilingual Back-Office Insurance & Prior Authorization Virtual Medical Assistant to support a nonprofit behavioral health organization in the United States.",
+      "location": [
+        "Mexico"
+      ],
+      "published": 1794078239000,
+      "expires": 1799262238000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/conduent/jobs/remote-healthcare-call-center-representative-7226372394",
+      "title": "Remote Healthcare Call Center Representative",
+      "company": "Conduent",
+      "url": "https://himalayas.app/companies/conduent/jobs/remote-healthcare-call-center-representative-7226372394?utm_source=api",
+      "description": "Healthcare Contact Center Associate -Work from Home About the Healthcare Call Center Associate role: As a member of the Customer Experience team, you will handle telehealth-based phone calls and email inquiries.",
+      "location": [
+        "United States"
+      ],
+      "published": 1794077920000,
+      "expires": 1799261919000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/ge-healthcare/jobs/call-centre-process-field-operations-leader",
+      "title": "Call Centre Process & Field Operations Leader",
+      "company": "GE HealthCare",
+      "url": "https://himalayas.app/companies/ge-healthcare/jobs/call-centre-process-field-operations-leader?utm_source=api",
+      "description": "Job Description SummaryThe Call Centre Process & Field Operations Leader provides leadership and operational oversight for Call Centre processes and the digital tools and workflows that support customer and service operations in Canada.",
+      "location": [
+        "Canada"
+      ],
+      "published": 1794077048000,
+      "expires": 1799261048000,
       "source": "Himalayas"
     },
     {
@@ -2996,150 +2944,263 @@
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/alice-technologies/jobs/senior-product-manager-us",
-      "title": "Senior Product Manager - US",
-      "company": "ALICE Technologies",
-      "url": "https://himalayas.app/companies/alice-technologies/jobs/senior-product-manager-us?utm_source=api",
-      "description": "We’re building the AI-powered future of construction planning.",
+      "id": "https://himalayas.app/companies/summit-therapeutics/jobs/clinical-trial-manager-ii-7094705624",
+      "title": "Clinical Trial Manager II",
+      "company": "Summit Therapeutics",
+      "url": "https://himalayas.app/companies/summit-therapeutics/jobs/clinical-trial-manager-ii-7094705624?utm_source=api",
+      "description": "About Summit:Summit Therapeutics Inc.  is a biopharmaceutical oncology company with a mission focused on improving quality of life, increasing potential duration of life, and resolving serious unmet medical needs.",
+      "location": [
+        "Ireland",
+        "United Kingdom"
+      ],
+      "published": 1794110817000,
+      "expires": 1799294816000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/telus-digital/jobs/global-ai-expert-evaluator",
+      "title": "Global AI Expert & Evaluator",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/global-ai-expert-evaluator?utm_source=api",
+      "description": "TELUS Digital is building a global community of experts to evaluate, challenge and improve advanced AI systems.",
+      "location": [],
+      "published": 1794110683000,
+      "expires": 1796546115000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/telus-digital/jobs/rsi-training-ready-made-dataset-expert",
+      "title": "RSI Training & Ready-Made Dataset Expert",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/rsi-training-ready-made-dataset-expert?utm_source=api",
+      "description": "TELUS Digital is building a global community of experts to support the development and evaluation of advanced Artificial Intelligence systems.",
+      "location": [],
+      "published": 1794110680000,
+      "expires": 1796546827000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-spanish-speakers-in-united-states-2786146100",
+      "title": "Online Data Analyst - Spanish speakers in United States",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-spanish-speakers-in-united-states-2786146100?utm_source=api",
+      "description": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build better AI models.",
       "location": [
         "United States"
       ],
-      "published": 1794087629000,
-      "expires": 1799271628000,
+      "published": 1794110654000,
+      "expires": 1796541364000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/revolution-medicines/jobs/senior-director-global-commercial-development-early-detection-market-shaping",
-      "title": "Senior Director, Global Commercial Development, Early Detection & Market Shaping",
-      "company": "Revolution Medicines",
-      "url": "https://himalayas.app/companies/revolution-medicines/jobs/senior-director-global-commercial-development-early-detection-market-shaping?utm_source=api",
-      "description": "Revolution Medicines is a global, commercial-state oncology company dedicated to discovering, developing and delivering innovative medicines for patients with RAS-addicted cancers.",
+      "id": "https://himalayas.app/companies/welocalize/jobs/swedish-ai-data-rater",
+      "title": "Swedish AI Data Rater",
+      "company": "Welocalize",
+      "url": "https://himalayas.app/companies/welocalize/jobs/swedish-ai-data-rater?utm_source=api",
+      "description": "OVERVIEW Are you tech-savvy?  Have a passion for quality?",
       "location": [
-        "United States"
+        "Bulgaria"
       ],
-      "published": 1794087487000,
-      "expires": 1799271486000,
+      "published": 1794110651000,
+      "expires": 1796544373000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/amerisourcebergen/jobs/senior-director-corporate-accounts",
-      "title": "Senior Director, Corporate Accounts",
-      "company": "AmerisourceBergen",
-      "url": "https://himalayas.app/companies/amerisourcebergen/jobs/senior-director-corporate-accounts?utm_source=api",
-      "description": "Our team members are at the heart of everything we do.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794086684000,
-      "expires": 1799270683000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/lexisnexis/jobs/legal-counsel-pacific",
-      "title": "Legal Counsel - Pacific",
-      "company": "LexisNexis",
-      "url": "https://himalayas.app/companies/lexisnexis/jobs/legal-counsel-pacific?utm_source=api",
-      "description": "Australia or New Zealand | Permanent, Full-time | Flexible Working or Fully Remote About the roleThis is an opportunity for an experienced commercial lawyer to join LexisNexis and work at the intersection of law, technology and AI.",
-      "location": [
-        "Australia",
-        "New Zealand"
-      ],
-      "published": 1794086007000,
-      "expires": 1799270006000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/200510503z-thermo-fisher-scientific-pte-ltd/jobs/fsp-sr-cra-medical-device-east-coast",
-      "title": "FSP Sr CRA - Medical Device - East Coast",
-      "company": "200510503Z Thermo Fisher Scientific Pte. Ltd.",
-      "url": "https://himalayas.app/companies/200510503z-thermo-fisher-scientific-pte-ltd/jobs/fsp-sr-cra-medical-device-east-coast?utm_source=api",
-      "description": "Work Schedule Standard (Mon-Fri)Environmental Conditions OfficeJob DescriptionJoin Us as a Senior Clinical Research Associate (Level I/II) – Make an Impact at the Forefront of Innovation We have successfully supported the top 50 pharmaceutical companies and more than 750 biotechs, spanning 2,700 clinical trials across 100+ countries in the last 5 years.",
-      "location": [
-        "United States"
-      ],
-      "published": 1794085865000,
-      "expires": 1799269865000,
-      "source": "Himalayas"
-    },
-    {
-      "id": "https://himalayas.app/companies/welocalize/jobs/dutch-ai-data-rater-1629909044",
+      "id": "https://himalayas.app/companies/welocalize/jobs/dutch-ai-data-rater-893062933",
       "title": "Dutch AI Data Rater",
       "company": "Welocalize",
-      "url": "https://himalayas.app/companies/welocalize/jobs/dutch-ai-data-rater-1629909044?utm_source=api",
-      "description": "OVERVIEWAre you tech-savvy?  Have a passion for quality?",
+      "url": "https://himalayas.app/companies/welocalize/jobs/dutch-ai-data-rater-893062933?utm_source=api",
+      "description": "OVERVIEW Are you tech-savvy?  Have a passion for quality?",
       "location": [
         "India",
         "Nigeria",
         "Philippines",
         "Suriname"
       ],
-      "published": 1794085546000,
-      "expires": 1799269545000,
+      "published": 1794110649000,
+      "expires": 1796544130000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/welocalize/jobs/swedish-ai-data-rater-5422273345",
-      "title": "Swedish AI Data Rater",
+      "id": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-english-speakers-in-australia-1899028163",
+      "title": "Online Data Analyst - English speakers in Australia",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-english-speakers-in-australia-1899028163?utm_source=api",
+      "description": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography?",
+      "location": [
+        "Australia"
+      ],
+      "published": 1794110645000,
+      "expires": 1796541955000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-german-speakers-in-austria-2602269828",
+      "title": "Online Data Analyst - German speakers in Austria",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-german-speakers-in-austria-2602269828?utm_source=api",
+      "description": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build better AI models.",
+      "location": [
+        "Austria"
+      ],
+      "published": 1794110642000,
+      "expires": 1796542129000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/bytepitch/jobs/marketing-growth-manager",
+      "title": "Marketing & Growth Manager",
+      "company": "BytePitch",
+      "url": "https://himalayas.app/companies/bytepitch/jobs/marketing-growth-manager?utm_source=api",
+      "description": "About us:BytePicth lives to unlock the power within.",
+      "location": [
+        "Portugal"
+      ],
+      "published": 1794110640000,
+      "expires": 1799294639000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-french-speakers-in-canada-8170697549",
+      "title": "Online Data Analyst - French speakers in Canada",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-french-speakers-in-canada-8170697549?utm_source=api",
+      "description": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build better AI models.",
+      "location": [
+        "Canada"
+      ],
+      "published": 1794110636000,
+      "expires": 1796542307000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-dutch-speakers-in-netherlands-1840426347",
+      "title": "Online Data Analyst - Dutch speakers in Netherlands",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-dutch-speakers-in-netherlands-1840426347?utm_source=api",
+      "description": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build better AI models.",
+      "location": [
+        "Netherlands"
+      ],
+      "published": 1794110633000,
+      "expires": 1796542447000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-spanish-speakers-in-chile-5380102105",
+      "title": "Online Data Analyst - Spanish speakers in Chile",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-spanish-speakers-in-chile-5380102105?utm_source=api",
+      "description": "TELUS Digital AI Community Our global AI Community is a vibrant network of more than one million contributors from diverse backgrounds who help customers collect, enhance, train, translate, and localize content to build better AI models.",
+      "location": [
+        "Chile"
+      ],
+      "published": 1794110630000,
+      "expires": 1796542560000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-polish-speakers-in-poland-4476938196",
+      "title": "Online Data Analyst - Polish speakers in Poland",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-polish-speakers-in-poland-4476938196?utm_source=api",
+      "description": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography?",
+      "location": [
+        "Poland"
+      ],
+      "published": 1794110628000,
+      "expires": 1796542979000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-french-speakers-in-france-7817104509",
+      "title": "Online Data Analyst - French speakers in France",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-french-speakers-in-france-7817104509?utm_source=api",
+      "description": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography?",
+      "location": [
+        "France"
+      ],
+      "published": 1794110627000,
+      "expires": 1796543102000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/welocalize/jobs/polish-ai-data-rater",
+      "title": "Polish AI Data Rater",
       "company": "Welocalize",
-      "url": "https://himalayas.app/companies/welocalize/jobs/swedish-ai-data-rater-5422273345?utm_source=api",
-      "description": "OVERVIEWAre you tech-savvy?  Have a passion for quality?",
+      "url": "https://himalayas.app/companies/welocalize/jobs/polish-ai-data-rater?utm_source=api",
+      "description": "OVERVIEW Are you tech-savvy?  Have a passion for quality?",
       "location": [
-        "Bulgaria"
+        "Poland"
       ],
-      "published": 1794085397000,
-      "expires": 1799269396000,
+      "published": 1794110625000,
+      "expires": 1796544029000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595",
-      "title": "Applied Scientists — Machine Learning  - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595?utm_source=api",
-      "description": "Job Title: Applied Scientist – Machine Learning (MSc.",
+      "id": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-german-speakers-in-germany-6681056375",
+      "title": "Online Data Analyst - German speakers in Germany",
+      "company": "TELUS Digital",
+      "url": "https://himalayas.app/companies/telus-digital/jobs/online-data-analyst-german-speakers-in-germany-6681056375?utm_source=api",
+      "description": "Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography?",
       "location": [
-        "United States"
+        "Germany"
       ],
-      "published": 1794082378000,
-      "expires": 1799266377000,
+      "published": 1794110620000,
+      "expires": 1796543212000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/child-development-remote",
-      "title": "Child Development - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/child-development-remote?utm_source=api",
-      "description": "Developmental Psychology (PhD)Role Type: Contractor Location: Remote Engagement: Flexible, Project-Based Job SummaryWe are seeking Developmental Psychology experts with advanced academic expertise in child development and developmental psychology to support a project focused on evaluating and improving AI systems.",
+      "id": "https://himalayas.app/companies/infomediji/jobs/product-engineer-content-team",
+      "title": "Product Engineer - Content Team",
+      "company": "Infomediji",
+      "url": "https://himalayas.app/companies/infomediji/jobs/product-engineer-content-team?utm_source=api",
+      "description": "At Infomediji, we are building the next generation of Spatial Media: a new way people experience video through interaction, multi-user presence, haptics, AI, and immersive storytelling.",
       "location": [
-        "United States"
+        "Georgia"
       ],
-      "published": 1794082329000,
-      "expires": 1799266327000,
+      "published": 1794110619000,
+      "expires": 1799294619000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/medical-director-sr-medical-director-board-certified-opthalmologist",
-      "title": "Medical Director/Sr Medical Director (Board Certified Opthalmologist)",
-      "company": "Syneos Health India Private Limited",
-      "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/medical-director-sr-medical-director-board-certified-opthalmologist?utm_source=api",
-      "description": "Medical Director/Sr Medical Director (Board Certified Opthalmologist)Syneos Health® is a leading fully integrated biopharmaceutical solutions organization built to accelerate customer success.",
+      "id": "https://himalayas.app/companies/wasserman/jobs/spring-2027-internship-talent-marketing",
+      "title": "Spring 2027 Internship - Talent Marketing",
+      "company": "Wasserman",
+      "url": "https://himalayas.app/companies/wasserman/jobs/spring-2027-internship-talent-marketing?utm_source=api",
+      "description": "THE·TEAM is proud to provide representation and marketing services to talent, brands and properties across 28 countries and more than 70 cities worldwide.",
       "location": [
         "United States"
       ],
-      "published": 1794082180000,
-      "expires": 1799266179000,
+      "published": 1794110556000,
+      "expires": 1799294555000,
       "source": "Himalayas"
     },
     {
-      "id": "https://himalayas.app/companies/yo-ai-labs/jobs/life-sciences-research-expert-remote",
-      "title": "Life Sciences Research Expert - Remote",
-      "company": "YO AI Labs",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/life-sciences-research-expert-remote?utm_source=api",
-      "description": "Job Description: Life Sciences Research Expert (Python)Role Type: Contractor Location: Global, Fully Remote Workload: Approximately 15 hours per week Schedule: Flexible working hours Job SummaryWe are seeking experienced life sciences researchers with strong Python programming skills to support projects focused on evaluating and improving advanced AI systems.",
+      "id": "https://himalayas.app/companies/vendavo/jobs/senior-sales-development-representative-7464923474",
+      "title": "Senior Sales Development Representative",
+      "company": "Vendavo",
+      "url": "https://himalayas.app/companies/vendavo/jobs/senior-sales-development-representative-7464923474?utm_source=api",
+      "description": "We’re a growing team, and as we scale, so does our need to focus on expanding our sales development team.",
       "location": [
-        "United States"
+        "Germany"
       ],
-      "published": 1794082059000,
-      "expires": 1799266057000,
+      "published": 1794110149000,
+      "expires": 1799294147000,
+      "source": "Himalayas"
+    },
+    {
+      "id": "https://himalayas.app/companies/bjak/jobs/ceo-ai-investing-6437809230",
+      "title": "CEO - AI Investing",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/ceo-ai-investing-6437809230?utm_source=api",
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money.",
+      "location": [
+        "Hong Kong"
+      ],
+      "published": 1794109572000,
+      "expires": 1799293571000,
       "source": "Himalayas"
     }
   ]
