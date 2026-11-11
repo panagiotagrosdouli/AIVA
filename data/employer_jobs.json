@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:09:38.502382+00:00",
+  "updated_at": "2026-11-11T14:16:08.004393+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -1543,7 +1543,7 @@
     },
     {
       "id": "ashby:77861b77-9493-4869-bbaf-eaa11477a251",
-      "title": "Forward Deployed Architect, EMEA",
+      "title": "Forward Deployed Architect",
       "company": "Notion",
       "url": "https://jobs.ashbyhq.com/notion/77861b77-9493-4869-bbaf-eaa11477a251/application",
       "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nAs a Forward Deployed Architect on Notion’s Services team, you will help customers turn AI ambition into operational reality and unlock the full potential of our platform. You will pa",
@@ -3660,7 +3660,7 @@
       "title": "Senior Product Manager — Subscriptions (Freemium)",
       "company": "Spotify",
       "url": "https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a/apply",
-      "description": " \n Spotify's mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. \n The Subscriptions Mission builds and evolves Spotify's subscription products and marketplace experiences to drive sustainable user and revenue growth globally. We focus on helping listeners discover, experience, and unlock the full value of Spotify through awareness, acquisition, activation, retention, and monetization. \n We're looking for a Senior Product Manager to help shape the future of Spotify's Freemium experience, with a particular focus on India. You'll lead product initiatives that make Premium more compelling, improve the journey from Free to Paid, and create experiences that reflect the needs of local audiences. Working closely with engineering, design, data science, research, marketing, and regional teams, you'll turn consumer insights into meaningful product experiences that drive sustainable subscriber growth. \n ",
+      "description": "Spotify's mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators.\nThe Subscriptions Mission builds and evolves Spotify's subscription products and marketplace experiences to drive sustainable user and revenue growth globally. We focus on helping listeners discover, experience, and unlock the full value of Spotify through awareness, acquisition, activation, retention, and monetization.\nWe're looking for a Senior Product Manager to help shape the future of Spotify's Freemium experience, with a particular focus on India. You'll lead product initiatives that make Premium more compelling, improve the journey from Free to Paid, and create experiences that reflect the needs of local audiences. Working closely with engineering, design, data science, research, marketing, and regional teams, you'll turn consumer insights into meaningful product experiences that drive sustainable subscriber growth.\n",
       "location": [
         "London"
       ],
@@ -3719,20 +3719,6 @@
       "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nEnterprise AI builds and operates the internal AI platform layer that supports Spotifiers across the company. We’re helping evolve AI tooling into reliable infrastructure that teams can use in their day-to-day work. Our team builds the connective tissue between AI models and Spotify’s internal systems, with a focus on secure access, governance, identity, integrations, and dependable AI infrastructure.\n",
       "location": [
         "New York, NY"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "lever:cfbb2765-b4e9-445a-b558-d1fa7876863d",
-      "title": "Senior Staff Engineer - Platform & Partner Experience",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/cfbb2765-b4e9-445a-b558-d1fa7876863d/apply",
-      "description": "We design Spotify's consumer experience — end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints — from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\nPlatform & Partner Experience (PPX) sits within the Experience Mission, shaping how Spotify shows up across devices, platforms, and partner ecosystems. We build the foundations that power seamless integrations — from smart speakers to cars to AI agents — while ensuring every interaction feels personal, reliable, and unmistakably Spotify. \nAs a Senior Staff Engineer, you'll advance how our systems power partner experiences at scale, tackling complex challenges that span teams, s",
-      "location": [
-        "Munich"
       ],
       "published": null,
       "expires": null,
@@ -3866,7 +3852,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 86
+      "roles": 85
     }
   ],
   "errors": []
