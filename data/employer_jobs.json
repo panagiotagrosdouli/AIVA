@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T14:16:08.004393+00:00",
+  "updated_at": "2026-11-12T00:39:21.915772+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2648,6 +2648,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:6bfca735-47e8-457a-9624-2081ee5f3baf",
+      "title": "GTM Recruiter, Singapore",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/6bfca735-47e8-457a-9624-2081ee5f3baf/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\n \n\nWe’re hiring the first recruiter on the ground in Singapore to build Notion’s GTM team across Southeast Asia. You’ll own GTM hiring end to end and help build the next evolution of ",
+      "location": [
+        "Singapore"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:2a55d6c9-c564-443a-be3e-a3851db5a93b",
       "title": "Account Executive - Commercial, Spotify Technology",
       "company": "Spotify",
@@ -3236,13 +3250,13 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:7f0a8faa-f4f5-4db9-9f51-4101d6a29b34",
-      "title": "Product Manager - Customer Service Platform",
+      "id": "lever:a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "title": "Product Designer",
       "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/7f0a8faa-f4f5-4db9-9f51-4101d6a29b34/apply",
-      "description": "The Subscriptions Mission builds and evolves Spotify’s subscription products and marketplace experiences to drive sustainable user and revenue growth globally. We focus on awareness, acquisition, activation, retention, and monetization strategies that help users unlock the full value of Spotify while enabling the business to scale efficiently and responsibly.\nSpotify's Customer Service Platform powers interactions between our users and support teams. As a Product Manager, you will shape the tools, channels, and foundational APIs that enable our advisors to deliver fast, effective, and empathetic support at scale.\nYou’ll help improve the advisor experience through intelligent tooling, define how customers reach support across channels, and strengthen the API layer underpinning our service ecosystem. Your work will bring platform thinking together with real human impact, helping our advisors do their best work and improving how users experience Spotify support.\n \n",
+      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4/apply",
+      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
       "location": [
-        "London"
+        "Stockholm"
       ],
       "published": null,
       "expires": null,
@@ -3847,7 +3861,7 @@
     {
       "company": "Notion",
       "provider": "ashby",
-      "roles": 156
+      "roles": 157
     },
     {
       "company": "Spotify",
