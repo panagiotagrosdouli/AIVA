@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:16:15.579362+00:00",
+  "updated_at": "2026-11-14T13:35:17.717501+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -3040,6 +3040,34 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+      "title": "Data Scientist - Music Mission",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c/apply",
+      "description": "",
+      "location": [
+        "New York, NY"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "lever:56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "title": "Data Scientist - Music Promotion",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d/apply",
+      "description": "",
+      "location": [
+        "New York, NY"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:5861816e-7ac4-4921-8e90-8e093707e27d",
       "title": "Director of Engineering - Content Platform (Catalog)",
       "company": "Spotify",
@@ -3992,7 +4020,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 85
+      "roles": 87
     }
   ],
   "errors": []
