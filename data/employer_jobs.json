@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T20:51:45.483609+00:00",
+  "updated_at": "2026-11-18T07:22:36.583735+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -1696,6 +1696,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:42279d85-cf60-4c3c-bf82-92b9e215f3c7",
+      "title": "Senior Field Marketer",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/42279d85-cf60-4c3c-bf82-92b9e215f3c7/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion’s Field Marketing team owns the in-person moments that move our target sales assisted accounts forward. We design world class hosted events, executive experiences, and third-pa",
+      "location": [
+        "San Francisco, California"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "ashby:a92eb06e-8ef3-4118-b496-94f3cdf8005d",
       "title": "Commercial Counsel, Enterprise",
       "company": "Notion",
@@ -2872,6 +2886,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:77d3435e-569e-4644-876d-afc960da8d0a",
+      "title": "Associate Artist Label Partnerships Manager, South Korea",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/77d3435e-569e-4644-876d-afc960da8d0a/apply",
+      "description": "Spotify’s Artist & Label Partnerships (ALP) team works with artists, managers, record labels and distributors to help artists grow their audiences and connect with fans.\nAs an Associate Artist & Label Partnerships Manager on the Korea Music team, you’ll manage relationships with selected partners and lead campaigns that help Korean artists reach more listeners at home and around the world. You’ll work with artist and label teams to understand their goals and turn them into opportunities for fans to discover and engage with their music.\n",
+      "location": [
+        "Seoul"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:8251142e-f213-45df-89a9-914e814bd7a7",
       "title": "Associate Director, Proposition Strategy",
       "company": "Spotify",
@@ -4015,12 +4043,12 @@
     {
       "company": "Notion",
       "provider": "ashby",
-      "roles": 166
+      "roles": 167
     },
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 87
+      "roles": 88
     }
   ],
   "errors": []
