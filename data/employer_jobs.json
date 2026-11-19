@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T07:20:04.590129+00:00",
+  "updated_at": "2026-11-19T20:31:52.151822+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2718,6 +2718,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f",
+      "title": "Software Engineer, Collections Infra",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nAs a Software Engineer on Collections Infra, you’ll help scale the infrastructure behind Notion’s database block. Databases power views, boards, charts, forms, and the workflows custo",
+      "location": [
+        "San Francisco, California"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "ashby:6bfca735-47e8-457a-9624-2081ee5f3baf",
       "title": "GTM Recruiter, Singapore",
       "company": "Notion",
@@ -2963,6 +2977,20 @@
       "description": "",
       "location": [
         "Stockholm"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "lever:ced2c220-6b5c-4e74-8e06-37d50985097c",
+      "title": "Backend Engineer - Data Infrastructure",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/ced2c220-6b5c-4e74-8e06-37d50985097c/apply",
+      "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\nWe're looking for a Backend Engineer to join Babka, a team within Spotify's Data Infrastructure organization. Babka powers the analytics behind experiences like Spotify for Artists and Spotify for Creators, helping artists, creators, and music labels explore how their content performs through fast, interactive data insights.\nOriginally built to support music analytics, our platform now serves podcasts, audiobooks, and internal Spotify tools. As we expand our capabilities across Spotify, you'll join us at an exciting stage, with opportunities to shape our technical direction, improve our infrastructure, and make analytics easier for engineering teams to build and operate.\n",
+      "location": [
+        "New York, NY"
       ],
       "published": null,
       "expires": null,
@@ -3278,6 +3306,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:22437625-9527-4e5a-a6d2-a114a889db90",
+      "title": "Legal Counsel - Commerce & Subscriptions",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/22437625-9527-4e5a-a6d2-a114a889db90/apply",
+      "description": "You’ll join Spotify’s Commerce & Subscriptions Legal team, part of the broader Products and Services Legal team, supporting a fast-moving part of the business focused on how users purchase, manage, and experience paid offerings. This team partners closely with product, engineering, design, and business stakeholders to enable innovative e-commerce experiences while managing legal risk in a thoughtful, pragmatic way.\n",
+      "location": [
+        "London"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:8d54dd6d-d7e0-4298-b051-423bcec4089e",
       "title": "Legal Counsel, Litigation and Copyright",
       "company": "Spotify",
@@ -3432,20 +3474,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:a9d581f9-1361-4227-b230-94a0d6ffdef4",
-      "title": "Product Designer",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4/apply",
-      "description": "Every great Spotify experience starts with access. From creating an account to signing in and managing your identity, these foundational moments shape how millions of people connect with the music, podcasts, and content they love.\nWe're looking for a Senior Product Designer to join our User Platform team and help make these experiences simpler, smarter, and more delightful.\nYou'll work at the intersection of design, product, and engineering, tackling complex challenges across authentication, account management, and emerging AI-powered experiences. This is an opportunity to bring exceptional craft to essential user journeys, explore new technologies, and shape experiences that reach millions of people.\nWe value designers who are curious, hands-on, collaborative, and excited to turn ambitious ideas into beautifully executed products.\n",
-      "location": [
-        "Stockholm"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "lever:03437e2a-2d5e-4593-9e97-11271014932e",
       "title": "Product Manager - Data Platform",
       "company": "Spotify",
@@ -3591,6 +3619,20 @@
       "company": "Spotify",
       "url": "https://jobs.lever.co/spotify/9f66e598-8587-4a57-8552-2cdb8672014a/apply",
       "description": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\nWe own music content ingestion at Spotify, which is how music from labels, distributors and other partners gets onto the platform. We receive industry-standard deliveries, validate them, and turn them into the catalog data that teams across Spotify build on, including lyrics, rights and supply data. As we add new content types and partners, we’re building an ingestion platform that scales without a custom build every time.\n",
+      "location": [
+        "London"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
+      "id": "lever:fb3f185c-961c-4b7b-a568-b42a37d66ead",
+      "title": "Senior Backend Engineer - Subscriptions",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/fb3f185c-961c-4b7b-a568-b42a37d66ead/apply",
+      "description": " \n The Subscriptions Mission builds and scales the products, platforms, and business models that turn free listeners into lifelong Premium subscribers. We focus on attracting new subscribers, improving conversion and retention, and creating seamless commerce experiences that support Spotify's growth and bring fans closer to the creators they love. \n At Spotify, subscription data helps shape the decisions and experiences behind our 700M+ monthly active users and 290M+ Premium subscribers. You'll join a collaborative team building the backend systems that power merchandising, personalized experiences, and subscription journeys at a global scale. Your work will help listeners discover the value of Premium and give them more reasons to stay. \n ",
       "location": [
         "London"
       ],
@@ -3811,10 +3853,10 @@
     },
     {
       "id": "lever:5ddb2fa1-4494-48a9-84c0-b646da91edb8",
-      "title": "Senior Product Manager - Free",
+      "title": "Senior Product Manager - Free and Premium Conversion",
       "company": "Spotify",
       "url": "https://jobs.lever.co/spotify/5ddb2fa1-4494-48a9-84c0-b646da91edb8/apply",
-      "description": " \n The Subscriptions Mission builds and evolves Spotify’s products to drive sustainable user and revenue growth globally. We focus on awareness, acquisition, activation, retention, and monetization strategies that help users unlock the full value of Spotify while enabling the business to scale efficiently and responsibly. \n About the Team \n Messaging is a business-critical system at Spotify. It sits between many message senders and a shared pool of users across several channels (e.g. in-app, push, email, and emerging channels), delivering more than 70 billion impressions per year. \n The Messaging team operates within the Freemium Funnel Area, where product, engineering, design, insights, and marketing collaborate to shape how users engage with Spotify across monetization experiences. We are responsible for audience reach, messaging governance, campaign delivery, and the platforms that enable Spotify teams to communicate with users at scale — reliably, responsibly, and effectively. \n We have ambitious plans to evolve Messaging from a delivery layer into an intelligent, governed platfo",
+      "description": "Hundreds of millions of people come to Spotify to listen for free. Our ambition is to make that experience great while helping listeners discover the value of Premium. Getting that balance right is one of the most important opportunities for Spotify's continued growth.\nThe Freemium Funnel team shapes the journey from Free listening to Premium subscription and beyond. We bring together Product, Engineering, Design, Data, Research, and Marketing to understand what listeners value, remove barriers to conversion, and create experiences that make Premium a compelling choice.\nWe're looking for a Senior Product Manager to join our Free and Conversion Surfaces team. You'll shape how listeners engage with Spotify Free, discover Premium, make the decision to subscribe, and experience their first moments as paying subscribers. From Premium education to conversion experiences and early retention, you'll work on meaningful product challenges that directly influence Spotify's growth.\nThis is an opportunity to think strategically, build at scale, and turn complex challenges into simple, engaging ex",
       "location": [
         "London"
       ],
@@ -3870,7 +3912,7 @@
       "title": "Senior Product Manager — Subscriptions (Freemium)",
       "company": "Spotify",
       "url": "https://jobs.lever.co/spotify/94a10740-8d2c-430a-8ef3-2d988142541a/apply",
-      "description": "Spotify's mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators.\nThe Subscriptions Mission builds and evolves Spotify's subscription products and marketplace experiences to drive sustainable user and revenue growth globally. We focus on helping listeners discover, experience, and unlock the full value of Spotify through awareness, acquisition, activation, retention, and monetization.\nWe're looking for a Senior Product Manager to help shape the future of Spotify's Freemium experience, with a particular focus on India. You'll lead product initiatives that make Premium more compelling, improve the journey from Free to Paid, and create experiences that reflect the needs of local audiences. Working closely with engineering, design, data science, research, marketing, and regional teams, you'll turn consumer insights into meaningful product experiences that drive sustainable subscriber growth.\n",
+      "description": "Spotify's mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators.\nThe Subscriptions Mission builds and evolves Spotify's subscription products and marketplace experiences to drive sustainable user and revenue growth globally. We focus on helping listeners discover, experience, and unlock the full value of Spotify through awareness, acquisition, activation, retention, and monetization.\nWe're looking for a Senior Product Manager to help shape the future of Spotify's Freemium experience. You'll lead product initiatives that make Premium more compelling, improve the journey from Free to Paid, and create experiences that reflect the needs of local audiences. Working closely with engineering, design, data science, research, marketing, and regional teams, you'll turn consumer insights into meaningful product experiences that drive sustainable subscriber growth.\n",
       "location": [
         "London"
       ],
@@ -4085,12 +4127,12 @@
     {
       "company": "Notion",
       "provider": "ashby",
-      "roles": 168
+      "roles": 169
     },
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 91
+      "roles": 93
     }
   ],
   "errors": []
