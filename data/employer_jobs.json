@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:09:24.118373+00:00",
+  "updated_at": "2026-11-20T20:10:16.443593+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2802,6 +2802,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:da3ccc9b-cbde-47c2-8c81-96d66c693a03",
+      "title": "Solutions Consultant, Enterprise, France",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/da3ccc9b-cbde-47c2-8c81-96d66c693a03/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nNotion is reimagining how enterprise software is sold and the Solutions Consultant is the cornerstone of that model. As an SC for the Enterprise market for France, you’ll own the full",
+      "location": [
+        "Paris, France"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:2a55d6c9-c564-443a-be3e-a3851db5a93b",
       "title": "Account Executive - Commercial, Spotify Technology",
       "company": "Spotify",
@@ -3194,20 +3208,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:abcc8b41-7553-4054-b5eb-8d3e49e00e25",
-      "title": "Engineering Manager - Data Platform",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/abcc8b41-7553-4054-b5eb-8d3e49e00e25/apply",
-      "description": "Within the Data Platform studio, we own two critical pillars: our event delivery platform that collects trillions of events per day from producers to consumers, and another, which handles the pseudonymisation of data so Spotify can use data responsibly and in compliance with privacy regulations. These systems sit at the heart of Spotify's data collection and are used by hundreds of teams across the company.\nWe're looking for an Engineering Manager to lead a team of six experienced engineers distributed across Europe. You'll set the technical direction, ensure the team delivers high-impact work, and - just as importantly - invest deeply in the growth and careers of your engineers. If you're energised by both the technical challenges of large-scale data systems and the human side of building a high-performing team, we'd love to hear from you.\n",
-      "location": [
-        "London"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "lever:64ef2493-3b1e-407a-ac07-9e95a57f6d7c",
       "title": "Engineering Manager - Experimentation",
       "company": "Spotify",
@@ -3465,20 +3465,6 @@
       "company": "Spotify",
       "url": "https://jobs.lever.co/spotify/22a796f2-2bfd-4f44-aab3-a0a20a7783fc/apply",
       "description": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\nWe're looking for a Principal Product Manager to help shape Spotify's TV and Desktop experiences. These surfaces give people different ways to enjoy Spotify, from music and video in the living room to the experience that accompanies them throughout their day on a computer.\nAs a senior individual contributor, you'll work across both areas, bringing a strong product perspective to the opportunities that matter most. You'll help teams make ambitious choices, navigate complexity, and d",
-      "location": [
-        "London"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "lever:03437e2a-2d5e-4593-9e97-11271014932e",
-      "title": "Product Manager - Data Platform",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e/apply",
-      "description": "Spotify’s mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators.\nData is a means to an end, and Spotify extracts value from data through application. The Data Platform Studio helps Spotify win by enabling the application of data in an intuitive and efficient way.\nData Platform is responsible for how data is collected, processed, stored, governed, and made available to the thousands of engineers, data scientists, analysts, and machine learning practitioners who build Spotify’s products. As AI agents increasingly generate code, write data pipelines, and power personalized user experiences, Data Platform sits at the center of one of the most important infrastructure domains at Spotify.\nWe're looking for a passionate Product Manager to join the team responsible for Spotify’s data catalogue, metadata, and data lineage capabilities. In this role, you'll own the strategy and roadmap for a critical part of Spotify's data ecosystem, helpin",
       "location": [
         "London"
       ],
@@ -3796,20 +3782,6 @@
       "employer_verified_source": true
     },
     {
-      "id": "lever:05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
-      "title": "Senior Machine Learning Engineer, Personalization",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/05b8d6ee-0773-4255-b8b9-ae73d74a5ee5/apply",
-      "description": " \n  The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we’re behind some of Spotify’s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you’ll keep millions of users listening by making great recommendations to each and every one of them.  \n  Growlithe is a fast-moving squad within Spotify's Conversation Product Area, focused on bringing emerging Search and agentic experiences to life. We explore, define, build, validate, and optimize new ideas to help listeners discover the content they love. Our work spans personalized Search, music video discovery and ranking, audiobook Search expansion, and the foundations of more social Search experiences.  \n  We're looking for a Senior Machine Learning Engineer to help shape the next generation of Search at Spotify. You'll work at the intersection of machine learning, personalization, and product development, turning complex challenges into intuitive discovery experiences for millions of list",
-      "location": [
-        "New York, NY"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
       "id": "lever:bc70c9af-212e-48d5-b00b-eab26e4c0658",
       "title": "Senior Machine Learning Engineering Manager - Content Platform",
       "company": "Spotify",
@@ -3885,20 +3857,6 @@
       "company": "Spotify",
       "url": "https://jobs.lever.co/spotify/a57db22d-dc0d-4f36-9a2e-34acdf1ec046/apply",
       "description": "Spotify's mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators.\nThe Subscriptions Mission builds and evolves Spotify's subscription products and marketplace experiences to drive sustainable user and revenue growth globally. We focus on awareness, acquisition, activation, retention, and monetization strategies that help users unlock the full value of Spotify while enabling the business to scale efficiently and responsibly.\nThis role focuses on the awareness, acquisition, and activation layers of the Subscriptions Mission, making Premium feel unmissable to free users long before a purchase decision. You'll own the strategy for how users discover, understand, and develop intent for Premium value, partnering closely with product, design, engineering, research, marketing, and data science to shape the moments, surfaces, and experiences that drive consideration across markets and segments.\n",
-      "location": [
-        "London"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "lever:ee45924c-894c-4ea0-9c93-c5221894063f",
-      "title": "Senior Product Manager - User Platform",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/ee45924c-894c-4ea0-9c93-c5221894063f/apply",
-      "description": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers.\n\nUser Platform builds the identity and access capabilities that help people use Spotify safely and easily. We’re looking for a Senior Product Manager to shape how people access Spotify and stay connected across our apps, devices, and strategic partner integrations. You’ll focus on session management - how Spotify recognizes someone after they sign in, maintains their access, and enables them to connect or disconnect devices and applications.\n\nYou’ll bring together consumer experience and technical product strategy, working closely with engineering, design, research, insights, security, and teams responsible for Spotify’s clients and partnerships. Your decisions will help people get to the experiences they want, stay in control of their access, and use Spo",
       "location": [
         "London"
       ],
@@ -3999,20 +3957,6 @@
       "description": "Spotify's Global Organic Social team shapes how Spotify connects with audiences across its owned social channels, bringing fans closer to the music, podcasts, audiobooks, and experiences they love.\nWe're looking for a Social Strategy Manager to help grow and engage communities around podcasts, books, and fitness on Spotify. You'll develop social strategies that celebrate creators, connect with fans, and bring cultural moments to life, from major podcast releases and book launches to fitness experiences.\nAs part of our Global Organic Social team, you'll work with Creative, Communications, Marketing, Partnerships, and other teams to turn business priorities into compelling, platform-native social campaigns. You'll balance long-term strategy with timely cultural opportunities, using creative judgment, audience insights, and performance data to shape work that makes an impact.\n",
       "location": [
         "New York, NY"
-      ],
-      "published": null,
-      "expires": null,
-      "source": "Lever employer board",
-      "employer_verified_source": true
-    },
-    {
-      "id": "lever:4c0aa107-bdb7-4061-b2c7-be616e059340",
-      "title": "Staff Backend Engineer - Content Platform",
-      "company": "Spotify",
-      "url": "https://jobs.lever.co/spotify/4c0aa107-bdb7-4061-b2c7-be616e059340/apply",
-      "description": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify.\n\nPolicy & Safety (P&S) is a domain within Content Platform in the Experience Mission, responsible for building Spotify’s content moderation and regulatory compliance infrastructure. This includes rule engines, enforcement pipelines, policy configuration systems, and compliance data platforms that ensure safety at scale.\nThe team operates at the intersection of backend platform engineering, machine learning systems, and regulatory compliance, partnering closely with Licensing, Trust",
-      "location": [
-        "London"
       ],
       "published": null,
       "expires": null,
@@ -4127,12 +4071,12 @@
     {
       "company": "Notion",
       "provider": "ashby",
-      "roles": 168
+      "roles": 169
     },
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 94
+      "roles": 89
     }
   ],
   "errors": []
