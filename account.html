@@ -1,31 +1,56 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#080d18"><meta name="description" content="Manage your AIVA account and browser-saved opportunities. Cloud features require account activation."><title>AIVA — My Workspace</title><style>
 *{box-sizing:border-box}body{margin:0;background:#080e1b;color:#edf7ff;font:16px/1.6 Inter,system-ui,sans-serif}main{width:min(1080px,calc(100% - 32px));margin:36px auto 90px}nav{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;padding:12px 0 25px}nav a{color:#c5e9e5}h1{font-size:clamp(35px,6vw,56px);line-height:1.12;margin:18px 0}h2{margin:0 0 12px}.panel{border:1px solid #2c425b;background:#111e30;border-radius:19px;padding:25px;margin:18px 0}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.field{margin:13px 0}.field label{display:block;font-weight:700;margin:0 0 6px}.field input,.field select{width:100%;background:#0a1728;color:#efffff;border:1px solid #47627b;padding:12px;border-radius:10px}.btn,button{border:1px solid #8be8ce;border-radius:11px;padding:11px 17px;background:#8be8ce;color:#092921;font:inherit;font-weight:700;cursor:pointer;margin:6px 7px 6px 0}.secondary{background:#1a2d44;color:#ecf7ff;border-color:#44627b}.muted{color:#9db1c8}.hidden{display:none!important}.status{padding:12px;border-radius:10px;background:#1c3347;color:#b6e9e0}.error{background:#482635;color:#ffced3}.item{padding:14px 0;border-bottom:1px solid #2d4059;display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.item a{color:#a4e8da}.item button{margin:0}input[type=checkbox]{width:20px;height:20px;accent-color:#8be8ce}fieldset{border:1px solid #334b63;border-radius:12px;margin:14px 0;padding:15px}legend{font-weight:700}#setup a{color:#9beada}@media(max-width:680px){.grid{grid-template-columns:1fr}}
 </style><link rel="stylesheet" href="aiva-design.css?v=6"></head><body><main><nav><a href="index.html"><strong>AIVA</strong> · THINK FURTHER</a><div><a href="platform.html">Explore</a> · <a href="jobs.html">Find jobs</a> · <a href="career.html">Career Passport</a></div></nav><header><span class="muted">YOUR PERSONAL WORKSPACE</span><h1>My AIVA Account</h1><p class="muted">Manage your profile, saved opportunities and notification preferences.</p></header><p id="status" class="status" role="status" aria-live="polite"></p>
-<section id="setup" class="panel"><h2>Account activation required</h2><p>Your AIVA account needs a dedicated Supabase project before signup and cloud data can work. No personal data is being uploaded by this page.</p><h3>Saved jobs on this device</h3><div id="offlineSavedList" aria-live="polite"></div><p class="muted">These are browser bookmarks, not cloud account data.</p><a href="platform.html">Continue exploring AIVA →</a></section>
+<section id="setup" class="panel"><h2>Account activation required</h2><p>Your AIVA account needs a dedicated Supabase project before signup and cloud data can work. No personal data is being uploaded by this page.</p><h3>Saved jobs on this device</h3><p class="muted">Save listings from the job finder or Career Passport, then return here to open, remove or export them.</p><div id="offlineSavedList" aria-live="polite"></div><div class="local-actions"><button type="button" class="secondary" data-export-bookmarks>Export saved links CSV</button><button type="button" class="secondary" data-clear-bookmarks>Clear local bookmarks</button></div><p class="muted">These are browser bookmarks, not cloud account data.</p><a href="platform.html">Continue exploring AIVA →</a></section>
 <section id="auth" class="panel hidden"><h2>Welcome to AIVA</h2><p class="muted">Sign in or create your account.</p><form id="authForm"><div class="grid"><div class="field"><label for="email">Email</label><input id="email" type="email" required maxlength="254" autocomplete="email"></div><div class="field"><label for="password">Password</label><input id="password" type="password" required autocomplete="current-password"></div></div><button type="submit">Sign in</button><button type="button" id="signUp" class="secondary">Create account</button><button type="button" id="reset" class="secondary">Reset password</button></form><p class="muted">New passwords must contain at least 12 characters. Email confirmation may be required.</p></section>
 <div id="dashboard" class="hidden"><section class="panel"><div style="display:flex;align-items:center;justify-content:space-between;gap:15px;flex-wrap:wrap"><div><h2>Account overview</h2><p>Signed in as <strong id="who"></strong></p></div><button id="signOut" type="button" class="secondary">Sign out</button></div></section>
 <div class="grid"><section class="panel"><h2>My profile</h2><form id="profileForm"><div class="field"><label for="displayName">Display name</label><input id="displayName" maxlength="120" autocomplete="name"></div><div class="field"><label for="country">Country code (2 letters)</label><input id="country" maxlength="2" placeholder="GR" pattern="[A-Za-z]{2}"></div><div class="field"><label for="role">Desired job / area</label><input id="role" maxlength="180" placeholder="e.g. Product Designer"></div><button type="submit">Save profile</button></form></section>
 <section class="panel"><h2>Notifications</h2><p class="muted">Your preferences are saved, but automated email delivery is not active yet.</p><form id="preferencesForm"><label><input id="emailEnabled" type="checkbox"> Enable future email alerts</label><fieldset><legend>Interests</legend><label><input class="kind" type="checkbox" value="job"> Careers</label><label><input class="kind" type="checkbox" value="internship"> Internships</label><label><input class="kind" type="checkbox" value="scholarship"> Scholarships</label><label><input class="kind" type="checkbox" value="grant"> Grants</label><label><input class="kind" type="checkbox" value="fellowship"> Fellowships</label><label><input class="kind" type="checkbox" value="startup_program"> Startup programs</label></fieldset><button type="submit">Save preferences</button></form></section></div>
-<section class="panel"><h2>Saved opportunities</h2><p class="muted">Cloud saves below are restricted to your account. Browser-only saved jobs from the public explorer are shown separately.</p><form id="saveForm"><div class="field"><label for="jobId">Published AIVA opportunity UUID</label><input id="jobId" required placeholder="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"></div><button type="submit">Save to account</button></form><div id="savedList" aria-live="polite"></div><h3>Browser-only saved jobs</h3><div id="localList"></div></section>
+<section class="panel"><h2>Saved opportunities</h2><p class="muted">Cloud saves below are restricted to your account. Browser-only saved jobs from the public explorer are shown separately.</p><form id="saveForm"><div class="field"><label for="jobId">Published AIVA opportunity UUID</label><input id="jobId" required placeholder="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"></div><button type="submit">Save to account</button></form><div id="savedList" aria-live="polite"></div><h3>Browser-only saved jobs</h3><div id="localList" aria-live="polite"></div><div class="local-actions"><button type="button" class="secondary" data-export-bookmarks>Export saved links CSV</button><button type="button" class="secondary" data-clear-bookmarks>Clear local bookmarks</button></div><p class="muted"><a href="jobs.html?saved=1">Open saved jobs in the full job finder →</a></p></section>
 <section class="panel"><h2>Account security</h2><p>Change your password using an email reset link. Deletion and data export require a secure backend workflow that has not been activated.</p><button id="sendReset" class="secondary" type="button">Send password reset email</button></section></div>
 </main><script type="module">
+import {loadBookmarks,writeBookmarks,csvForJobs} from "./aiva-jobs-core.mjs";
 const $=id=>document.getElementById(id),show=(id,on)=>$(id).classList.toggle("hidden",!on),message=(s,error=false)=>{$("status").textContent=s;$("status").className="status"+(error?" error":"")};
 let config;try{const r=await fetch("./aiva-config.json",{cache:"no-store"});if(r.ok)config=await r.json()}catch{}
 const ready=config&&/^https:\/\/[a-z0-9-]+\.supabase\.co\/?$/.test(config.supabaseUrl||"")&&typeof config.supabasePublishableKey==="string"&&config.supabasePublishableKey.length>20&&!config.supabasePublishableKey.includes("REPLACE");
 function localSaved(){
- let urls=[];
- try{const data=JSON.parse(localStorage.getItem("aiva-platform-saved-v1")||"[]");if(Array.isArray(data))urls=data}catch{}
- const valid=urls.filter(v=>typeof v==="string"&&/^https:\/\//.test(v)).slice(0,100);
+ const valid=loadBookmarks(localStorage);
  for(const id of ["localList","offlineSavedList"]){
-  const root=$(id);if(!root)continue;root.replaceChildren();
+  const root=$(id);if(!root)continue;
+  root.replaceChildren();
   for(const url of valid){
-   const p=document.createElement("p"),a=document.createElement("a");
-   a.href=url;a.target="_blank";a.rel="noopener noreferrer";a.textContent=url;p.append(a);root.append(p);
+   const entry=document.createElement("div"),anchor=document.createElement("a"),remove=document.createElement("button");
+   entry.className="item";anchor.href=url;anchor.target="_blank";anchor.rel="noopener noreferrer";
+   anchor.textContent=url;anchor.style.overflowWrap="anywhere";
+   remove.type="button";remove.className="secondary";remove.textContent="Remove";
+   remove.setAttribute("aria-label","Remove saved link "+url);
+   remove.addEventListener("click",()=>{
+    try{writeBookmarks(localStorage,loadBookmarks(localStorage).filter(item=>item!==url));localSaved();message("Link removed from this browser.")}
+    catch{message("Could not update saved links. Check browser storage.",true)}
+   });
+   entry.append(anchor,remove);root.append(entry);
   }
-  if(!root.children.length)root.textContent="Nothing saved on this browser yet.";
+  if(!valid.length)root.textContent="No saved jobs yet. Find and save jobs from the AIVA job finder.";
  }
 }
 localSaved();
+document.querySelectorAll("[data-export-bookmarks]").forEach(button=>button.addEventListener("click",()=>{
+ const urls=loadBookmarks(localStorage);
+ if(!urls.length){message("There are no browser-saved links to export.",true);return}
+ const data=urls.map(url=>({title:"Saved source link",company:"",location:[],source:"Browser bookmark",url}));
+ const blob=new Blob([csvForJobs(data)],{type:"text/csv;charset=utf-8"}),href=URL.createObjectURL(blob);
+ const link=document.createElement("a");link.href=href;link.download="aiva-bookmarks.csv";document.body.append(link);link.click();link.remove();
+ setTimeout(()=>URL.revokeObjectURL(href),500);
+ message("Exported "+urls.length+" locally saved URLs.");
+}));
+document.querySelectorAll("[data-clear-bookmarks]").forEach(button=>button.addEventListener("click",()=>{
+ const urls=loadBookmarks(localStorage);
+ if(!urls.length)return;
+ if(!confirm("Remove all "+urls.length+" browser-saved jobs? This does not change any cloud data."))return;
+ try{writeBookmarks(localStorage,[]);localSaved();message("All browser-only bookmarks removed.")}
+ catch{message("Could not clear bookmarks. Check browser storage.",true)}
+}));
+window.addEventListener("storage",event=>{if(event.key==="aiva-platform-saved-v1")localSaved()});
 let createClient;
 if(ready){try{({createClient}=await import("https://esm.sh/@supabase/supabase-js@2.57.0"))}catch{message("Could not load the sign-in library. Please retry later.",true)}}
 if(ready&&createClient){
