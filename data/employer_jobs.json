@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:10:16.443593+00:00",
+  "updated_at": "2026-11-21T07:01:23.693774+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -2816,6 +2816,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "ashby:b2b51423-b2d8-4d87-bc5c-d9cf7ff56432",
+      "title": "Senior Principal Risk Analyst",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion/b2b51423-b2d8-4d87-bc5c-d9cf7ff56432/application",
+      "description": "WHO WE ARE\n\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\n\n\n\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\n\n\n\n\nABOUT THE ROLE:\n\nMillions of people rely on Notion to do their most important work, and protecting that trust is foundational to everything we build. Notion is flexible, powerful and always evolving. ",
+      "location": [
+        "San Francisco, California"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Ashby employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:2a55d6c9-c564-443a-be3e-a3851db5a93b",
       "title": "Account Executive - Commercial, Spotify Technology",
       "company": "Spotify",
@@ -3278,6 +3292,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:a2f4ff98-1cdc-4529-a202-4119acfa722b",
+      "title": "Head of Advertising Business Development, New York",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/a2f4ff98-1cdc-4529-a202-4119acfa722b/apply",
+      "description": "Sell what you love. For us and millions of users across the globe, that’s Spotify. Join the Sales team and you’ll build the relationships that help grow our business in existing markets and beyond. We don’t just sell creative solutions to our clients and partners, we help to shape them; using our expert knowledge of ad products, sales channels and the industry to impact the way the world experiences music and podcasts. \n",
+      "location": [
+        "New York, NY"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:f1a0bdaa-a6c6-4020-bdd3-4cb195c40747",
       "title": "Head of Markets Strategy & Operations, Japan",
       "company": "Spotify",
@@ -3712,6 +3740,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:e86c76f2-b652-4953-919c-77e56e742f29",
+      "title": "Senior Engineering Manager - Agentic Products",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/e86c76f2-b652-4953-919c-77e56e742f29/apply",
+      "description": " \n The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we’re behind some of Spotify’s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you’ll keep millions of users listening by making great recommendations to each and every one of them. \n Generative AI is changing what Spotify’s products can do and how they’re built. When listeners can describe what they want in natural language, our products can meet more needs and build richer connections between listeners and the things they love. As Senior Engineering Manager for Agentic Products, you’ll lead multiple teams that prototype, design, and build Spotify’s consumer-facing AI products, and you’ll set technical strategy in a fast-moving space alongside partners across the company. \n ",
+      "location": [
+        "New York, NY"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:c114627b-1306-4581-95a8-77d847ee9962",
       "title": "Senior Engineering Manager - Information Technology",
       "company": "Spotify",
@@ -4071,12 +4113,12 @@
     {
       "company": "Notion",
       "provider": "ashby",
-      "roles": 169
+      "roles": 170
     },
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 89
+      "roles": 91
     }
   ],
   "errors": []
