@@ -60,11 +60,11 @@ footer a{color:#5f52dd}
 @media(max-width:730px){.wrap{padding-left:19px;padding-right:19px}.navlinks{gap:14px}.navlinks a{font-size:12px}main{padding-top:45px}.searchbar{grid-template-columns:1fr;padding:12px}#results{grid-template-columns:1fr}.job{min-height:auto}h1{font-size:44px}}
 .workspace-tools{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:0 0 22px}.workspace-tools button,.job-actions .save-job{background:white!important;color:#204d3b!important;border:1px solid #b8c7bd!important;padding:8px 13px!important;border-radius:5px!important;font-size:13px}.workspace-tools button[aria-pressed=true],.job-actions .save-job[aria-pressed=true]{background:#e7efe9!important}.job-actions{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:12px}.job-actions .apply{margin-top:0}#saveStatus{font-size:12px;color:#58625d}
 </style>
-<link rel="stylesheet" href="aiva-design.css?v=10"></head>
+<link rel="stylesheet" href="aiva-design.css?v=12"></head>
 <body><header><div class="wrap nav"><a class="brand" href="index.html">AIVA</a><nav class="navlinks" aria-label="Main navigation"><a href="index.html">Home</a><a href="career.html">Career Passport</a><a href="platform.html">Opportunities</a><a href="account.html">Account</a></nav></div></header>
 <main class="wrap">
-<div class="eyebrow">REMOTE JOB SEARCH</div><h1>Find remote jobs</h1>
-<p class="lead">Explore opportunities from sourced remote job listings. Search by role or company, filter locations, and apply directly through the original employer listing.</p>
+<div class="eyebrow">JOB SEARCH</div><h1>Find jobs</h1>
+<p class="lead">Explore opportunities from available employer and job-source feeds. Search by role or company, filter locations, and apply directly through the original employer listing.</p>
 <form id="searchForm" class="searchbar" role="search">
 <label><span class="sr-only" style="position:absolute;clip:rect(0,0,0,0);height:1px;width:1px;overflow:hidden">Job title, skill or company</span><input id="query" type="search" placeholder="Job title, skill or company" autocomplete="off"></label>
 <label><span class="sr-only" style="position:absolute;clip:rect(0,0,0,0);height:1px;width:1px;overflow:hidden">Listed location</span><select id="country"><option value="">All listed locations</option></select></label>
@@ -72,13 +72,13 @@ footer a{color:#5f52dd}
 <div class="meta"><span id="status" role="status" aria-live="polite">Loading sourced listings…</span><label>Sort by <select id="sort" style="width:auto;margin-left:6px"><option value="recent">Most recent</option><option value="title">Job title A–Z</option><option value="company">Company A–Z</option></select></label></div>
 <div class="workspace-tools"><button type="button" id="savedFilter" aria-pressed="false">Saved jobs (0)</button><button type="button" id="exportSaved">Export saved jobs</button><span id="saveStatus" role="status"></span></div><div id="results" aria-live="polite"></div>
 <div id="pager" class="pager" hidden><button id="prev" type="button">← Previous</button><span id="pageLabel"></span><button id="next" type="button">Next →</button></div>
-<p class="notice" id="sourceNote">Source: Himalayas. Listings are synchronized periodically, not verified in real time. Remote-work eligibility may be restricted to specific countries. Always check the original posting before applying.</p>
+<p class="notice" id="sourceNote">Sources: Himalayas, employer boards and available European feeds. Listings are synchronized periodically, not verified in real time. Remote-work eligibility may be restricted to specific countries. Always check the original posting before applying.</p>
 </main><footer><div class="wrap">© <span id="year"></span> AIVA · Think Further. · <a href="https://himalayas.app" target="_blank" rel="noopener noreferrer">Jobs provided by Himalayas ↗</a></div></footer>
 <script>
 (()=>{'use strict';
 const $=id=>document.getElementById(id),perPage=12;
 $('query').value=new URLSearchParams(location.search).get('q')||'';
-let jobs=[],filtered=[],page=1,updated='',savedOnly=false;
+let jobs=[],filtered=[],page=1,updated='',savedOnly=new URLSearchParams(location.search).get('saved')==='1';
 const storageKey='aiva.saved.jobs.v1';
 let saved={};
 try{const raw=JSON.parse(localStorage.getItem(storageKey)||'{}');if(raw&&typeof raw==='object'&&!Array.isArray(raw))saved=Object.fromEntries(Object.entries(raw).filter(([k,v])=>v&&typeof v.title==='string'&&k.startsWith('https://')))}catch{}
@@ -97,14 +97,14 @@ function draw(){
  $('status').textContent=filtered.length+(savedOnly?' saved listing':' sourced listing')+(filtered.length===1?'':'s')+(updated?' · Feed updated '+updated:'');
  if(!slice.length){$('results').append(el('p','notice',savedOnly?'No saved jobs match these filters.':jobs.length?'No jobs match these filters. Try a broader search.':'No eligible job listings are currently available in the imported feed.')); }
  for(const job of slice){
-  const card=el('article','job'),tag=el('span','tag','Remote listing'),heading=el('h2','',job.title),company=el('div','company',job.company||'Company not provided');
+  const card=el('article','job'),tag=el('span','tag',job.source||'Source listing'),heading=el('h2','',job.title),company=el('div','company',job.company||'Company not provided');
   const locations=Array.isArray(job.location)?job.location.filter(x=>typeof x==='string'&&x.trim()):[];
   const details=el('div','details',locations.length?'Listed location: '+locations.join(', '):'Location eligibility: check original posting');
   const summary=el('p','summary',String(job.description||'View the original listing for job details.').slice(0,230));
   const link=el('a','apply','View original listing / Apply ↗');link.href=job.url;link.target='_blank';link.rel='noopener noreferrer';
   const save=el('button','save-job',saved[job.url]?'Saved':'Save job');save.type='button';save.setAttribute('aria-pressed',String(!!saved[job.url]));save.addEventListener('click',()=>{if(saved[job.url])delete saved[job.url];else saved[job.url]={title:job.title,company:job.company||'',url:job.url,location:job.location||[],description:job.description||'',published:job.published||'',savedAt:new Date().toISOString()};saveState();updateTools();if(savedOnly)filter();else{save.textContent=saved[job.url]?'Saved':'Save job';save.setAttribute('aria-pressed',String(!!saved[job.url]))}});
   if(savedOnly){const note=el('p','details','Saved snapshot — check original posting for current availability.');card.append(note)}
-  const actions=el('div','job-actions');actions.append(link,save);card.append(tag,heading,company,details,summary,actions);$('results').append(card);
+  const track=el('a','apply','Track application');track.href='tracker.html?'+new URLSearchParams({title:job.title,company:job.company||'',url:job.url});const actions=el('div','job-actions');actions.append(link,track,save);card.append(tag,heading,company,details,summary,actions);$('results').append(card);
  }
  $('pager').hidden=pages<=1;$('pageLabel').textContent='Page '+page+' of '+Math.max(pages,1);$('prev').disabled=page===1;$('next').disabled=page>=pages;
 }
@@ -116,13 +116,17 @@ function filter(){
 }
 $('searchForm').addEventListener('submit',e=>{e.preventDefault();filter()});$('query').addEventListener('input',filter);$('country').addEventListener('change',filter);$('sort').addEventListener('change',filter);
 $('prev').addEventListener('click',()=>{if(page>1){page--;draw()}});$('next').addEventListener('click',()=>{if(page*perPage<filtered.length){page++;draw()}});
-fetch('data/jobs.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('feed unavailable');return r.json()}).then(data=>{
+Promise.allSettled(['data/jobs.json','data/employer_jobs.json','data/europe_jobs.json'].map(async path=>{const r=await fetch(path,{cache:'no-cache'});if(!r.ok)throw Error('feed unavailable');const d=await r.json();if(!Array.isArray(d.jobs))throw Error('invalid feed');return d})).then(results=>{
+ const feeds=results.filter(x=>x.status==='fulfilled').map(x=>x.value);if(!feeds.length)throw Error('feed unavailable');
+ const data={jobs:feeds.flatMap(x=>x.jobs),updated_at:''};
+ $('sourceNote').textContent+=' Loaded '+feeds.length+' of 3 configured feeds.';
+
  const now=Date.now(),seen=new Set();
- jobs=(Array.isArray(data.jobs)?data.jobs:[]).filter(j=>{if(!j||typeof j.title!=='string'||!j.title.trim()||!safeUrl(j.url))return false;const expires=dateNumber(j.expires);if(expires&&expires<=now)return false;const key=j.id||j.url;if(seen.has(key))return false;seen.add(key);return true}).map(j=>({...j,url:safeUrl(j.url)}));
+ jobs=(Array.isArray(data.jobs)?data.jobs:[]).filter(j=>{if(!j||typeof j.title!=='string'||!j.title.trim()||!safeUrl(j.url))return false;const expires=dateNumber(j.expires);if(expires&&expires<=now)return false;const key=safeUrl(j.url);if(seen.has(key))return false;seen.add(key);return true}).map(j=>({...j,location:Array.isArray(j.location)?j.location:typeof j.location==='string'?[j.location]:[],url:safeUrl(j.url)}));
  const countries=new Set();jobs.forEach(j=>(Array.isArray(j.location)?j.location:[]).forEach(loc=>{if(typeof loc==='string'&&loc.trim())countries.add(loc)}));
  [...countries].sort((a,b)=>a.localeCompare(b)).forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;$('country').append(o)});
  updated=data.updated_at&&Number.isFinite(Date.parse(data.updated_at))?new Date(data.updated_at).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'numeric'}):'';
  filter();
-}).catch(()=>{if(savedOnly){filter();return}$('status').textContent='Job feed is currently unavailable.';$('results').replaceChildren(el('p','notice','We could not load the imported listings. Please try again later or search directly on Himalayas.'));const a=el('a','','Explore jobs at Himalayas ↗');a.href='https://himalayas.app/jobs';a.target='_blank';a.rel='noopener noreferrer';$('results').append(a)});
+}).catch(()=>{if(savedOnly){filter();return}$('status').textContent='Job feed is currently unavailable.';$('results').replaceChildren(el('p','notice','We could not load the imported listings. Please try again later or search directly on Himalayas.'));const a=el('a','','Explore remote jobs at Himalayas ↗');a.href='https://himalayas.app/jobs';a.target='_blank';a.rel='noopener noreferrer';$('results').append(a)});
 })();
 </script></body></html>
