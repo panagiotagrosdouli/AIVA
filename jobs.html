@@ -60,8 +60,8 @@ footer a{color:#5f52dd}
 @media(max-width:730px){.wrap{padding-left:19px;padding-right:19px}.navlinks{gap:14px}.navlinks a{font-size:12px}main{padding-top:45px}.searchbar{grid-template-columns:1fr;padding:12px}#results{grid-template-columns:1fr}.job{min-height:auto}h1{font-size:44px}}
 .workspace-tools{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:0 0 22px}.workspace-tools button,.job-actions .save-job{background:white!important;color:#204d3b!important;border:1px solid #b8c7bd!important;padding:8px 13px!important;border-radius:5px!important;font-size:13px}.workspace-tools button[aria-pressed=true],.job-actions .save-job[aria-pressed=true]{background:#e7efe9!important}.job-actions{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:12px}.job-actions .apply{margin-top:0}#saveStatus{font-size:12px;color:#58625d}
 </style>
-<link rel="stylesheet" href="aiva-design.css?v=12"></head>
-<body><header><div class="wrap nav"><a class="brand" href="index.html">AIVA</a><nav class="navlinks" aria-label="Main navigation"><a href="index.html">Home</a><a href="career.html">Career Passport</a><a href="platform.html">Opportunities</a><a href="account.html">Account</a><a href="trust.html">Trust & safety</a></nav></div></header>
+<link rel="stylesheet" href="aiva-design.css?v=12"><link rel="stylesheet" href="aiva-brand.css?v=1"></head>
+<body class="aiva-public aiva-inner"><header class="aiva-header"><nav class="aiva-nav" aria-label="Main navigation"><a class="aiva-mark" href="index.html" aria-label="AIVA home">AIVA<span>.</span></a><div class="aiva-links"><a href="jobs.html">Jobs</a><a href="platform.html?tab=global">Study &amp; research</a><a href="career.html">Career tools</a><a href="platform.html?tab=business">Employers</a></div><div class="aiva-right"><a href="trust.html">About</a><a class="aiva-account" href="account.html">My account</a></div></nav></header>
 <main class="wrap">
 <div class="eyebrow">JOB SEARCH</div><h1>Find jobs</h1>
 <p class="lead">Explore opportunities from available employer and job-source feeds. Search by role or company, filter locations, and apply directly through the original employer listing.</p>
@@ -73,7 +73,7 @@ footer a{color:#5f52dd}
 <div class="workspace-tools"><button type="button" id="savedFilter" aria-pressed="false">Saved jobs (0)</button><button type="button" id="exportSaved">Export saved jobs</button><span id="saveStatus" role="status"></span></div><div id="results" aria-live="polite"></div>
 <div id="pager" class="pager" hidden><button id="prev" type="button">← Previous</button><span id="pageLabel"></span><button id="next" type="button">Next →</button></div>
 <p class="notice" id="sourceNote">Sources: Himalayas, employer boards and available European feeds. Listings are synchronized periodically, not verified in real time. Remote-work eligibility may be restricted to specific countries. Always check the original posting before applying.</p>
-</main><footer><div class="wrap">© <span id="year"></span> AIVA · Think Further. · <a href="https://himalayas.app" target="_blank" rel="noopener noreferrer">Jobs provided by Himalayas ↗</a></div></footer>
+</main><footer class="aiva-legacy-footer"><div class="wrap">© <span id="year"></span> AIVA · Think Further. · <a href="https://himalayas.app" target="_blank" rel="noopener noreferrer">Jobs provided by Himalayas ↗</a></div></footer>
 <script>
 (()=>{'use strict';
 const $=id=>document.getElementById(id),perPage=12;
@@ -129,4 +129,4 @@ Promise.allSettled(['data/jobs.json','data/employer_jobs.json','data/europe_jobs
  filter();
 }).catch(()=>{if(savedOnly){filter();return}$('status').textContent='Job feed is currently unavailable.';$('results').replaceChildren(el('p','notice','We could not load the imported listings. Please try again later or search directly on Himalayas.'));const a=el('a','','Explore remote jobs at Himalayas ↗');a.href='https://himalayas.app/jobs';a.target='_blank';a.rel='noopener noreferrer';$('results').append(a)});
 })();
-</script></body></html>
+</script><footer class="aiva-footer"><div class="aiva-foot-grid"><div><a class="aiva-mark" href="index.html">AIVA<span>.</span></a><small>© <span id="aiva-year">2026</span> AIVA · Free beta</small></div><div><strong>Explore</strong><a href="jobs.html">Jobs</a><a href="platform.html?tab=global">Study &amp; funding</a><a href="platform.html?tab=business">Employers</a></div><div><strong>Your career</strong><a href="career.html">Career Passport</a><a href="tracker.html">Applications</a><a href="jobs.html?saved=1">Saved jobs</a><a href="insights.html">Salary comparison</a></div><div><strong>AIVA</strong><a href="trust.html#about">About us</a><a href="trust.html#sources">Our sources</a><a href="trust.html#privacy">Privacy</a><a href="trust.html#help">Help &amp; feedback</a></div></div></footer></body></html>
