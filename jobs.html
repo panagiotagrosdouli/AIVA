@@ -61,7 +61,7 @@ footer a{color:#5f52dd}
 .workspace-tools{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:0 0 22px}.workspace-tools button,.job-actions .save-job{background:white!important;color:#204d3b!important;border:1px solid #b8c7bd!important;padding:8px 13px!important;border-radius:5px!important;font-size:13px}.workspace-tools button[aria-pressed=true],.job-actions .save-job[aria-pressed=true]{background:#e7efe9!important}.job-actions{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:12px}.job-actions .apply{margin-top:0}#saveStatus{font-size:12px;color:#58625d}
 </style>
 <link rel="stylesheet" href="aiva-design.css?v=12"></head>
-<body><header><div class="wrap nav"><a class="brand" href="index.html">AIVA</a><nav class="navlinks" aria-label="Main navigation"><a href="index.html">Home</a><a href="career.html">Career Passport</a><a href="platform.html">Opportunities</a><a href="account.html">Account</a></nav></div></header>
+<body><header><div class="wrap nav"><a class="brand" href="index.html">AIVA</a><nav class="navlinks" aria-label="Main navigation"><a href="index.html">Home</a><a href="career.html">Career Passport</a><a href="platform.html">Opportunities</a><a href="account.html">Account</a><a href="trust.html">Trust & safety</a></nav></div></header>
 <main class="wrap">
 <div class="eyebrow">JOB SEARCH</div><h1>Find jobs</h1>
 <p class="lead">Explore opportunities from available employer and job-source feeds. Search by role or company, filter locations, and apply directly through the original employer listing.</p>
@@ -104,7 +104,7 @@ function draw(){
   const link=el('a','apply','View original listing / Apply ↗');link.href=job.url;link.target='_blank';link.rel='noopener noreferrer';
   const save=el('button','save-job',saved[job.url]?'Saved':'Save job');save.type='button';save.setAttribute('aria-pressed',String(!!saved[job.url]));save.addEventListener('click',()=>{if(saved[job.url])delete saved[job.url];else saved[job.url]={title:job.title,company:job.company||'',url:job.url,location:job.location||[],description:job.description||'',published:job.published||'',savedAt:new Date().toISOString()};saveState();updateTools();if(savedOnly)filter();else{save.textContent=saved[job.url]?'Saved':'Save job';save.setAttribute('aria-pressed',String(!!saved[job.url]))}});
   if(savedOnly){const note=el('p','details','Saved snapshot — check original posting for current availability.');card.append(note)}
-  const track=el('a','apply','Track application');track.href='tracker.html?'+new URLSearchParams({title:job.title,company:job.company||'',url:job.url});const actions=el('div','job-actions');actions.append(link,track,save);card.append(tag,heading,company,details,summary,actions);$('results').append(card);
+  const track=el('a','apply','Track application');track.href='tracker.html?'+new URLSearchParams({title:job.title,company:job.company||'',url:job.url});const report=el('a','apply','Report listing');report.href='https://github.com/panagiotagrosdouli/AIVA/issues/new?'+new URLSearchParams({title:'Listing report',body:'Listing URL: '+job.url+'\nDescribe the problem without personal information.'});report.target='_blank';report.rel='noopener noreferrer';const actions=el('div','job-actions');actions.append(link,track,save,report);card.append(tag,heading,company,details,summary,actions);$('results').append(card);
  }
  $('pager').hidden=pages<=1;$('pageLabel').textContent='Page '+page+' of '+Math.max(pages,1);$('prev').disabled=page===1;$('next').disabled=page>=pages;
 }
