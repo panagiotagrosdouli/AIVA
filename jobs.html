@@ -59,10 +59,10 @@ footer{border-top:1px solid #e7ebf2;background:#fbfcff;color:#75829a}
 footer a{color:#5f52dd}
 @media(max-width:730px){.wrap{padding-left:19px;padding-right:19px}.navlinks{gap:14px}.navlinks a{font-size:12px}main{padding-top:45px}.searchbar{grid-template-columns:1fr;padding:12px}#results{grid-template-columns:1fr}.job{min-height:auto}h1{font-size:44px}}
 </style>
-<link rel="stylesheet" href="aiva-design.css?v=9"></head>
+<link rel="stylesheet" href="aiva-design.css?v=10"></head>
 <body><header><div class="wrap nav"><a class="brand" href="index.html">AIVA</a><nav class="navlinks" aria-label="Main navigation"><a href="index.html">Home</a><a href="career.html">Career Passport</a><a href="platform.html">Opportunities</a><a href="account.html">Account</a></nav></div></header>
 <main class="wrap">
-<div class="eyebrow">DISCOVER YOUR NEXT MOVE</div><h1>Find a job that fits your future.</h1>
+<div class="eyebrow">REMOTE JOB SEARCH</div><h1>Find remote jobs</h1>
 <p class="lead">Explore opportunities from sourced remote job listings. Search by role or company, filter locations, and apply directly through the original employer listing.</p>
 <form id="searchForm" class="searchbar" role="search">
 <label><span class="sr-only" style="position:absolute;clip:rect(0,0,0,0);height:1px;width:1px;overflow:hidden">Job title, skill or company</span><input id="query" type="search" placeholder="Job title, skill or company" autocomplete="off"></label>
@@ -76,6 +76,7 @@ footer a{color:#5f52dd}
 <script>
 (()=>{'use strict';
 const $=id=>document.getElementById(id),perPage=12;
+$('query').value=new URLSearchParams(location.search).get('q')||'';
 let jobs=[],filtered=[],page=1,updated='';
 $('year').textContent=new Date().getFullYear();
 const safeUrl=value=>{try{const u=new URL(value);return u.protocol==='https:'?u.href:null}catch{return null}};
