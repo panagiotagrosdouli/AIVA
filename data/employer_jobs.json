@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T21:38:36.932349+00:00",
+  "updated_at": "2026-11-26T08:11:09.806378+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -4062,6 +4062,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:fea3133a-822a-43fa-b3a6-f37ef743f783",
+      "title": "Social Marketing Manager, Australia & New Zealand",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/fea3133a-822a-43fa-b3a6-f37ef743f783/apply",
+      "description": "Spotify is looking for a passionate and expert Social Marketing Manager for Australia and New Zealand market. This person is to drive the strategy, production and distribution of always-on content through Spotify paid and owned channels and help build local & regional marketing programs. \n\nAt Spotify, our mission is to provide the world’s best platform for artists, audio creators and fans. The AUNZ team at Spotify is responsible for driving innovative local content initiatives, including developing relationships with artists and labels, partnering with podcast and video creators, and understanding how users discover and consume content.\n\nIn this role you’ll develop creative concepts and provide coordination, support, and leadership to help external partners generate outstanding online and social media content.\n\nThe ideal candidate for this role is a creative hybrid with a strong social media background and experience in driving content initiatives forward from ideation to creation and distribution. Most importantly, you like to have fun at work and have a desire to make a positive im",
+      "location": [
+        "Sydney"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:d9e57c3c-1c0a-483b-a783-6d1c9f2ce057",
       "title": "Social Strategy Manager - Podcasts, Audiobooks & Fitness",
       "company": "Spotify",
@@ -4216,7 +4230,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 96
+      "roles": 97
     }
   ],
   "errors": []
