@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T08:22:36.655668+00:00",
+  "updated_at": "2026-11-27T21:13:10.870245+00:00",
   "jobs": [
     {
       "id": "ashby:d3bc1ced-3ce4-4086-a050-555055dbb1ff",
@@ -3236,6 +3236,20 @@
       "employer_verified_source": true
     },
     {
+      "id": "lever:5861816e-7ac4-4921-8e90-8e093707e27d",
+      "title": "Director of Engineering - Content Platform (Catalog)",
+      "company": "Spotify",
+      "url": "https://jobs.lever.co/spotify/5861816e-7ac4-4921-8e90-8e093707e27d/apply",
+      "description": "",
+      "location": [
+        "London"
+      ],
+      "published": null,
+      "expires": null,
+      "source": "Lever employer board",
+      "employer_verified_source": true
+    },
+    {
       "id": "lever:47aeb6ee-f8c9-4f1e-9197-25c4c5676e5d",
       "title": "Director of Sales - Emerging & Scaled (New Business)",
       "company": "Spotify",
@@ -4230,7 +4244,7 @@
     {
       "company": "Spotify",
       "provider": "lever",
-      "roles": 97
+      "roles": 98
     }
   ],
   "errors": []
